@@ -22,4 +22,4 @@ Links related to Azure Cloud Architecture.
 
 ## Optimisation
 - [How to optimize your Azure environment](https://azure.microsoft.com/en-gb/blog/how-to-optimize-your-azure-environment/)
-
+- [Securely connect to your Azure Virtual Machines – the options](https://www.compete366.com/blog-posts/securely-connect-to-your-azure-virtual-machines-the-options/)
