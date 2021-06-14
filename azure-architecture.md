@@ -10,6 +10,8 @@ Links related to Azure Cloud Architecture.
 - [Implementing a Layered Security Architecture with App Service Environments](https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-app-service-environment-layered-security)
 - [Enterprise-Scale - Reference Implementation - Github](https://github.com/Azure/Enterprise-Scale)
 - [Microsoft cloud for enterprise architects illustrations](https://docs.microsoft.com/en-gb/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide#security)
+- [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end)
+- [What are the Microsoft Azure’s Multi-Cloud and Cross-Platform Capabilities?](https://thecloudmarathoner.com/index.php/2021/06/07/what-are-the-microsoft-azures-multi-cloud-and-cross-platform-capabilities/)
 
 ### CAF
 - [The Beginner’s Guide to Microsoft’s Cloud Adoption Framework](https://n4stack.io/2020/05/13/beginners-guide-to-microsoft-cloud-adoption-framework/?utm_campaign=N4Stack%20-%20Azure%20Service%20Tiles&utm_content=161470645&utm_medium=social&utm_source=linkedin&hss_channel=lcp-29015331)
@@ -19,6 +21,7 @@ Links related to Azure Cloud Architecture.
 - [Deploy Enterprise-scale for small enterprises](https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/treyresearch/README.md)
 - [New Azure Security Benchmark Foundation helps organizations embrace zero trust](https://devblogs.microsoft.com/azuregov/new-azure-security-benchmark-foundation-helps-organizations-embrace-zero-trust/)
 - [Micro Focus Enterprise Server on Azure VMs](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mainframe/micro-focus-server)
+- [Use Application Gateway Ingress Controller (AGIC) with a multi-tenant Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/aks-agic/aks-agic)
 
 ## Optimisation
 - [How to optimize your Azure environment](https://azure.microsoft.com/en-gb/blog/how-to-optimize-your-azure-environment/)

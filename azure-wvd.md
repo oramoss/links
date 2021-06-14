@@ -15,6 +15,7 @@ Links related to Azure Windows Virtual Desktop.
 - [Multi Forest](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest)
 - [Getting Started with WVD](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-with-windows-virtual-desktop/ba-p/391054)
 - [Getting Started With WVD](https://ryanmangansitblog.com/2019/10/29/getting-started-with-windows-virtual-desktop-wvd-in-azure/)
+- [AVD SSO with ADFS](https://vdiclub-wordpress-com.cdn.ampproject.org/c/s/vdiclub.wordpress.com/2021/06/12/azure-virtual-desktop-sso-with-adfs/amp/)
 
 ## Miscellaneous
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)
