@@ -22,3 +22,6 @@ Links related to Azure App Service.
 - [Tutorial: Map an existing custom DNS name to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain)
 - [Integrate your app with an Azure virtual networ](https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet)
 
+## Miscellaneous
+- [CORS on IIS7 - Adding required headers for underlying CORS handling](https://enable-cors.org/server_iis7.html)
+- [Stack question with great explanation of CORS](https://stackoverflow.com/questions/43871637/no-access-control-allow-origin-header-is-present-on-the-requested-resource-whe)

@@ -20,6 +20,9 @@ Links related to Azure Networking.
 - [github - paolosalvatori/azure-firewall-dns-proxy-in-hub-and-spoke](https://github.com/paolosalvatori/azure-firewall-dns-proxy-in-hub-and-spoke)
 - [Azure Private Endpoint DNS configuration](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
 - [What is Azure Private DNS?](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview)
+- [DNS in Microsoft Azure – Part 1](https://journeyofthegeek.com/2019/11/14/dns-in-microsoft-azure-part-1/)
+- [DNS in Microsoft Azure – Part 2](https://journeyofthegeek.com/2019/11/21/dns-in-microsoft-azure-part-2/)
+- [DNS in Microsoft Azure – Part 3](https://journeyofthegeek.com/2019/11/24/dns-in-microsoft-azure-part-3/)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -72,10 +75,13 @@ Links related to Azure Networking.
 - [Application Gateway infrastructure configuration](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-infrastructure#network-security-groups)
 - [Deploying an ingress controller to an internal virtual network and fronted by an Azure Application Gateway with WAF](https://gaunacode.com/deploying-an-ingress-controller-to-an-internal-virtual-network-and-fronted-by-an-azure-application-gateway)
 - [What is Azure Application Gateway?](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
+- [Add Rewrite Rules, e.g. for CORS](https://i.stack.imgur.com/A7TWx.png)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
 - [Outbound NAT for Azure Virtual Machines](https://azurealan.ie/2020/04/27/outbound-nat-for-azure-virtual-machines/)
+- [Azure NAT Gateway for Security – Coffee with Conrad](https://www.agileit.com/news/azure-nat-gateway-security-coffee-with-conrad/)
+- [What is Virtual Network NAT?](https://docs.microsoft.com/en-us/azure/virtual-network/nat-overview)
 
 ## Firewall
 - [Use Azure Firewall as a DNS Proxy in a Hub and Spoke topology along with Private Endpoints](https://github.com/Azure/azure-quickstart-templates/tree/master/301-azure-firewall-dns-proxy)

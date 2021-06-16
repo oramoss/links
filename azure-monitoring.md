@@ -15,4 +15,13 @@ Links related to Azure Monitoring.
 - [Resource Manager template samples for diagnostic settings in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/resource-manager-diagnostic-settings)
 - [Set up diagnostics for Azure Cloud Services and virtual machines](https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-diagnostics-for-cloud-services-and-virtual-machines?view=vs-2019)
 
+## KQL
+- [KQL Cheat Sheet](https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet.pdf)
 
+## Log Analytics Workspaces
+- [Utilizing Azure Log Analytics Workspace for Azure Storage Account Logs](https://visualbi.com/blogs/microsoft/powerbi/utilizing-azure-log-analytics-workspace-azure-storage-account-logs/)
+
+## General
+- [Log Analytics Design and Access](https://www.shankuehn.io/post/log-analytics-design-and-access?WT.mc_id=enterprise-0000-shkuehn)
+- [Use the Linux diagnostic extension 4.0 to monitor metrics and logs](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-linux)
+- [Use Azure Private Link to securely connect networks to Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/private-link-security)

@@ -26,3 +26,6 @@ Links related to Azure Cloud Architecture.
 ## Optimisation
 - [How to optimize your Azure environment](https://azure.microsoft.com/en-gb/blog/how-to-optimize-your-azure-environment/)
 - [Securely connect to your Azure Virtual Machines – the options](https://www.compete366.com/blog-posts/securely-connect-to-your-azure-virtual-machines-the-options/)
+
+## Security
+- [What is the built-in vulnerability assessment tool in Azure Security Center?](https://techcommunity.microsoft.com/t5/azure-security-center/built-in-vulnerability-assessment-for-vms-in-azure-security/ba-p/1577947)

@@ -24,3 +24,4 @@ Links related to Azure Windows Virtual Desktop.
 - [Enterprise-scale support for the Windows Virtual Desktop construction set](https://lnkd.in/dn7V_Jg)
 - [Is Windows 10 multi-user a step in the right direction?](https://www.algiz-technology.com/windows-10-multi-user)
 - [Windows Virtual Desktop – The Good, The Bad and The Ugly.](https://www.algiz-technology.com/windows-virtual-desktop#:~:text=Windows%2010%20Enterprise%20for%20Virtual%20Desktops%20A%20multi-user,the%20above%20screenshot.%20This%20is%20an%20important%20distinction.)
+- [Getting started wizard in Azure Virtual Desktop](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/getting-started-wizard-in-azure-virtual-desktop/m-p/2451385)
