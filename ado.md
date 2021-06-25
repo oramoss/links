@@ -13,6 +13,7 @@ Links related to Azure DevOps.
 - [Powershell task](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/utility/powershell?view=azure-devops)
 - [How To Test PowerShell Scripts With WhatIf](https://www.pluralsight.com/blog/software-development/test-powershell-with-whatif)
 - [Building an Azure Devops Pipeline [Soup to Nuts]](https://adamtheautomator.com/azure-devops-pipeline-infrastructure/)
+- [Step by step: Setup a CICD pipeline in Azure DevOps for ARM templates](https://4bes.nl/2020/06/14/step-by-step-setup-a-cicd-pipeline-in-azure-devops-for-arm-templates/)
 
 ## Deploying
 - [Azure Functions: Deploying from VS Code and Azure DevOps](https://cloudskills.io/blog/azure-functions-deploy)

@@ -25,3 +25,4 @@ Links related to Azure Monitoring.
 - [Log Analytics Design and Access](https://www.shankuehn.io/post/log-analytics-design-and-access?WT.mc_id=enterprise-0000-shkuehn)
 - [Use the Linux diagnostic extension 4.0 to monitor metrics and logs](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-linux)
 - [Use Azure Private Link to securely connect networks to Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/private-link-security)
+- [Monitor scheduled events for your Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/scheduled-event-service)

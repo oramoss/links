@@ -42,3 +42,6 @@ Links related to Microsoft SQL Database.
 
 ## Elastic
 - [Azure SQL Database elastic query overview (preview)](https://docs.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview)
+
+## VM
+- [Windows Server Failover Cluster with SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/hadr-windows-server-failover-cluster-overview)

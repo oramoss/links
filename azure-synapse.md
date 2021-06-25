@@ -16,7 +16,7 @@ Links related to Microsoft Synapse.
 ## Videos
 - [Intro to Azure Synapse Analytics](https://www.youtube.com/watch?v=BNNW1whKrIk&feature=youtu.be&utm_content=145801297&utm_medium=social&utm_source=linkedin&hss_channel=lcp-15210062)
 - [Data cleansing and prep with synapse data flows, Mark Kromer](https://www.slideshare.net/kromerm/data-cleansing-and-prep-with-synapse-data-flows)
-
+- [Tech Labs Series - CICD for your DDL and DML code in Synapse Analytics](yqHwaX-rk&feature=youtu.be)
 
 ## Training
 - [Azure Synapse Analytics - Serverless SQL Pool](https://www.hitachi-solutions.co.uk/blog/2021/05/azure-synapse-analytics---serverless-sql-pool-dv-ss/)

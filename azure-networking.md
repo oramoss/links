@@ -23,6 +23,8 @@ Links related to Azure Networking.
 - [DNS in Microsoft Azure – Part 1](https://journeyofthegeek.com/2019/11/14/dns-in-microsoft-azure-part-1/)
 - [DNS in Microsoft Azure – Part 2](https://journeyofthegeek.com/2019/11/21/dns-in-microsoft-azure-part-2/)
 - [DNS in Microsoft Azure – Part 3](https://journeyofthegeek.com/2019/11/24/dns-in-microsoft-azure-part-3/)
+- [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+- [DNS for on-premises and Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/dns-for-on-premises-and-azure-resources)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -44,6 +46,7 @@ Links related to Azure Networking.
 - [Zero trust networking - lessons for leaders](https://www.microsoft.com/en-us/itshowcase/zero-trust-networking-sharing-lessons-for-leaders)
 - [AZURE PRACTICAL: PEER-TO-PEER TRANSITIVE ROUTING](https://blog.ine.com/azure-practical-peer-to-peer-transitive-routing)
 - [How to connect VNETs in different Azure regions?](https://blog.nillsf.com/index.php/2020/03/18/how-to-connect-vnets-in-different-azure-regions/)
+- [How to Architect an Azure Firewall with a VPN Gateway](https://www.petri.com/how-to-architect-an-azure-firewall-with-a-vpn-gateway)
 
 ## Tagging
 - [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
@@ -85,6 +88,9 @@ Links related to Azure Networking.
 
 ## Firewall
 - [Use Azure Firewall as a DNS Proxy in a Hub and Spoke topology along with Private Endpoints](https://github.com/Azure/azure-quickstart-templates/tree/master/301-azure-firewall-dns-proxy)
+- [How is Azure Firewall different from Network Security Groups?](https://www.svenmalvik.com/azure-nsg-vs-firewall/)
+- [Do you actually need a firewall?](https://www.linkedin.com/pulse/azure-do-you-actually-need-firewall-matthew-bradley/)
+- [https://charbelnemnom.com/how-to-configure-just-in-time-vm-access-for-azure-firewall-in-azure-security-center/](https://charbelnemnom.com/how-to-configure-just-in-time-vm-access-for-azure-firewall-in-azure-security-center/)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)

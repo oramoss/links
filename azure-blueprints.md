@@ -11,6 +11,7 @@ Links related to Azure Blueprints.
 - [ARCHITECT YOUR CLOUD WITH AZURE BLUEPRINTS](http://www.buchatech.com/2018/09/architect-your-cloud-with-azure-blueprints/)
 - [Managing Azure Blueprints with PowerShell](https://www.mssqltips.com/sqlservertip/6551/managing-azure-blueprints-with-powershell/)
 - [Getting Started with Azure Blueprints [With Step-by-Step Demo]](https://adamtheautomator.com/getting-started-with-azure-blueprints-with-step-by-step-demo/)
+- [Azure Blueprints – Overview](https://marcelzehner.ch/2018/10/04/azure-blueprints-overview/)
 
 ## Documentation
 - [Microsoft Main page for Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/)

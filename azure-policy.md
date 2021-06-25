@@ -11,6 +11,8 @@ Links related to Azure Policy.
 - [Azure policy by ARM template](https://wedoazure.ie/2019/09/30/how-to-azure-policy-via-arm-template/)
 - [Tutorial: Implement Azure Policy as Code with GitHub](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/policy-as-code-github)
 - [Azure Policy – Perform policy operations through Azure DevOps](https://techcommunity.microsoft.com/t5/azure-paas-blog/azure-policy-perform-policy-operations-through-azure-devops/ba-p/2045515)
+- [Using ARM templates to deploy Azure Policy initiatives](https://andrewmatveychuk.com/using-arm-templates-to-deploy-azure-policy-initiatives/)
 
 ## Miscellaneous
 - [Azure Policy Testing - github](https://github.com/fawohlsc/azure-policy-testing)
+- [Azure Policy initiative definition structure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure)

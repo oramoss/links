@@ -33,6 +33,7 @@ Links related to Virtual Machine.
 - [Lost RDP Access due to Firewall - reset method via Portal    ](https://serverfault.com/questions/769768/lost-rdp-access-to-vm-azure-after-firewall-changes)
 - [Optimizing VMs in Azure](https://virtualizationreview.com/articles/2018/08/07/optimizing-vms-in-azure.aspx)
 - [ENABLING DISK ENCRYPTION ON VIRTUAL MACHINES IN AZURE](https://www.fredrikengseth.com/enabling-disk-encryption-on-virtual-machines-in-azure/)
+- [Change VM Zone script](https://github.com/kpantos/azure-automation/blob/master/powershell/change-vm-zone.ps1)
 
 ## Imaging
 - [Creating An Azure VM From The VHDX/VHD File](https://www.c-sharpcorner.com/article/creating-an-azure-vm-from-the-vhdxvhd-file/)
@@ -48,9 +49,16 @@ Links related to Virtual Machine.
 ## Extensions
 - [ARM template for Azure VM with Guest Configuration](https://azsec.azurewebsites.net/2020/03/22/arm-template-for-azure-vm-with-guest-configuration/)
 - [Join a Windows Server virtual machine to an Azure Active Directory Domain Services managed domain using a Resource Manager template](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/join-windows-vm-template)
+- [Custom Script Extension for Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows)
 
 ## Performance
 - [Comparing Azure Premium and UltraSSD disks](https://blog.dirkallaert.be/2020/04/03/comparing-azure-premium-and-ultrassd-disks/#:~:text=In%20comparison%20with%20on-premise%20SSD%20based%20storage%20the,the%20neighborhood%20of%202-4ms%20when%20caching%20is%20disabled.)
 
 ## Security
 - [What is the built-in vulnerability assessment tool in Azure Security Center?](https://techcommunity.microsoft.com/t5/azure-security-center/built-in-vulnerability-assessment-for-vms-in-azure-security/ba-p/1577947)
+
+## SQL IaaS
+- [Windows Server Failover Cluster with SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/hadr-windows-server-failover-cluster-overview)
+
+## Monitoring
+- [Monitor scheduled events for your Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/scheduled-event-service)
