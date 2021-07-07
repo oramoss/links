@@ -12,6 +12,7 @@ Links related to Azure Cloud Architecture.
 - [Microsoft cloud for enterprise architects illustrations](https://docs.microsoft.com/en-gb/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide#security)
 - [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end)
 - [What are the Microsoft Azure’s Multi-Cloud and Cross-Platform Capabilities?](https://thecloudmarathoner.com/index.php/2021/06/07/what-are-the-microsoft-azures-multi-cloud-and-cross-platform-capabilities/)
+- [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 
 ### CAF
 - [The Beginner’s Guide to Microsoft’s Cloud Adoption Framework](https://n4stack.io/2020/05/13/beginners-guide-to-microsoft-cloud-adoption-framework/?utm_campaign=N4Stack%20-%20Azure%20Service%20Tiles&utm_content=161470645&utm_medium=social&utm_source=linkedin&hss_channel=lcp-29015331)
@@ -29,3 +30,9 @@ Links related to Azure Cloud Architecture.
 
 ## Security
 - [What is the built-in vulnerability assessment tool in Azure Security Center?](https://techcommunity.microsoft.com/t5/azure-security-center/built-in-vulnerability-assessment-for-vms-in-azure-security/ba-p/1577947)
+
+## Costs
+- [Customize cost data visualizations with Azure Workbooks and Azure Cost Management](https://techcommunity.microsoft.com/t5/itops-talk-blog/customize-cost-data-visualizations-with-azure-workbooks-and/ba-p/2387779)
+
+## Data Warehousing
+- [The Extinction of Enterprise Data Warehousing](https://piethein.medium.com/the-extinction-of-enterprise-data-warehousing-570b0034f47f)

@@ -11,6 +11,7 @@ Links related to Azure Networking.
 - [Use virtual network service endpoints and rules for servers in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview)
 - [A deepdive into Azure networking](https://www.slideshare.net/kvaes/a-deepdive-into-azure-networking?qid=af8941ed-d2b2-43ea-9424-aaae606e66d1&v=&b=&from_search=1)
 - [Azure Network Security Groups: 10 suggestions for best practice!](https://www.kainos.com/azure-network-security-groups-10-suggestions-for-best-practice)
+- [Azure Network Security webinar: Azure Network Advanced Architecture](https://www.youtube.com/watch?v=qKjTu-kut40)
 
 ## DNS
 - [Azure Private Link and DNS – Part 1](https://journeyofthegeek.com/2020/03/05/azure-private-link-and-dns-part-1/)
@@ -25,6 +26,8 @@ Links related to Azure Networking.
 - [DNS in Microsoft Azure – Part 3](https://journeyofthegeek.com/2019/11/24/dns-in-microsoft-azure-part-3/)
 - [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
 - [DNS for on-premises and Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/dns-for-on-premises-and-azure-resources)
+- [Azure Private Endpoint DNS configuration](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
+- [Managing Domains, Trusts, and DNS](https://www.informit.com/articles/article.aspx?p=130843&seqNum=4)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -79,6 +82,9 @@ Links related to Azure Networking.
 - [Deploying an ingress controller to an internal virtual network and fronted by an Azure Application Gateway with WAF](https://gaunacode.com/deploying-an-ingress-controller-to-an-internal-virtual-network-and-fronted-by-an-azure-application-gateway)
 - [What is Azure Application Gateway?](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
 - [Add Rewrite Rules, e.g. for CORS](https://i.stack.imgur.com/A7TWx.png)
+- [Application Gateway support for multi-tenant back ends such as App service](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-app-overview)
+- [Troubleshoot App Service issues in Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/troubleshoot-app-service-redirection-app-service-url)
+- [Rewrite HTTP headers and URL with Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-url)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
@@ -105,3 +111,5 @@ Links related to Azure Networking.
 
 ## Bastion
 - [Securing Remote Virtual Machines Using Azure Bastion](https://petri.com/securing-remote-virtual-machines-using-azure-bastion)
+- [VNET Peering](https://docs.microsoft.com/en-us/azure/bastion/vnet-peering)
+- [Connect to a Windows virtual machine using Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp)

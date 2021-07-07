@@ -1,6 +1,9 @@
 # Microsoft Storage
 Links related to Microsoft Storage.
 
+## Storage Spaces
+- [Storage Spaces: Frequently Asked Questions (FAQ)](https://social.technet.microsoft.com/wiki/contents/articles/11382.storage-spaces-frequently-asked-questions-faq.aspx#What_are_columns_and_how_does_Storage_Spaces_decide_how_many_to_use)
+
 ## Disks
 - [Overview of Azure Disk Backup (in preview)](https://docs.microsoft.com/en-us/azure/backup/disk-backup-overview)
 
@@ -19,6 +22,7 @@ Links related to Microsoft Storage.
 ## Miscellaneous
 - [Azure Data Engineering: Azure Blob Storage vs. Azure Data Lake Storage Gen2](https://www.linkedin.com/pulse/azure-data-engineering-series-part-1-blob-storage-vs-lake-grandy?trk=public_profile_article_view)
 - [Part one: enable AD DS authentication for your Azure file shares](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-ad-ds-enable)
+- [Overview - on-premises Active Directory Domain Services authentication over SMB for Azure file shares](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-active-directory-enable)
 
 ## ADLS
 - [Designing an Azure Data Lake Store Gen2](https://www.mssqltips.com/sqlservertip/6807/design-azure-data-lake-store-gen2/)
