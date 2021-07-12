@@ -24,6 +24,10 @@ Links related to Microsoft Storage.
 - [Part one: enable AD DS authentication for your Azure file shares](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-ad-ds-enable)
 - [Overview - on-premises Active Directory Domain Services authentication over SMB for Azure file shares](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-active-directory-enable)
 
+## Redundancy
+- [Understanding Azure storage redundancy offerings](https://techcommunity.microsoft.com/t5/azure-storage/understanding-azure-storage-redundancy-offerings/ba-p/1431700)
+- [Azure Storage redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy#geo-zone-redundant-storage)
+
 ## ADLS
 - [Designing an Azure Data Lake Store Gen2](https://www.mssqltips.com/sqlservertip/6807/design-azure-data-lake-store-gen2/)
 

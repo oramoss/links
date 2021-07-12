@@ -97,6 +97,7 @@ Links related to Azure Networking.
 - [How is Azure Firewall different from Network Security Groups?](https://www.svenmalvik.com/azure-nsg-vs-firewall/)
 - [Do you actually need a firewall?](https://www.linkedin.com/pulse/azure-do-you-actually-need-firewall-matthew-bradley/)
 - [https://charbelnemnom.com/how-to-configure-just-in-time-vm-access-for-azure-firewall-in-azure-security-center/](https://charbelnemnom.com/how-to-configure-just-in-time-vm-access-for-azure-firewall-in-azure-security-center/)
+- [Azure Firewall and TLS Inspection](https://journeyofthegeek.com/2021/07/05/azure-firewall-and-tls-inspection/amp/)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)

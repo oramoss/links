@@ -54,6 +54,7 @@ Links related to Virtual Machine.
 ## Performance
 - [Comparing Azure Premium and UltraSSD disks](https://blog.dirkallaert.be/2020/04/03/comparing-azure-premium-and-ultrassd-disks/#:~:text=In%20comparison%20with%20on-premise%20SSD%20based%20storage%20the,the%20neighborhood%20of%202-4ms%20when%20caching%20is%20disabled.)
 - [Overview of Azure Virtual Machine IO performance and throttles](https://sabin.io/blog/overview-of-azure-virtual-machine-io-performance-and-throttles/)
+- [Monitoring virtual machines with Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine?WT.mc_id=enterprise-0000-shkuehn)
 
 ## Security
 - [What is the built-in vulnerability assessment tool in Azure Security Center?](https://techcommunity.microsoft.com/t5/azure-security-center/built-in-vulnerability-assessment-for-vms-in-azure-security/ba-p/1577947)

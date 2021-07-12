@@ -29,3 +29,4 @@ Links related to Azure Monitoring.
 - [Monitor scheduled events for your Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/scheduled-event-service)
 - [Azure Monitor Log Analytics too Expensive? Part 1 - Find Out Why](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
 - [Azure Monitor and Azure Log Analytics - When to use which](https://samcogan.com/azure-monitor-and-azure-log-analytics-when-to-use-which/)
+- [Monitoring virtual machines with Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine?WT.mc_id=enterprise-0000-shkuehn)

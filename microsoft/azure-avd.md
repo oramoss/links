@@ -17,6 +17,7 @@ Links related to Azure Windows Virtual Desktop.
 - [Getting Started With WVD](https://ryanmangansitblog.com/2019/10/29/getting-started-with-windows-virtual-desktop-wvd-in-azure/)
 - [AVD SSO with ADFS](https://vdiclub-wordpress-com.cdn.ampproject.org/c/s/vdiclub.wordpress.com/2021/06/12/azure-virtual-desktop-sso-with-adfs/amp/)
 - [SSO using AD FS is now generally available!](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/sso-using-ad-fs-is-now-generally-available/m-p/2502963#M7364)
+- [Protecting Windows Virtual Desktops Session Hosts Using Azure Recovery Services Vault](https://paulomarquesc.github.io/Backing-up-Session-Hosts-Using-Azure-Recovery-Services-Vault/)
 
 ## Miscellaneous
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)
@@ -35,3 +36,5 @@ Links related to Azure Windows Virtual Desktop.
 - [Shut Down Unused Session Hosts in a Windows Virtual Desktop Pooled or Personal Host Pool](https://www.ciraltos.com/shut-down-unused-session-hosts-in-a-windows-virtual-desktop-personal-host-pool/)
 - [How to use Microsoft WVD, Windows 10 multi-session, FSLogix, & MSIX app attach to build an Azure-powered virtual desktop experience](https://www.jasonsamuel.com/2020/03/02/how-to-use-microsoft-wvd-windows-10-multi-session-fslogix-msix-app-attach-to-build-an-azure-powered-virtual-desktop-experience/)
 - [Start VM on Connect for Pooled and Personal Host Pools in WVD](https://wvdlogix.net/startvmonconnect)
+- [Implement Windows Virtual Desktop using Azure AD Domain service and Azure file storage.](https://www.youtube.com/watch?v=dILWfJSkTXc)
+- [Windows Virtual Desktop Real-world Demos, Pricing and ROI Numbers, Experience Shares and Guidance](https://www.youtube.com/watch?v=DwSyycZALLY&t=6270s)
