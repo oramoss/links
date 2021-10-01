@@ -23,6 +23,7 @@ Links related to ARM.
 - [Azure Resource Governance with Template Specs & Biceps](https://moimhossain.com/2020/11/27/azure-resource-governance-with-template-specs-biceps/)
 - [Azure Template Specs managed via Azure DevOps with bicep](https://msftplayground.com/2021/03/azure-template-specs-managed-via-azure-devops/)
 - [Tutorial: Create a template spec with linked templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-specs-create-linked?tabs=azure-powershell)
+- [ARM Template Specs deep dive](https://www.youtube.com/watch?v=l-MtfehL80k)
 
 ## Parameter Files
 - [Parameter Files](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/parameter-files)
@@ -34,6 +35,7 @@ Links related to ARM.
 - [Use a deployment button to deploy templates from GitHub repository](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button)
 - [Tutorial: Deploy virtual machine extensions with ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-deploy-vm-extensions)
 - [Matt Felton GitHub - Simple Landing Zone](https://github.com/mattfeltonma/azure-labs/tree/master/simple-landing-zone)
+- [There is a new way to reference managed identity in ARM template](https://www.codeisahighway.com/there-is-a-new-way-to-reference-managed-identity-in-arm-template/)
 
 ## Powershell DSC
 - [Getting started with PowerShell Desired State Configuration (DSC)](https://octopus.com/blog/getting-started-with-powershell-dsc#:~:text=PowerShell%20DSC%20is%20an%20Infrastructure,configure%20your%20Windows%2Dbased%20computers.)
@@ -42,6 +44,7 @@ Links related to ARM.
 - [Application gateway is in a failed state - How to edit resources without Portal](https://codedbeard.com/application-gateway-is-in-a-failed-state/)
 - [ARM template for Azure VM with Guest Configuration](https://azsec.azurewebsites.net/2020/03/22/arm-template-for-azure-vm-with-guest-configuration/)
 - [How to add Dependency Agent to VM in Azure using PowerShell and ARM Template](https://abcdazure.azurewebsites.net/how-to-add-dependency-agent-to-vm-in-azure-using-powershell-and-arm-template/)
+- [Generating Unique GUIDs in Azure Resource Manager Templates](https://blog.tyang.org/2018/01/09/generating-unique-guids-in-azure-resource-manager-templates/)
 
 # Desired State Configuration
 - [Azure Automation Configuring Desired State Configuration](https://www.schutten.cloud/Azure-Automation-Configuring-Desired-State-Configuration)

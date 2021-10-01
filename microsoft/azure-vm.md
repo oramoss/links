@@ -34,6 +34,8 @@ Links related to Virtual Machine.
 - [Optimizing VMs in Azure](https://virtualizationreview.com/articles/2018/08/07/optimizing-vms-in-azure.aspx)
 - [ENABLING DISK ENCRYPTION ON VIRTUAL MACHINES IN AZURE](https://www.fredrikengseth.com/enabling-disk-encryption-on-virtual-machines-in-azure/)
 - [Change VM Zone script](https://github.com/kpantos/azure-automation/blob/master/powershell/change-vm-zone.ps1)
+- [Change All Windows Servers to TLS 1.2 with PowerShell!](https://www.shankuehn.io/post/change-all-windows-servers-to-tls-1-2-with-powershell)
+- [How to run scripts against multiple Azure VMs by using Run Command](https://www.thomasmaurer.ch/2021/03/how-to-run-scripts-against-multiple-azure-vms-by-using-run-command/)
 
 ## Imaging
 - [Creating An Azure VM From The VHDX/VHD File](https://www.c-sharpcorner.com/article/creating-an-azure-vm-from-the-vhdxvhd-file/)
@@ -42,6 +44,11 @@ Links related to Virtual Machine.
 - [Prepare a Windows VHD or VHDX to upload to Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image)
 - [Create a WIM file from the WVD VHD file.](https://www.microcloud.nl/create-a-wim-file-from-the-wvd-vhd-file)
 - [bginfo tool](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
+- [How to Get a Windows 11 ISO File and Do a Clean Install](https://www.tomshardware.com/how-to/clean-install-windows-11)
+- [Building VM Images Using Azure Image Builder](https://www.pluralsight.com/courses/building-vm-images-using-azure-image-builder)
+
+## Desired State Configuration
+- [Azure & Desired State Configuration Part 1/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-1-4/ba-p/2609032)
 
 ## Hyper-V
 - [Hyper-V Network Adapters: What, Why, and How](https://www.nakivo.com/blog/hyper-v-network-adapters-what-why-and-how/)
@@ -50,6 +57,7 @@ Links related to Virtual Machine.
 - [ARM template for Azure VM with Guest Configuration](https://azsec.azurewebsites.net/2020/03/22/arm-template-for-azure-vm-with-guest-configuration/)
 - [Join a Windows Server virtual machine to an Azure Active Directory Domain Services managed domain using a Resource Manager template](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/join-windows-vm-template)
 - [Custom Script Extension for Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows)
+- [Register SQL Server VM with SQL IaaS Agent Extension](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-agent-extension-manually-register-single-vm?tabs=bash%2Cazure-cli)
 
 ## Performance
 - [Comparing Azure Premium and UltraSSD disks](https://blog.dirkallaert.be/2020/04/03/comparing-azure-premium-and-ultrassd-disks/#:~:text=In%20comparison%20with%20on-premise%20SSD%20based%20storage%20the,the%20neighborhood%20of%202-4ms%20when%20caching%20is%20disabled.)

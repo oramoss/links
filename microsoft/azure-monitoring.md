@@ -9,6 +9,8 @@ Links related to Azure Monitoring.
 - [Monitor Elevate Access Activity in Azure with Azure Sentinel](https://samilamppu.com/2021/02/09/monitor-elevate-access-activity-in-azure-with-azure-sentinel/)
 - [Best practices for monitoring Microsoft Azure platform logs](https://www.datadoghq.com/blog/monitoring-azure-platform-logs/)
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)
+- [Azure Monitor - Alert Notification via Teams](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-alert-notification-via-teams/ba-p/2507676)
+- [Create Automation Account Runbook job failure alert](https://docs.microsoft.com/en-us/azure/automation/automation-alert-metric)
 
 ## Logging
 - [Use monitoring and diagnostics with a Windows VM and Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-template)
@@ -18,6 +20,7 @@ Links related to Azure Monitoring.
 
 ## KQL
 - [KQL Cheat Sheet](https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet.pdf)
+- [Kusto 101 – A Jumpstart Guide to KQL](https://squaredup.com/blog/kusto-101-a-jumpstart-guide-to-kql/)
 
 ## Log Analytics Workspaces
 - [Utilizing Azure Log Analytics Workspace for Azure Storage Account Logs](https://visualbi.com/blogs/microsoft/powerbi/utilizing-azure-log-analytics-workspace-azure-storage-account-logs/)
@@ -30,3 +33,10 @@ Links related to Azure Monitoring.
 - [Azure Monitor Log Analytics too Expensive? Part 1 - Find Out Why](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
 - [Azure Monitor and Azure Log Analytics - When to use which](https://samcogan.com/azure-monitor-and-azure-log-analytics-when-to-use-which/)
 - [Monitoring virtual machines with Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine?WT.mc_id=enterprise-0000-shkuehn)
+- [Azure Monitor Agent and Data Collection Rule Overview](https://lnkd.in/gFpfkFA)
+- [GitHub - TyConsulting - All Diagnostics configs](https://github.com/tyconsulting/azurepolicy/tree/master/arm-templates/diagnostic-settings)
+- [Monitoring solutions in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/solutions?tabs=portal)
+- [Columbia Uni Azure pages](https://confluence.columbia.edu/confluence/display/CSVM/Cloud+Security+Monitoring)
+- [How to be successful with monitoring in Azure](https://www.youtube.com/watch?app=desktop&v=kejgiZ_tGFc&feature=youtu.be)
+- [Monitor Activity Log Alert should exist for Create Policy Assignment](https://docs.fugue.co/FG_R00320.html)
+- [A Governance Plan for Managing Overrides to Azure Monitor and Azure Sentinel Rules](https://blog.johnjoyner.net/a-governance-plan-for-managing-overrides-to-azure-monitor-and-azure-sentinel-rules/)

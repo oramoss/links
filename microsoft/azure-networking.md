@@ -28,6 +28,8 @@ Links related to Azure Networking.
 - [DNS for on-premises and Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/dns-for-on-premises-and-azure-resources)
 - [Azure Private Endpoint DNS configuration](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
 - [Managing Domains, Trusts, and DNS](https://www.informit.com/articles/article.aspx?p=130843&seqNum=4)
+- [Virtual network and on-premises workloads using a DNS forwarder](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns#virtual-network-and-on-premises-workloads-using-a-dns-forwarder)
+- [DNS Best Practices: The Definitive Guide](https://activedirectorypro.com/dns-best-practices/)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -50,6 +52,9 @@ Links related to Azure Networking.
 - [AZURE PRACTICAL: PEER-TO-PEER TRANSITIVE ROUTING](https://blog.ine.com/azure-practical-peer-to-peer-transitive-routing)
 - [How to connect VNETs in different Azure regions?](https://blog.nillsf.com/index.php/2020/03/18/how-to-connect-vnets-in-different-azure-regions/)
 - [How to Architect an Azure Firewall with a VPN Gateway](https://www.petri.com/how-to-architect-an-azure-firewall-with-a-vpn-gateway)
+- [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
+- [Choosing the right networking hub in Azure (VWan/HubSpoke)](https://techcommunity.microsoft.com/t5/azure-architecture-blog/choosing-the-right-networking-hub-in-azure/ba-p/1802870)
+- [Migrate to Azure Virtual WAN (from HubSpoke)](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
 
 ## Tagging
 - [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
@@ -57,6 +62,8 @@ Links related to Azure Networking.
 ## Security
 - [How to Shut Off Public Connectivity to Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=9JVNX2JCmDQ)
 - [How to Architect an Azure Firewall with a VPN Gateway](https://petri.com/how-to-architect-an-azure-firewall-with-a-vpn-gateway)
+- [Firewall Considerations – Windows Virtual Desktop (WVD)](https://ryanmangansitblog.com/2020/05/11/firewall-considerations-windows-virtual-desktop-wvd/)
+- [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
 
 ## sFTP
 - [https://charbelnemnom.com/how-to-deploy-sftp-service-on-microsoft-azure/](https://charbelnemnom.com/how-to-deploy-sftp-service-on-microsoft-azure/)
@@ -85,12 +92,16 @@ Links related to Azure Networking.
 - [Application Gateway support for multi-tenant back ends such as App service](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-app-overview)
 - [Troubleshoot App Service issues in Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/troubleshoot-app-service-redirection-app-service-url)
 - [Rewrite HTTP headers and URL with Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-url)
+- [Securing App Service with Easy Auth behind a Public Application Gateway](https://www.cloudwithchris.com/blog/secure-app-service-with-easy-auth-and-app-gateway-public/)
+- [Create an application gateway with HTTP to HTTPS redirection using the Azure portal](https://docs.microsoft.com/en-us/azure/application-gateway/redirect-http-to-https-portal)
+- [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
 - [Outbound NAT for Azure Virtual Machines](https://azurealan.ie/2020/04/27/outbound-nat-for-azure-virtual-machines/)
 - [Azure NAT Gateway for Security – Coffee with Conrad](https://www.agileit.com/news/azure-nat-gateway-security-coffee-with-conrad/)
 - [What is Virtual Network NAT?](https://docs.microsoft.com/en-us/azure/virtual-network/nat-overview)
+- [Azure Firewall with Static Outbound Public IP – Azure NAT Gateway](https://www.sanganakauthority.com/2021/07/azure-firewall-with-static-outbound.html?m=1)
 
 ## Firewall
 - [Use Azure Firewall as a DNS Proxy in a Hub and Spoke topology along with Private Endpoints](https://github.com/Azure/azure-quickstart-templates/tree/master/301-azure-firewall-dns-proxy)
@@ -98,6 +109,10 @@ Links related to Azure Networking.
 - [Do you actually need a firewall?](https://www.linkedin.com/pulse/azure-do-you-actually-need-firewall-matthew-bradley/)
 - [https://charbelnemnom.com/how-to-configure-just-in-time-vm-access-for-azure-firewall-in-azure-security-center/](https://charbelnemnom.com/how-to-configure-just-in-time-vm-access-for-azure-firewall-in-azure-security-center/)
 - [Azure Firewall and TLS Inspection](https://journeyofthegeek.com/2021/07/05/azure-firewall-and-tls-inspection/amp/)
+- [Azure Firewall with Static Outbound Public IP – Azure NAT Gateway](https://www.sanganakauthority.com/2021/07/azure-firewall-with-static-outbound.html?m=1)
+- [Firewall Considerations – Windows Virtual Desktop (WVD)](https://ryanmangansitblog.com/2020/05/11/firewall-considerations-windows-virtual-desktop-wvd/)
+- [How to Set up an Azure Firewall (And Why Not NSGS)](https://adamtheautomator.com/azure-firewall/)
+- [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)
@@ -109,8 +124,16 @@ Links related to Azure Networking.
 - [Reset a VPN gateway or a connection](https://docs.microsoft.com/en-gb/azure/vpn-gateway/reset-gateway)
 - [What is VPN Gateway?](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
 - [Highly Available Cross-Premises and VNet-to-VNet Connectivity](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
+- [Step 7. (Optional) Conditional access for VPN connectivity using Azure AD](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/ad-ca-vpn-connectivity-windows10?WT.mc_id=linkedin)
 
 ## Bastion
 - [Securing Remote Virtual Machines Using Azure Bastion](https://petri.com/securing-remote-virtual-machines-using-azure-bastion)
 - [VNET Peering](https://docs.microsoft.com/en-us/azure/bastion/vnet-peering)
 - [Connect to a Windows virtual machine using Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp)
+
+## Training
+- [John Savill - AZ700](https://lnkd.in/g8e7ADy)
+
+## Miscellaneous
+- [Get the List of All Azure VMs With All Their Private and Public IPs](https://mihai-albert.com/2020/10/01/get-the-list-of-all-azure-vms-with-all-their-private-and-public-ips/)
+- [Intranet site is identified as an Internet site when you use an FQDN or an IP address](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/intranet-site-identified-as-an-internet-site)

@@ -46,6 +46,7 @@ This repository has a list of links to various articles, books, videos, blogs an
 ### General
 - [APIs](./general/api.md)
 - [Architecture](./general/architecture.md)
+- [Data Engineering](./general/dataengineering.md)
 - [DevOps](./general/devops.md)
 - [General Networking](./general/general-networking.md)
 - [Markdown & YAML](./general/markdownyaml.md)

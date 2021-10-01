@@ -10,14 +10,19 @@ Links related to Azure Security.
 - [How much security is ‘enough’ security? Looking at Microsoft 365 Defender vs. Azure Sentinel](https://www.itpromentor.com/m365-defender-vs-sentinel/)
 - [Best practices for Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/best-practices)
 - [Protecting Your Environment - John Savill](https://www.youtube.com/watch?app=desktop&v=1dCRq15Vpwo&feature=youtu.be)
+- [Azure Active Directory security operations guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction)
+- [Cloud security functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security)
+- [MS Security hub](https://azure.microsoft.com/en-us/product-categories/security/)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)
 - [Export Certificate with password from Azure Key Vault](https://coombes.nz/blog/azure-keyvault-export-certificate/)
+- [Network Security Dashboard for Security Center](https://github.com/Azure/Azure-Security-Center/tree/main/Workbooks/Network%20Security%20Dashboard)
 
 ## RBAC
 - [Azure built-in roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
 - [Understanding Azure Storage Data Access Permissions](https://www.schaeflein.net/understanding-azure-storage-data-access-permissions/)
+- [Azure built-in roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
 
 ## Firewall
 - [Azure Firewall Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/firewalls/)
@@ -48,6 +53,7 @@ Links related to Azure Security.
 - [AAD Authentication Service Principal](https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-service-principal-tutorial#assign-an-identity-to-the-azure-sql-logical-server)
 - [App Registrations vs Enterprise Apps](https://www.seb8iaan.com/the-difference-between-azuread-app-registrations-and-enterprise-applications-explained/)
 - [User Assigned Identity using an ARM template for an App Service](https://gaunacode.com/app-service-user-assigned-identity-using-an-arm-template)
+- [There is a new way to reference managed identity in ARM template](https://www.codeisahighway.com/there-is-a-new-way-to-reference-managed-identity-in-arm-template/)
 
 ## Applications
 - [Acquire a token from Azure AD for authorizing requests from a client application](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-app)
@@ -68,3 +74,10 @@ Links related to Azure Security.
 - [Azure Application Gateway Standard v2 and WAF v2 SKUs generally available](https://azure.microsoft.com/en-gb/updates/azure-application-gateway-standardv2-wafv2-skus-generally-available/)
 - [Taking advantage of the new Azure Application Gateway V2](https://azure.microsoft.com/en-gb/blog/taking-advantage-of-the-new-azure-application-gateway-v2/)
 - [Azure Network Security webinar: Protecting your web apps with Azure Web Application Firewall (WAF)](https://www.youtube.com/watch?v=r8jUY6t0JVE)
+
+## Private Endpoint
+- [Use private endpoints for Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints)
+- [Use the Azure portal to restrict import/export access for managed disks with Private Links](https://docs.microsoft.com/en-us/azure/virtual-machines/disks-enable-private-links-for-import-export-portal)
+
+## MFA
+- [Manage multi-factor authentication (MFA) enforcement on your subscriptions](https://docs.microsoft.com/en-us/azure/security-center/security-center-identity-access)
