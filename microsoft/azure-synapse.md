@@ -27,3 +27,5 @@ Links related to Microsoft Synapse.
 ## Architecture
 - [Thinking About an Azure Synapse Analytics Physical Architecture v1](https://mrpaulandrew.com/2021/06/10/thinking-about-an-azure-synapse-analytics-physical-architecture-v1/amp/)
 - [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end)
+- [Understanding Azure Synapse Private Endpoints](https://techcommunity.microsoft.com/t5/azure-architecture-blog/understanding-azure-synapse-private-endpoints/ba-p/2281463)
+- [Connect to Azure Synapse Studio using Azure Private Link Hubs](https://docs.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs)

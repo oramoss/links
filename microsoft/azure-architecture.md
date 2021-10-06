@@ -13,9 +13,27 @@ Links related to Azure Cloud Architecture.
 - [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end)
 - [What are the Microsoft Azure’s Multi-Cloud and Cross-Platform Capabilities?](https://thecloudmarathoner.com/index.php/2021/06/07/what-are-the-microsoft-azures-multi-cloud-and-cross-platform-capabilities/)
 - [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+- [Office 365 Consolidation Lessons Learned Part 1](https://blog.enablingtechcorp.com/office-365-consolidation-lessons-learned-part-1)
+- [Supporting Mergers, Acquisitions, and Divestitures in Microsoft 365](https://techcommunity.microsoft.com/t5/video-hub/supporting-mergers-acquisitions-and-divestitures-in-microsoft/m-p/1681208)
+- [When Should a New Azure AD Tenant Be Created?](https://itconnect.uw.edu/wares/msinf/aad/new-aad-tenant/)
+- [Subscriptions, licenses, accounts, and tenants for Microsoft's cloud offerings](https://docs.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide)
+- [What is an Azure landing zone?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
+- [Microsoft Architectural Assessments](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local)
+- [Move Azure VMs into Availability Zones](https://docs.microsoft.com/en-us/azure/site-recovery/move-azure-vms-avset-azone)
 
 ### CAF
+- [Main MS landing site](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 - [The Beginner’s Guide to Microsoft’s Cloud Adoption Framework](https://n4stack.io/2020/05/13/beginners-guide-to-microsoft-cloud-adoption-framework/?utm_campaign=N4Stack%20-%20Azure%20Service%20Tiles&utm_content=161470645&utm_medium=social&utm_source=linkedin&hss_channel=lcp-29015331)
+- [Putting it all together: WAF and CAF for Azure](https://www.microsoft.com/en-us/us-partner-blog/2021/05/04/putting-it-all-together-waf-and-caf-for-azure/)
+- [AZURE LANDING ZONE OVERVIEW](https://www.fxinnovation.com/azure-landing-zone-overview/)
+- [Define your naming convention](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+- [AzGovViz - Azure Governance Visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
+- [Top 6 tips for configuring a new Microsoft Azure environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/top-6-tips-for-configuring-a-new-microsoft-azure-environment/ba-p/2748637)
+- [Azure Landing Zone – Networking Overview](https://abdulwkazi.com/2021/09/17/azurelandingzonenetworkingoverview/)
+
+## WAF
+- [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+- [Putting it all together: WAF and CAF for Azure](https://www.microsoft.com/en-us/us-partner-blog/2021/05/04/putting-it-all-together-waf-and-caf-for-azure/)
 
 ## Examples
 - [Banking System Cloud Transformation](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/banking/banking-system-cloud-transformation)
@@ -27,6 +45,7 @@ Links related to Azure Cloud Architecture.
 ## Optimisation
 - [How to optimize your Azure environment](https://azure.microsoft.com/en-gb/blog/how-to-optimize-your-azure-environment/)
 - [Securely connect to your Azure Virtual Machines – the options](https://www.compete366.com/blog-posts/securely-connect-to-your-azure-virtual-machines-the-options/)
+- [What is PSRule for Azure?](https://azure.github.io/PSRule.Rules.Azure/features/#readytogo)
 
 ## Security
 - [What is the built-in vulnerability assessment tool in Azure Security Center?](https://techcommunity.microsoft.com/t5/azure-security-center/built-in-vulnerability-assessment-for-vms-in-azure-security/ba-p/1577947)
@@ -36,3 +55,9 @@ Links related to Azure Cloud Architecture.
 
 ## Data Warehousing
 - [The Extinction of Enterprise Data Warehousing](https://piethein.medium.com/the-extinction-of-enterprise-data-warehousing-570b0034f47f)
+
+## Governance
+- [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
+
+## Migration
+- [Legacy Business App Migration to Microsoft Azure 2020](https://www.youtube.com/watch?v=b5-uWmCWfIw)

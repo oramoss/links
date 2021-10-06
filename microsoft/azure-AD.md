@@ -9,3 +9,6 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Azure AD Exporter](https://github.com/microsoft/azureadexporter/)
 - [Elevate access to manage all Azure subscriptions and management groups](https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin)
 - [Compare self-managed Active Directory Domain Services, Azure Active Directory, and managed Azure Active Directory Domain Services](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/compare-identity-solutions)
+- [Configure Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/en-us/azure/virtual-desktop/configure-automatic-updates)
+- [Step 7. (Optional) Conditional access for VPN connectivity using Azure AD](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/ad-ca-vpn-connectivity-windows10?WT.mc_id=linkedin)
+- [(Password reset) An example of how you can use Administrative Units in Azure Active Directory!](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/password-reset-an-example-of-how-you-can-use-administrative/m-p/2562069)

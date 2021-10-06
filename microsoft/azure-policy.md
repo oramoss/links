@@ -17,3 +17,4 @@ Links related to Azure Policy.
 - [Azure Policy Testing - github](https://github.com/fawohlsc/azure-policy-testing)
 - [Azure Policy initiative definition structure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure)
 - [Policy/RBAC Advertiser](https://www.azadvertizer.net/)
+- [How to deploy Azure Policies with ARM templates](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)

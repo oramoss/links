@@ -5,6 +5,8 @@ Links related to Microsoft SQL Database.
 - [Adding Users to Azure SQL Databases](https://www.mssqltips.com/sqlservertip/5242/adding-users-to-azure-sql-databases/)
 - [The mother of all Azure SQL Database ARM templates](https://www.yobyot.com/azure/example-arm-template-azure-sql-vcore-failover-group-elasticpool/2020/02/04/)
 - [Azure Backup for SQL Server in Azure Virtual Machines now generally available!](https://azure.microsoft.com/en-us/blog/azure-backup-for-sql-server-in-azure-virtual-machines-now-generally-available/)
+- [Copy a transactionally consistent copy of a database in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/database-copy?tabs=azure-powershell)
+- [Register SQL Server VM with SQL IaaS Agent Extension](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-agent-extension-manually-register-single-vm?tabs=bash%2Cazure-cli)
 
 ## Networking
 - [Azure Private Link for Azure SQL Database and Azure Synapse Analytics](https://docs.microsoft.com/en-gb/azure/azure-sql/database/private-endpoint-overview)
@@ -18,6 +20,8 @@ Links related to Microsoft SQL Database.
 - [What is an Always On availability group?](https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server?view=sql-server-ver15)
 - [Always On availability groups: a high-availability and disaster-recovery solution](https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/always-on-availability-groups-sql-server?view=sql-server-ver15)
 - [HA/DR options with SQL Server in Azure and hybrid, James Serra](https://www.slideshare.net/jamserra/hadr-options-with-sql-server-in-azure-and-hybrid)
+- [SQL Managed Instances and datacenter or region level outages ](https://social.msdn.microsoft.com/Forums/en-US/137f8f3c-3a44-4919-a214-e547d5d18fc7/sql-managed-instances-and-datacenter-or-region-level-outages?forum=ssdsgetstarted)
+- [Use auto-failover groups to enable transparent and coordinated failover of multiple databases](https://docs.microsoft.com/en-us/azure/azure-sql/database/auto-failover-group-overview?tabs=azure-powershell)
 
 ## SQL
 - [SQL Injection](https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver15)
