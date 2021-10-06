@@ -25,6 +25,7 @@ This repository has a list of links to various articles, books, videos, blogs an
 - [Azure .NET](./microsoft/azure-dotnet.md)
 - [Azure Email](./microsoft/azure-email.md)
 - [Azure Functions](./microsoft/azure-functions.md)
+- [Azure Graph](./microsoft/azure-graph.md)
 - [Azure Instrumentation](./microsoft/azure-instrumentation.md)
 - [Azure Intune](./microsoft/azure-intune.md)
 - [Azure Key Vault](./microsoft/azure-keyvault.md)
