@@ -18,3 +18,4 @@ Links related to Azure Policy.
 - [Azure Policy initiative definition structure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure)
 - [Policy/RBAC Advertiser](https://www.azadvertizer.net/)
 - [How to deploy Azure Policies with ARM templates](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)
+- [Azure Policy for Deploy Anti-malware VM Extension for SQL VMs](https://blog.tyang.org/2021/10/03/azure-policy-deploy-ms-antimalware-ext-for-sql-vm/)

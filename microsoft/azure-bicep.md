@@ -12,3 +12,4 @@ Links related to Bicep.
 - [Deploy Azure Bicep (ARM Templates) to Multiple Environments using Azure DevOps Pipelines](https://nicksnettravels.builttoroam.com/deploy-bicep-multiple-environments/)
 - [Running bicep within Azure DevOps Pipelines](https://msftplayground.com/2021/03/running-bicep-within-azure-devops-pipelines/)
 - [Blueprints Without Blueprints! RBAC, policy and more as code!](https://www.youtube.com/watch?v=i4dEN0o1PHo)
+- [Four parameterization options for your Azure Bicep deployments](https://thecloudmarathoner.com/index.php/2021/10/15/four-parameterization-options-for-your-azure-bicep-deployments/)

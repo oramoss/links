@@ -81,3 +81,12 @@ Links related to Azure Security.
 
 ## MFA
 - [Manage multi-factor authentication (MFA) enforcement on your subscriptions](https://docs.microsoft.com/en-us/azure/security-center/security-center-identity-access)
+
+## Azure Security Center(ASC)
+- [What's new in Azure Security Center?](https://docs.microsoft.com/en-us/azure/security-center/release-notes)
+- [Introducing the Network Security Dashboard for Azure Security Center](https://techcommunity.microsoft.com/t5/azure-network-security/introducing-the-network-security-dashboard-for-azure-security/ba-p/2779842)
+- [What's New: Azure Security Benchmark Workbook (Preview)](https://techcommunity.microsoft.com/t5/public-sector-blog/what-s-new-azure-security-benchmark-workbook-preview/ba-p/2865920)
+- [Azure Security Center: What’s New in the Last 6 Months](https://www.youtube.com/watch?v=6ajBbq-xg1A)
+
+## Identity
+- [Azure Managed Identities and Service Principals](https://thomasthornton.cloud/2020/10/14/azure-managed-identities-and-service-principals/amp/)

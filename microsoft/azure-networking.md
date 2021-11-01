@@ -95,6 +95,11 @@ Links related to Azure Networking.
 - [Securing App Service with Easy Auth behind a Public Application Gateway](https://www.cloudwithchris.com/blog/secure-app-service-with-easy-auth-and-app-gateway-public/)
 - [Create an application gateway with HTTP to HTTPS redirection using the Azure portal](https://docs.microsoft.com/en-us/azure/application-gateway/redirect-http-to-https-portal)
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
+- [TLS termination with Key Vault certificates](https://docs.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
+- [Useful Azure Application Gateway WAF queries](https://www.bramstoop.com/posts/2020/07/2020-07-29-useful-azure-application-gateway-waf-querys/)
+- [Useful Log Analytics Queries to troubleshoot your Azure Application Gateway V2 & WAF traffic](https://cloud-addicted.com/useful-log-analytics-queries-to-troubleshoot-your-azure-application-gateway-waf-traffic)
+- [WAF Policy per listener](https://officeline.gr/2020/09/25/azure-application-gateway-waf-policy-per-listener/)
+- [Per Site WAF Policy with IP locking](https://docs.rackspace.com/blog/configuring-a-per-site-waf-policy-with-ip-address-restriction-rules-part-three/)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
@@ -137,3 +142,4 @@ Links related to Azure Networking.
 ## Miscellaneous
 - [Get the List of All Azure VMs With All Their Private and Public IPs](https://mihai-albert.com/2020/10/01/get-the-list-of-all-azure-vms-with-all-their-private-and-public-ips/)
 - [Intranet site is identified as an Internet site when you use an FQDN or an IP address](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/intranet-site-identified-as-an-internet-site)
+- [Introducing the Network Security Dashboard for Azure Security Center](https://techcommunity.microsoft.com/t5/azure-network-security/introducing-the-network-security-dashboard-for-azure-security/ba-p/2779842)

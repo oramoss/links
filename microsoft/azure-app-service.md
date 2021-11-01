@@ -42,3 +42,4 @@ Links related to Azure App Service.
 - [Restrict access to a specific Azure Front Door instance](https://docs.microsoft.com/en-gb/azure/app-service/app-service-ip-restrictions#restrict-access-to-a-specific-azure-front-door-instance)
 - [App Service Imported SSL Certificate from Key Vault in another Subscription](https://www.huuhka.net/app-service-imported-ssl-certificate-from-another-subscription-kv/)
 - [App Service Support for Availability Zones](https://azure.github.io/AppService/2021/08/25/App-service-support-for-availability-zones.html)
+- [How to restore a deleted Azure Web App](https://ruslany.net/2019/06/how-to-restore-a-deleted-azure-web-app/)

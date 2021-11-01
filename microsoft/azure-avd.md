@@ -37,6 +37,8 @@ Links related to Azure Windows Virtual Desktop.
 - [Add PowerShell DSC extension to an existing Azure Virtual Machine](https://owendavies.net/articles/add-powershell-dsc-extension-to-existing-azure-virtual-machine/)
 - [Setting up Windows Virtual Desktop in Availability Zones](https://blog.nillsf.com/index.php/2020/03/09/setting-up-windows-virtual-desktop-in-availability-zones/)
 - [AVD Automation Cocktail – AVD automated with PowerShell](https://rozemuller.com/avd-automation-cocktail-avd-automated-with-powershell/)
+- [RDP Shortpath for managed networks is generally available!](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/rdp-shortpath-for-managed-networks-is-generally-available/m-p/2861468#M7986)
+- [Azure Virtual Desktop RDP Shortpath for managed networks](https://docs.microsoft.com/en-gb/azure/virtual-desktop/shortpath)
 
 ## FSLogix
 - [FSLogix for the enterprise](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix)

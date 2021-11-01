@@ -12,3 +12,10 @@ Links related to Azure Instrumentation.
 
 - Blogs
 - [AUTOMATING AZURE INSTRUMENTATION AND MONITORING - PART 1: INTRODUCTION](http://www.johndowns.co.nz/blog/2018/11/14/automating-azure-instrumentation-and-monitoring-part-1-introduction)
+
+## Tagging
+- [azure Tag Automation using Initiative](https://www.unixarena.com/2020/12/azure-tag-automation-using-an-initiative-definition.html/)
+- [Azure Built in Tagging Policy Resource Group to Inherit Subscription tags](https://debbiesmspowerbiazureblog.home.blog/2020/05/05/azure-built-in-tagging-policy-resource-group-to-inherit-subscription-tags/)
+- [Tutorial: Manage tag governance with Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/govern-tags)
+- [CreatedOnDate tag for all resources in Azure using Azure Policy](https://jrudlin.github.io/2019-07-18-azure-policy-createdon-date/)
+- [Automatic tagging for Azure resources](https://andrewmatveychuk.com/automatic-tagging-for-azure-resources/)
