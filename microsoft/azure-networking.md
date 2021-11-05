@@ -130,6 +130,7 @@ Links related to Azure Networking.
 - [What is VPN Gateway?](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
 - [Highly Available Cross-Premises and VNet-to-VNet Connectivity](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
 - [Step 7. (Optional) Conditional access for VPN connectivity using Azure AD](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/ad-ca-vpn-connectivity-windows10?WT.mc_id=linkedin)
+- [How to connect VNETs in different Azure regions?](https://blog.nillsf.com/index.php/2020/03/18/how-to-connect-vnets-in-different-azure-regions/)
 
 ## Bastion
 - [Securing Remote Virtual Machines Using Azure Bastion](https://petri.com/securing-remote-virtual-machines-using-azure-bastion)
