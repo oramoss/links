@@ -15,6 +15,7 @@ Links related to Azure App Service.
 ## Authentication
 - [Configure your App Service or Azure Functions app to use Azure AD login](https://docs.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad)
 - [Add Azure Active Directory authentication to an App Service from an Azure DevOps Pipeline](https://blog.hompus.nl/2020/11/25/add-azure-active-directory-authentication-to-an-app-service-from-an-azure-devops-pipeline/)
+- [Remote access to on-premises applications through Azure AD Application Proxy](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy)
 
 ## Examples
 - [Multi-region web app with private connectivity to database](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/sql-failover/app-service-private-sql-multi-region#alternatives)

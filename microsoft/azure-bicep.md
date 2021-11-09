@@ -13,3 +13,4 @@ Links related to Bicep.
 - [Running bicep within Azure DevOps Pipelines](https://msftplayground.com/2021/03/running-bicep-within-azure-devops-pipelines/)
 - [Blueprints Without Blueprints! RBAC, policy and more as code!](https://www.youtube.com/watch?v=i4dEN0o1PHo)
 - [Four parameterization options for your Azure Bicep deployments](https://thecloudmarathoner.com/index.php/2021/10/15/four-parameterization-options-for-your-azure-bicep-deployments/)
+- [Getting Started with Azure Bicep (Step-by-Step)](https://medium.com/microsoftazure/getting-started-with-azure-bicep-step-by-step-b172de3d19e7)

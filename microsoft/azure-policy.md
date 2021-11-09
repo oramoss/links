@@ -19,3 +19,4 @@ Links related to Azure Policy.
 - [Policy/RBAC Advertiser](https://www.azadvertizer.net/)
 - [How to deploy Azure Policies with ARM templates](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)
 - [Azure Policy for Deploy Anti-malware VM Extension for SQL VMs](https://blog.tyang.org/2021/10/03/azure-policy-deploy-ms-antimalware-ext-for-sql-vm/)
+- [General availability: Azure governance policy for Azure Key Vault](https://azure.microsoft.com/en-us/updates/gaazurepolicyforkeyvault/)
