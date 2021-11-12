@@ -55,6 +55,7 @@ Links related to Azure Networking.
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
 - [Choosing the right networking hub in Azure (VWan/HubSpoke)](https://techcommunity.microsoft.com/t5/azure-architecture-blog/choosing-the-right-networking-hub-in-azure/ba-p/1802870)
 - [Migrate to Azure Virtual WAN (from HubSpoke)](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
+- [What language does the Azure Gateway Load Balancer speak?](https://blog.cloudtrooper.net/2021/11/11/what-language-does-the-azure-gateway-load-balancer-speak/)
 
 ## Tagging
 - [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
