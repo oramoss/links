@@ -20,6 +20,8 @@ Links related to Azure Cloud Architecture.
 - [What is an Azure landing zone?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
 - [Microsoft Architectural Assessments](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local)
 - [Move Azure VMs into Availability Zones](https://docs.microsoft.com/en-us/azure/site-recovery/move-azure-vms-avset-azone)
+- [Cloud Resource Naming Convention (Azure)](https://blog.nicholasrogoff.com/2019/11/13/cloud-resource-naming-convention-azure/)
+- [Bicep Azure Naming module](https://github.com/nianton/azure-naming)
 
 ### CAF
 - [Main MS landing site](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)

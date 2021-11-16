@@ -44,3 +44,4 @@ Links related to Azure Monitoring.
 - [A Governance Plan for Managing Overrides to Azure Monitor and Azure Sentinel Rules](https://blog.johnjoyner.net/a-governance-plan-for-managing-overrides-to-azure-monitor-and-azure-sentinel-rules/)
 - [Useful Azure Application Gateway WAF queries](https://www.bramstoop.com/posts/2020/07/2020-07-29-useful-azure-application-gateway-waf-querys/)
 - [Useful Log Analytics Queries to troubleshoot your Azure Application Gateway V2 & WAF traffic](https://cloud-addicted.com/useful-log-analytics-queries-to-troubleshoot-your-azure-application-gateway-waf-traffic)
+- [Resource Manager template samples for diagnostic settings in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/resource-manager-diagnostic-settings)

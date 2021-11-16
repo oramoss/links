@@ -13,6 +13,7 @@ Links related to Azure Security.
 - [Azure Active Directory security operations guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction)
 - [Cloud security functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security)
 - [MS Security hub](https://azure.microsoft.com/en-us/product-categories/security/)
+- [Require Privileged Workstation for Admin Access with Conditional Access](https://danielchronlund.com/2021/11/02/require-privileged-workstation-for-admin-access-with-conditional-access/)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)
