@@ -91,3 +91,6 @@ Links related to Azure Security.
 
 ## Identity
 - [Azure Managed Identities and Service Principals](https://thomasthornton.cloud/2020/10/14/azure-managed-identities-and-service-principals/amp/)
+
+## Sentinel
+- [Secure Slack connectivity for Sentinel](https://github.com/msvdpriya/SecureSlackWithAzureSentinel)
