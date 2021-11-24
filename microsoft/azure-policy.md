@@ -20,3 +20,4 @@ Links related to Azure Policy.
 - [How to deploy Azure Policies with ARM templates](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)
 - [Azure Policy for Deploy Anti-malware VM Extension for SQL VMs](https://blog.tyang.org/2021/10/03/azure-policy-deploy-ms-antimalware-ext-for-sql-vm/)
 - [General availability: Azure governance policy for Azure Key Vault](https://azure.microsoft.com/en-us/updates/gaazurepolicyforkeyvault/)
+- [Plugging the Gaps in Azure Policy – Part One](https://purple.telstra.com/blog/plugging-the-gaps-in-azure-policy-part-one)
