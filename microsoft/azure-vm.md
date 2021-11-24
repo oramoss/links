@@ -1,6 +1,9 @@
 # Virtual Machine
 Links related to Virtual Machine.
 
+## Miscellaneous
+- [VM Selector](https://azure.microsoft.com/en-us/pricing/vm-selector/)
+
 ## Capabilities
 - [Automanage VM](https://www.thomasmaurer.ch/2020/10/automanage-for-azure-virtual-machines/)
 - [Announcing preview of Azure Trusted Launch for virtual machines](https://azure.microsoft.com/en-us/blog/announcing-preview-of-azure-trusted-launch-for-virtual-machines/)
@@ -9,43 +12,14 @@ Links related to Virtual Machine.
 ## Extensions
 - [IaaS AntiMalware, Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/iaas-antimalware-windows)
 - [Azure Disk Encryption](https://azsec.azurewebsites.net/2019/12/28/azure-disk-encryption-arm-template-for-windows-vm/)
-
 - [Overview of Azure Monitor agents](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 - [Azure Monitor agent overview](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview?tabs=PowerShellWindows)
-
 - [DependencyAgent](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-windows)
-  - Azure Monitor Dependency Agent
-  - Microsoft.Azure.Monitoring.DependencyAgent
-  - Windows (DependencyAgentWindows)
-  - Linux (DependencyAgentLinux)
 - [Azure Monitor Agent (the future)](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-install?tabs=ARMAgentPowerShell%2CPowerShellWindows%2CPowerShellWindowsArc%2CCLIWindows%2CCLIWindowsArc)
-  - Microsoft.Azure.Monitor
-  - AzureMonitorWindowsAgent
-  - AzureMonitorLinuxAgent
-- CustomScriptExtension
-  - ASC use this for TZ set
 - [GuestConfigForWindows](https://azsec.azurewebsites.net/2020/03/22/arm-template-for-azure-vm-with-guest-configuration/)
-  - https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/guest-configuration
-  - The Guest Configuration extension is a component Azure Policy that performs audit and configuration operations inside virtual machines. Policies such as security baseline definitions for Linux and Windows can't check settings inside machines until the extension is installed.
 - [GuestHealthWindowsAgent](https://docs.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-health-overview)
-  - VM insights guest health allows you to view the health of virtual machines based on a set of performance measurements that are sampled at regular intervals from the guest operating system. You can quickly check the health of all virtual machines in a subscription or resource group, drill down on the detailed health of a particular virtual machine, or be proactively notified when a virtual machine becomes unhealthy.
-- IaaSAntimalware
-  - ASC use ESET instead so comment out
-- joindomain
-  - ASC use this for domain joining to advanced-processing.com
 - [Microsoft.Insights.VMDiagnosticsSettings](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-template)
-    - LAW Diagnostics logging
-    - The Azure Diagnostics Extension provides the monitoring and diagnostics capabilities on a Windows-based Azure virtual machine.
 - [MicrosoftMonitoringAgent](https://docs.microsoft.com/en-us/services-hub/health/mma-setup)
-  - Azure Monitor Agent - the future for all monitoring - not there yet though so need to use combo of this and older agents for now
-- SqlIaasExtension
-  - SQL Virtual Machine 
-  - Add to any VM used by SQL
-
-
-Enable Health on VM leads to DependencyAgent/MicrosoftMonitoringAgent being installed
-Add VM to DCR leads to AzureMonitorWindowsAgent being installed
-
 
 ## DR
 - [Set up DR for IaaS VMs](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-set-up-disaster-recovery-for-azure-iaas-vms/ba-p/1153807?WT.mc_id=twitter-social-thmaure)

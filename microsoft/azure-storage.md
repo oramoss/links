@@ -29,6 +29,7 @@ Links related to Microsoft Storage.
 - [net use map drive with UserPrincipalName not working - using UPN with mapped drives](https://social.technet.microsoft.com/Forums/windows/en-US/4d4c7905-a0c1-470d-95ac-414d4a4e9c72/net-use-map-drive-with-userprincipalname-not-working?forum=w7itpronetworking)
 - [Azure Storage redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/blobs/toc.json)
 - [File Server to Microsoft 365 Enterprise 2020](https://www.youtube.com/watch?v=ZrIGdLz1-p0)
+- [sFTP Server support](https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support)
 
 ## Redundancy
 - [Understanding Azure storage redundancy offerings](https://techcommunity.microsoft.com/t5/azure-storage/understanding-azure-storage-redundancy-offerings/ba-p/1431700)
