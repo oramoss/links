@@ -30,6 +30,7 @@ Links related to Azure Networking.
 - [Managing Domains, Trusts, and DNS](https://www.informit.com/articles/article.aspx?p=130843&seqNum=4)
 - [Virtual network and on-premises workloads using a DNS forwarder](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns#virtual-network-and-on-premises-workloads-using-a-dns-forwarder)
 - [DNS Best Practices: The Definitive Guide](https://activedirectorypro.com/dns-best-practices/)
+- [Private Endpoint DNS Resolution - John Savill](https://www.youtube.com/watch?v=rXbamGNz-xQ)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -145,3 +146,4 @@ Links related to Azure Networking.
 - [Get the List of All Azure VMs With All Their Private and Public IPs](https://mihai-albert.com/2020/10/01/get-the-list-of-all-azure-vms-with-all-their-private-and-public-ips/)
 - [Intranet site is identified as an Internet site when you use an FQDN or an IP address](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/intranet-site-identified-as-an-internet-site)
 - [Introducing the Network Security Dashboard for Azure Security Center](https://techcommunity.microsoft.com/t5/azure-network-security/introducing-the-network-security-dashboard-for-azure-security/ba-p/2779842)
+- [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview?WT.mc_id=mondinfra-49371-jagord)

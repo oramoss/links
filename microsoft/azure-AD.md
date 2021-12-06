@@ -14,7 +14,9 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [(Password reset) An example of how you can use Administrative Units in Azure Active Directory!](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/password-reset-an-example-of-how-you-can-use-administrative/m-p/2562069)
 - [Picking which Azure AD Synchronization Technology! AAD Connect vs Cloud Sync](https://www.youtube.com/watch?v=9XBcc2b62Ys)
 - [Topologies for Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-topologies)
+- [Azure AD Kerberos authentication (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/how-to-authentication-kerberos)
 
 ## Security
 - [Active Directory Security](https://adsecurity.org/)
 - [Break Glass Account Best Practices in Azure AD](https://danielchronlund.com/2019/04/08/break-glass-account-best-practices-in-azure-ad/)
+- [Best practices for Azure AD roles](https://docs.microsoft.com/en-us/azure/active-directory/roles/best-practices#8-use-cloud-native-accounts-for-azure-ad-roles)
