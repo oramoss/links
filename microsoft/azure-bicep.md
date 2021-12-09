@@ -17,3 +17,4 @@ Links related to Bicep.
 - [Migrating Azure ARM templates to Bicep](https://www.rickroche.com/2021/06/migrating-azure-arm-templates-to-bicep/)
 - [Deployment functions for ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions-deployment#environment)
 - [Bicep Tips & Tricks 1](https://chriskingdon.com/2021/07/02/bicep-tips-tricks-1/)
+- [Create Management Groups and Subscriptions with Bicep](https://codingwithtaz.blog/2021/08/20/create-management-groups-and-subscriptions-with-bicep/)
