@@ -77,6 +77,7 @@ Links related to Virtual Machine.
 
 ## Security
 - [What is the built-in vulnerability assessment tool in Azure Security Center?](https://techcommunity.microsoft.com/t5/azure-security-center/built-in-vulnerability-assessment-for-vms-in-azure-security/ba-p/1577947)
+- [Login to a Linux virtual machine in Azure with Azure Active Directory using openSSH certificate-based authentication](https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux)
 
 ## SQL IaaS
 - [Windows Server Failover Cluster with SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/hadr-windows-server-failover-cluster-overview)

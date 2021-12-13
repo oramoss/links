@@ -48,6 +48,7 @@ Links related to Azure Windows Virtual Desktop.
 
 # FSLogix
 - [The SECRET to FSLogix | Windows Virtual Desktop](https://www.youtube.com/watch?v=ffZZGVTYHFk)
+- [Create a profile container with Azure Files and Azure Active Directory (preview)](https://docs.microsoft.com/en-gb/azure/virtual-desktop/create-profile-container-azure-ad)
 
 # Monitoring
 - [Using Azure Monitor for Monitoring Azure Virtual Desktop (AVD) and Estimating Your Costs](https://www.eginnovations.com/blog/azure-virtual-desktop-monitoring-avd/)
