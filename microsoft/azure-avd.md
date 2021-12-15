@@ -45,6 +45,7 @@ Links related to Azure Windows Virtual Desktop.
 
 ## Templates
 - [Microsoft - Create Host Pool](https://github.com/Azure/RDS-Templates/blob/master/ARM-wvd-templates/CreateAndProvisionHostPool/CreateHostpoolTemplate.json)
+- [Deploy Azure Virtual Desktop with Project BICEP](https://tighetec.co.uk/2021/07/07/deploy-azure-virtual-desktop-with-project-bicep/)
 
 # FSLogix
 - [The SECRET to FSLogix | Windows Virtual Desktop](https://www.youtube.com/watch?v=ffZZGVTYHFk)
