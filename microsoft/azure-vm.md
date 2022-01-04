@@ -3,6 +3,7 @@ Links related to Virtual Machine.
 
 ## Miscellaneous
 - [VM Selector](https://azure.microsoft.com/en-us/pricing/vm-selector/)
+- [Creating a Custom and Secure Azure Portal Offering](https://techcommunity.microsoft.com/t5/azure-architecture-blog/creating-a-custom-and-secure-azure-portal-offering/ba-p/3038344)
 
 ## Capabilities
 - [Automanage VM](https://www.thomasmaurer.ch/2020/10/automanage-for-azure-virtual-machines/)
@@ -84,3 +85,6 @@ Links related to Virtual Machine.
 
 ## Monitoring
 - [Monitor scheduled events for your Azure VMs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/scheduled-event-service)
+
+## Reservations
+- [Microsoft Azure Reservations Deep Dive](https://www.youtube.com/watch?v=vpTDXenagcM)

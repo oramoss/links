@@ -22,3 +22,4 @@ Links related to Azure Policy.
 - [General availability: Azure governance policy for Azure Key Vault](https://azure.microsoft.com/en-us/updates/gaazurepolicyforkeyvault/)
 - [Plugging the Gaps in Azure Policy – Part One](https://purple.telstra.com/blog/plugging-the-gaps-in-azure-policy-part-one)
 - [Monitoring Azure Policy Compliance States - 2021 Edition](https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition/)
+- [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)

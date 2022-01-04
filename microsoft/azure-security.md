@@ -14,6 +14,7 @@ Links related to Azure Security.
 - [Cloud security functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security)
 - [MS Security hub](https://azure.microsoft.com/en-us/product-categories/security/)
 - [Require Privileged Workstation for Admin Access with Conditional Access](https://danielchronlund.com/2021/11/02/require-privileged-workstation-for-admin-access-with-conditional-access/)
+- [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)

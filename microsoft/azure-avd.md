@@ -18,6 +18,7 @@ Links related to Azure Windows Virtual Desktop.
 - [10 Critical Steps to Secure Windows Virtual Desktops](https://blog.enablingtechcorp.com/10-critical-steps-to-secure-windows-virtual-desktops)
 - [Learn how to increase the security level of your Azure Virtual Desktop environment (e.g. Windows Client) with Azure MFA and Conditional Access](https://christiaanbrinkhoff.com/2020/03/23/learn-how-to-increase-the-security-level-of-your-windows-virtual-desktop-environment-e-g-windows-client-with-azure-mfa-and-conditional-access/)
 - [How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/)
+- [Azure Virtual Desktop Portal Support for Trusted Launch VMs](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/azure-virtual-desktop-portal-support-for-trusted-launch-vms/m-p/3038763)
 
 ## Configuring
 - [Configuring WVD](https://www.youtube.com/watch?v=qtx3rippZJQ)
@@ -42,6 +43,7 @@ Links related to Azure Windows Virtual Desktop.
 
 ## FSLogix
 - [FSLogix for the enterprise](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix)
+- [Using FSLogix with Azure AD Join Storage Accounts](https://virtualdesktops.community/2021/12/using-fslogix-with-azure-ad-join-storage-accounts/)
 
 ## Templates
 - [Microsoft - Create Host Pool](https://github.com/Azure/RDS-Templates/blob/master/ARM-wvd-templates/CreateAndProvisionHostPool/CreateHostpoolTemplate.json)
