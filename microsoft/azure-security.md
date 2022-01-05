@@ -1,6 +1,9 @@
 # Azure Security
 Links related to Azure Security.
 
+## Conditional Access
+- [Conditional Access templates (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common#conditional-access-templates-preview)
+
 ## General
 - [Azure Security Graphic](https://azure.microsoft.com/en-us/resources/azure-sql-security-infographic/)
 - [Why Is Privileged Access Important](https://cloudntech.blogspot.com/2020/12/why-is-privileged-access-important.html)
@@ -15,6 +18,8 @@ Links related to Azure Security.
 - [MS Security hub](https://azure.microsoft.com/en-us/product-categories/security/)
 - [Require Privileged Workstation for Admin Access with Conditional Access](https://danielchronlund.com/2021/11/02/require-privileged-workstation-for-admin-access-with-conditional-access/)
 - [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)
+- [Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-gb/security/cybersecurity-reference-architecture/mcra)
+- [Use Azure Security Center with Windows Server on-premises](https://www.thomasmaurer.ch/2020/01/use-azure-security-center-with-windows-server-on-premises/)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)

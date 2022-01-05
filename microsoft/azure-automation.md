@@ -10,3 +10,6 @@ Links related to Azure Automation.
 - [how-to-setup-an-azure-automation-hybrid-worker](https://anexinet.com/blog/how-to-setup-an-azure-automation-hybrid-worker/)
 - [Update Azure PowerShell modules](https://docs.microsoft.com/en-us/azure/automation/automation-update-azure-modules)
 - [Modules Update Workbook](https://github.com/Microsoft/AzureAutomation-Account-Modules-Update)
+
+# DSC
+- [Azure Automation Configuring Desired State Configuration](https://itnext.io/azure-automation-configuring-desired-state-configuration-4091d94e85d9)

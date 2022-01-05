@@ -4,6 +4,7 @@ Links related to Azure Policy.
 ## Examples
 - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/samples/policy-reference)
 - [Writing a Custom Azure Policy](https://journeyofthegeek.com/2021/03/07/writing-a-custom-azure-policy/)
+- [How to update Azure Policy parameters in Azure Blueprints](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-update-azure-policy-parameters-in-azure-blueprints/ba-p/3037875)
 
 ## ARM Deployment
 - [How To deploy policies with ARM](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)
