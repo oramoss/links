@@ -18,3 +18,4 @@ Links related to Azure Policy.
 - [Azure Policy initiative definition structure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure)
 - [Policy/RBAC Advertiser](https://www.azadvertizer.net/)
 - [How to deploy Azure Policies with ARM templates](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)
+- [Azure Policy built-in policy definitions](https://docs.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)

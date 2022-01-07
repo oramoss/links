@@ -13,6 +13,9 @@ Links related to Azure Security.
 - [Azure Active Directory security operations guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction)
 - [Cloud security functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security)
 - [MS Security hub](https://azure.microsoft.com/en-us/product-categories/security/)
+- [The ‘How to’ to Azure Security, Part 1](https://www.linkedin.com/pulse/how-azure-security-part-1-dharam-chhatbar)
+- [The ‘How to’ to Azure Security, Part 2](https://www.linkedin.com/pulse/how-azure-security-part-2-dharam-chhatbar)
+
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)
