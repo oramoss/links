@@ -20,6 +20,8 @@ Links related to Azure Cloud Architecture.
 - [What is an Azure landing zone?](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
 - [Microsoft Architectural Assessments](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local)
 - [Move Azure VMs into Availability Zones](https://docs.microsoft.com/en-us/azure/site-recovery/move-azure-vms-avset-azone)
+- [Cloud Resource Naming Convention (Azure)](https://blog.nicholasrogoff.com/2019/11/13/cloud-resource-naming-convention-azure/)
+- [Bicep Azure Naming module](https://github.com/nianton/azure-naming)
 
 ### CAF
 - [Main MS landing site](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
@@ -30,6 +32,38 @@ Links related to Azure Cloud Architecture.
 - [AzGovViz - Azure Governance Visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
 - [Top 6 tips for configuring a new Microsoft Azure environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/top-6-tips-for-configuring-a-new-microsoft-azure-environment/ba-p/2748637)
 - [Azure Landing Zone – Networking Overview](https://abdulwkazi.com/2021/09/17/azurelandingzonenetworkingoverview/)
+
+## Close-Out Links (CAF)
+- [Secure access practices for administrators in Azure AD | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/roles/security-planning)
+- [Manage emergency access admin accounts - Azure AD | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access)
+- [Programmatically create Azure Enterprise Agreement subscriptions with the latest APIs | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/programmatically-create-subscription-enterprise-agreement?tabs=rest)
+- [Tutorial - Multi-factor authentication for B2B - Azure AD | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/b2b-tutorial-require-mfa)
+- [Identity Governance - Azure Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/governance/identity-governance-overview)
+- [What is entitlement management? - Azure AD | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview)
+- [Configure Azure resource role settings in PIM - Azure AD | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-resource-roles-configure-role-settings)
+- [Identity and access management (IAM) - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management)
+- [Testing approach for enterprise-scale - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/testing-approach)
+- [Azure DDoS Protection Standard Overview | Microsoft Docs](https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
+- [Designing resilient solutions with Azure DDoS Protection | Microsoft Docs](https://docs.microsoft.com/en-us/azure/security/fundamentals/ddos-best-practices)
+- [Introduction to Azure DDoS Protection - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-ddos-protection/)
+- [Azure Key Vault logging | Microsoft Docs](https://docs.microsoft.com/en-us/azure/key-vault/general/logging?tabs=Vault)
+- [Azure Key Vault soft-delete | Microsoft Docs](https://docs.microsoft.com/en-us/azure/key-vault/general/soft-delete-overview)
+- [Introduction to flow logging for NSGs - Azure Network Watcher | Microsoft Docs](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-overview)
+- [Monitoring cost for Container insights - Azure Monitor | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-cost)
+- [Extend Azure Sentinel across workspaces and tenants | Microsoft Docs](https://docs.microsoft.com/en-us/azure/sentinel/extend-sentinel-across-workspaces-tenants)
+- [Regulatory Compliance details for NIST SP 800-53 Rev. 4 - Azure Policy | Microsoft Docs](https://docs.microsoft.com/en-us/azure/governance/policy/samples/nist-sp-800-53-r4)
+- [Tutorial: Regulatory compliance checks - Microsoft Defender for Cloud | Microsoft Docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard)
+- [Develop your naming and tagging strategy for Azure resources - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
+- [Recommended abbreviations for Azure resource types - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
+- [Plan and manage costs for Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/billing)
+- [MS Sentinel free data sources](https://docs.microsoft.com/en-us/azure/sentinel/billing#free-data-sources)
+- [Use cost alerts to monitor usage and spending](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending)
+- [Tutorial: Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
+- [Prevent exceeding Azure budget with forecasted cost alerts](https://azure.microsoft.com/en-gb/blog/prevent-exceeding-azure-budget-with-forecasted-cost-alerts/)
+- [About Microsoft Security Code Analysis](https://docs.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview)
+- [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
+- [Enterprise-scale support for the Azure Virtual Desktop construction set](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/enterprise-scale-landing-zone)
+- [Enterprise-scale for AKS](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/aks/enterprise-scale-landing-zone)
 
 ## WAF
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
@@ -58,6 +92,7 @@ Links related to Azure Cloud Architecture.
 
 ## Governance
 - [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
+- [What is the difference between NIST, CIS/SANS 20, ISO 27001 Compliance Standards?](https://www.cloudanix.com/blog/what-is-the-difference-between-nist-cis-sans-20-iso-27001-compliance-standards/)
 
 ## Migration
 - [Legacy Business App Migration to Microsoft Azure 2020](https://www.youtube.com/watch?v=b5-uWmCWfIw)

@@ -17,3 +17,6 @@ Links related to Azure API Management Service (APIM).
 
 ## Techniques
 - [How To Test ASP.NET Core 5 Web API Service With Swagger](https://www.c-sharpcorner.com/article/how-to-test-asp-net-core-web-api-service-with-swagger/)
+
+## Miscellaneous
+- [Azure API Management (APIM) - Big Picture View](https://github.com/nehalineogi/azure-cross-solution-network-architectures/blob/main/apim/README-common.md)

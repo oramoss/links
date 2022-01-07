@@ -30,6 +30,7 @@ Links related to Azure Networking.
 - [Managing Domains, Trusts, and DNS](https://www.informit.com/articles/article.aspx?p=130843&seqNum=4)
 - [Virtual network and on-premises workloads using a DNS forwarder](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns#virtual-network-and-on-premises-workloads-using-a-dns-forwarder)
 - [DNS Best Practices: The Definitive Guide](https://activedirectorypro.com/dns-best-practices/)
+- [Private Endpoint DNS Resolution - John Savill](https://www.youtube.com/watch?v=rXbamGNz-xQ)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -55,6 +56,7 @@ Links related to Azure Networking.
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
 - [Choosing the right networking hub in Azure (VWan/HubSpoke)](https://techcommunity.microsoft.com/t5/azure-architecture-blog/choosing-the-right-networking-hub-in-azure/ba-p/1802870)
 - [Migrate to Azure Virtual WAN (from HubSpoke)](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
+- [What language does the Azure Gateway Load Balancer speak?](https://blog.cloudtrooper.net/2021/11/11/what-language-does-the-azure-gateway-load-balancer-speak/)
 
 ## Tagging
 - [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
@@ -95,6 +97,11 @@ Links related to Azure Networking.
 - [Securing App Service with Easy Auth behind a Public Application Gateway](https://www.cloudwithchris.com/blog/secure-app-service-with-easy-auth-and-app-gateway-public/)
 - [Create an application gateway with HTTP to HTTPS redirection using the Azure portal](https://docs.microsoft.com/en-us/azure/application-gateway/redirect-http-to-https-portal)
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
+- [TLS termination with Key Vault certificates](https://docs.microsoft.com/en-us/azure/application-gateway/key-vault-certs)
+- [Useful Azure Application Gateway WAF queries](https://www.bramstoop.com/posts/2020/07/2020-07-29-useful-azure-application-gateway-waf-querys/)
+- [Useful Log Analytics Queries to troubleshoot your Azure Application Gateway V2 & WAF traffic](https://cloud-addicted.com/useful-log-analytics-queries-to-troubleshoot-your-azure-application-gateway-waf-traffic)
+- [WAF Policy per listener](https://officeline.gr/2020/09/25/azure-application-gateway-waf-policy-per-listener/)
+- [Per Site WAF Policy with IP locking](https://docs.rackspace.com/blog/configuring-a-per-site-waf-policy-with-ip-address-restriction-rules-part-three/)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
@@ -125,6 +132,7 @@ Links related to Azure Networking.
 - [What is VPN Gateway?](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
 - [Highly Available Cross-Premises and VNet-to-VNet Connectivity](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
 - [Step 7. (Optional) Conditional access for VPN connectivity using Azure AD](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/ad-ca-vpn-connectivity-windows10?WT.mc_id=linkedin)
+- [How to connect VNETs in different Azure regions?](https://blog.nillsf.com/index.php/2020/03/18/how-to-connect-vnets-in-different-azure-regions/)
 
 ## Bastion
 - [Securing Remote Virtual Machines Using Azure Bastion](https://petri.com/securing-remote-virtual-machines-using-azure-bastion)
@@ -137,3 +145,5 @@ Links related to Azure Networking.
 ## Miscellaneous
 - [Get the List of All Azure VMs With All Their Private and Public IPs](https://mihai-albert.com/2020/10/01/get-the-list-of-all-azure-vms-with-all-their-private-and-public-ips/)
 - [Intranet site is identified as an Internet site when you use an FQDN or an IP address](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/intranet-site-identified-as-an-internet-site)
+- [Introducing the Network Security Dashboard for Azure Security Center](https://techcommunity.microsoft.com/t5/azure-network-security/introducing-the-network-security-dashboard-for-azure-security/ba-p/2779842)
+- [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview?WT.mc_id=mondinfra-49371-jagord)

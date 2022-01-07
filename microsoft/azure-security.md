@@ -1,6 +1,9 @@
 # Azure Security
 Links related to Azure Security.
 
+## Conditional Access
+- [Conditional Access templates (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common#conditional-access-templates-preview)
+
 ## General
 - [Azure Security Graphic](https://azure.microsoft.com/en-us/resources/azure-sql-security-infographic/)
 - [Why Is Privileged Access Important](https://cloudntech.blogspot.com/2020/12/why-is-privileged-access-important.html)
@@ -13,9 +16,10 @@ Links related to Azure Security.
 - [Azure Active Directory security operations guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction)
 - [Cloud security functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-security)
 - [MS Security hub](https://azure.microsoft.com/en-us/product-categories/security/)
-- [The ‘How to’ to Azure Security, Part 1](https://www.linkedin.com/pulse/how-azure-security-part-1-dharam-chhatbar)
-- [The ‘How to’ to Azure Security, Part 2](https://www.linkedin.com/pulse/how-azure-security-part-2-dharam-chhatbar)
-
+- [Require Privileged Workstation for Admin Access with Conditional Access](https://danielchronlund.com/2021/11/02/require-privileged-workstation-for-admin-access-with-conditional-access/)
+- [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)
+- [Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-gb/security/cybersecurity-reference-architecture/mcra)
+- [Use Azure Security Center with Windows Server on-premises](https://www.thomasmaurer.ch/2020/01/use-azure-security-center-with-windows-server-on-premises/)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)
@@ -84,3 +88,15 @@ Links related to Azure Security.
 
 ## MFA
 - [Manage multi-factor authentication (MFA) enforcement on your subscriptions](https://docs.microsoft.com/en-us/azure/security-center/security-center-identity-access)
+
+## Azure Security Center(ASC)
+- [What's new in Azure Security Center?](https://docs.microsoft.com/en-us/azure/security-center/release-notes)
+- [Introducing the Network Security Dashboard for Azure Security Center](https://techcommunity.microsoft.com/t5/azure-network-security/introducing-the-network-security-dashboard-for-azure-security/ba-p/2779842)
+- [What's New: Azure Security Benchmark Workbook (Preview)](https://techcommunity.microsoft.com/t5/public-sector-blog/what-s-new-azure-security-benchmark-workbook-preview/ba-p/2865920)
+- [Azure Security Center: What’s New in the Last 6 Months](https://www.youtube.com/watch?v=6ajBbq-xg1A)
+
+## Identity
+- [Azure Managed Identities and Service Principals](https://thomasthornton.cloud/2020/10/14/azure-managed-identities-and-service-principals/amp/)
+
+## Sentinel
+- [Secure Slack connectivity for Sentinel](https://github.com/msvdpriya/SecureSlackWithAzureSentinel)

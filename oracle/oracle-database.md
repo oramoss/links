@@ -6,3 +6,6 @@ Links related to Oracle Database.
 
 ## Tricks
 - [How to move a table from one schema to another](http://www.orafaq.com/node/3178)
+
+## Performance
+- [Testing The Silk Platform - Hands-On Technical Analysis of High-Performance I/O in the Cloud](https://tanelpoder.com/posts/testing-the-silk-platform/)

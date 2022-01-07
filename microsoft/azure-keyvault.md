@@ -20,3 +20,5 @@ Links related to Key Vault.
 - [Export PFX certificate for use in importing to App Gateway](https://coombes.nz/blog/azure-keyvault-export-certificate/)
 - [Issues with App Gateway and Key Vault integration for certs - fixed by manual resolution in above link](https://github.com/MicrosoftDocs/azure-docs/issues/33157)
 - [Azure AD Application Rotator](https://github.com/LockTar/AzureAdApplicationRotator)
+- [KeyVault Secrets Rotation Management](https://devkimchi.com/2021/02/17/keyvault-secrets-rotation-management/)
+- [General availability: Azure governance policy for Azure Key Vault](https://azure.microsoft.com/en-us/updates/gaazurepolicyforkeyvault/)

@@ -4,6 +4,7 @@ Links related to Azure Policy.
 ## Examples
 - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/samples/policy-reference)
 - [Writing a Custom Azure Policy](https://journeyofthegeek.com/2021/03/07/writing-a-custom-azure-policy/)
+- [How to update Azure Policy parameters in Azure Blueprints](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-update-azure-policy-parameters-in-azure-blueprints/ba-p/3037875)
 
 ## ARM Deployment
 - [How To deploy policies with ARM](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)
@@ -18,4 +19,8 @@ Links related to Azure Policy.
 - [Azure Policy initiative definition structure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure)
 - [Policy/RBAC Advertiser](https://www.azadvertizer.net/)
 - [How to deploy Azure Policies with ARM templates](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates/)
-- [Azure Policy built-in policy definitions](https://docs.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)
+- [Azure Policy for Deploy Anti-malware VM Extension for SQL VMs](https://blog.tyang.org/2021/10/03/azure-policy-deploy-ms-antimalware-ext-for-sql-vm/)
+- [General availability: Azure governance policy for Azure Key Vault](https://azure.microsoft.com/en-us/updates/gaazurepolicyforkeyvault/)
+- [Plugging the Gaps in Azure Policy – Part One](https://purple.telstra.com/blog/plugging-the-gaps-in-azure-policy-part-one)
+- [Monitoring Azure Policy Compliance States - 2021 Edition](https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition/)
+- [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)

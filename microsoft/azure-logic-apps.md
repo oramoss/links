@@ -14,3 +14,4 @@ Links related to Azure Logic Apps.
 ## Examples
 - [Azure Monitor - Alert Notification via Teams](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-alert-notification-via-teams/ba-p/2507676)
 - [Deploying Standard Logic App to Storage Account behind Firewall using Service or Private Endpoints](https://techcommunity.microsoft.com/t5/integrations-on-azure/deploying-standard-logic-app-to-storage-account-behind-firewall/ba-p/2626286?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)
+- [The logic app and the resource graph query](https://dbaharrison.blogspot.com/2021/10/the-logic-app-and-resource-graph-query.html?m=1)

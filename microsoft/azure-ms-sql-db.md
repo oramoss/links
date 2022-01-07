@@ -22,6 +22,8 @@ Links related to Microsoft SQL Database.
 - [HA/DR options with SQL Server in Azure and hybrid, James Serra](https://www.slideshare.net/jamserra/hadr-options-with-sql-server-in-azure-and-hybrid)
 - [SQL Managed Instances and datacenter or region level outages ](https://social.msdn.microsoft.com/Forums/en-US/137f8f3c-3a44-4919-a214-e547d5d18fc7/sql-managed-instances-and-datacenter-or-region-level-outages?forum=ssdsgetstarted)
 - [Use auto-failover groups to enable transparent and coordinated failover of multiple databases](https://docs.microsoft.com/en-us/azure/azure-sql/database/auto-failover-group-overview?tabs=azure-powershell)
+- [Automate Always On availability group deployments with SQL Virtual Machine resource provider](https://azure.microsoft.com/en-gb/blog/automate-always-on-availability-group-deployments-with-sql-virtual-machine-resource-provider/)
+- [Microsoft.SqlVirtualMachine sqlVirtualMachineGroups/availabilityGroupListeners 2017-03-01-preview](https://docs.microsoft.com/en-us/azure/templates/microsoft.sqlvirtualmachine/2017-03-01-preview/sqlvirtualmachinegroups/availabilitygrouplisteners?tabs=bicep)
 
 ## SQL
 - [SQL Injection](https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver15)

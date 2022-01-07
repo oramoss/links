@@ -18,6 +18,7 @@ Links related to Azure Windows Virtual Desktop.
 - [10 Critical Steps to Secure Windows Virtual Desktops](https://blog.enablingtechcorp.com/10-critical-steps-to-secure-windows-virtual-desktops)
 - [Learn how to increase the security level of your Azure Virtual Desktop environment (e.g. Windows Client) with Azure MFA and Conditional Access](https://christiaanbrinkhoff.com/2020/03/23/learn-how-to-increase-the-security-level-of-your-windows-virtual-desktop-environment-e-g-windows-client-with-azure-mfa-and-conditional-access/)
 - [How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/)
+- [Azure Virtual Desktop Portal Support for Trusted Launch VMs](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/azure-virtual-desktop-portal-support-for-trusted-launch-vms/m-p/3038763)
 
 ## Configuring
 - [Configuring WVD](https://www.youtube.com/watch?v=qtx3rippZJQ)
@@ -37,15 +38,20 @@ Links related to Azure Windows Virtual Desktop.
 - [Add PowerShell DSC extension to an existing Azure Virtual Machine](https://owendavies.net/articles/add-powershell-dsc-extension-to-existing-azure-virtual-machine/)
 - [Setting up Windows Virtual Desktop in Availability Zones](https://blog.nillsf.com/index.php/2020/03/09/setting-up-windows-virtual-desktop-in-availability-zones/)
 - [AVD Automation Cocktail – AVD automated with PowerShell](https://rozemuller.com/avd-automation-cocktail-avd-automated-with-powershell/)
+- [RDP Shortpath for managed networks is generally available!](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/rdp-shortpath-for-managed-networks-is-generally-available/m-p/2861468#M7986)
+- [Azure Virtual Desktop RDP Shortpath for managed networks](https://docs.microsoft.com/en-gb/azure/virtual-desktop/shortpath)
 
 ## FSLogix
 - [FSLogix for the enterprise](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix)
+- [Using FSLogix with Azure AD Join Storage Accounts](https://virtualdesktops.community/2021/12/using-fslogix-with-azure-ad-join-storage-accounts/)
 
 ## Templates
 - [Microsoft - Create Host Pool](https://github.com/Azure/RDS-Templates/blob/master/ARM-wvd-templates/CreateAndProvisionHostPool/CreateHostpoolTemplate.json)
+- [Deploy Azure Virtual Desktop with Project BICEP](https://tighetec.co.uk/2021/07/07/deploy-azure-virtual-desktop-with-project-bicep/)
 
 # FSLogix
 - [The SECRET to FSLogix | Windows Virtual Desktop](https://www.youtube.com/watch?v=ffZZGVTYHFk)
+- [Create a profile container with Azure Files and Azure Active Directory (preview)](https://docs.microsoft.com/en-gb/azure/virtual-desktop/create-profile-container-azure-ad)
 
 # Monitoring
 - [Using Azure Monitor for Monitoring Azure Virtual Desktop (AVD) and Estimating Your Costs](https://www.eginnovations.com/blog/azure-virtual-desktop-monitoring-avd/)

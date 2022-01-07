@@ -15,6 +15,8 @@ Links related to ARM.
 - [Join a Windows Server virtual machine to an Azure Active Directory Domain Services managed domain using a Resource Manager template](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/join-windows-vm-template)
 - [Using ARM templates to deploy Azure Policy initiatives](https://andrewmatveychuk.com/using-arm-templates-to-deploy-azure-policy-initiatives/)
 - [Step by step: Setup a CICD pipeline in Azure DevOps for ARM templates](https://4bes.nl/2020/06/14/step-by-step-setup-a-cicd-pipeline-in-azure-devops-for-arm-templates/)
+- [Deploy Management Group Hierarchy as a Code](https://automate.guru/deploy-management-group-hierarchy/)
+- [Current Azure Region Names — Reference](https://azuretracks.com/2021/04/current-azure-region-names-reference/)
 
 ## ARM Template Specs
 - [ARM Template Specs now GA!](https://dev.to/azure/arm-template-specs-now-ga-161a)

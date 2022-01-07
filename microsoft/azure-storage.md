@@ -18,7 +18,6 @@ Links related to Microsoft Storage.
 - [Use Azure File Share with Windows](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-windows)
 - [Tips and tricks for Azure File Shares](https://techcommunity.microsoft.com/t5/itops-talk-blog/tips-amp-tricks-for-azure-file-shares/ba-p/277943)
 - [How to backup and restore Azure file shares](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-backup-and-restore-azure-file-shares/ba-p/2117348)
-- [Use an Azure file share with Windows](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-windows)
 - [Preview of Active Directory authentication support on Azure Files](https://azure.microsoft.com/en-us/blog/preview-of-active-directory-for-authentication-on-azure-file/)
 - [Blog post about Copying Azure files to SharePoint, comparing Logic App and Power Automate Flow for this, and Trust No One](http://datanrg.blogspot.com/2021/05/a-blog-post-about-copying-azure-files.html?m=1)
 - [Azure Files – Part 4 – Back Up for Azure Files](https://getpractical.co.uk/2021/08/23/azure-files-part-4-back-up-for-azure-files/)
@@ -30,6 +29,7 @@ Links related to Microsoft Storage.
 - [net use map drive with UserPrincipalName not working - using UPN with mapped drives](https://social.technet.microsoft.com/Forums/windows/en-US/4d4c7905-a0c1-470d-95ac-414d4a4e9c72/net-use-map-drive-with-userprincipalname-not-working?forum=w7itpronetworking)
 - [Azure Storage redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/blobs/toc.json)
 - [File Server to Microsoft 365 Enterprise 2020](https://www.youtube.com/watch?v=ZrIGdLz1-p0)
+- [sFTP Server support](https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support)
 
 ## Redundancy
 - [Understanding Azure storage redundancy offerings](https://techcommunity.microsoft.com/t5/azure-storage/understanding-azure-storage-redundancy-offerings/ba-p/1431700)

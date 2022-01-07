@@ -57,3 +57,5 @@ Links related to Azure DevOps.
 - [ADO Migration MS main page](https://azure.microsoft.com/en-us/services/devops/migrate/)
 - [Controlling Release Pipelines with Gates and Azure Policy Compliance](https://devblogs.microsoft.com/devops/controlling-release-pipelines-with-gates-and-azure-policy-compliance/)
 - [Azure DevOps Multi-Stage Pipelines](https://mediaglasses.blog/azure-devops-multi-stage-pipelines-bcbed581fa2d)
+- [Git Workflow Basics for Azure DevOps Engineers](https://cloudskills.io/blog/git-workflow-azure)
+- [A DevOps journey using Azure DevOps](https://thomasthornton.cloud/2021/12/26/a-devops-journey-using-azure-devops/)
