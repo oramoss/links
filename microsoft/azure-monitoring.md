@@ -17,6 +17,7 @@ Links related to Azure Monitoring.
 - [Resource Manager template samples for diagnostic settings in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/resource-manager-diagnostic-settings)
 - [Set up diagnostics for Azure Cloud Services and virtual machines](https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-diagnostics-for-cloud-services-and-virtual-machines?view=vs-2019)
 - [Utilizing Azure Log Analytics Workspace for Azure Storage Account Logs](https://visualbi.com/blogs/microsoft/powerbi/utilizing-azure-log-analytics-workspace-azure-storage-account-logs/)
+- [Azure Monitor Private Link](https://cloudjourney.medium.com/azure-monitor-private-link-a8a4544facaf)
 
 ## KQL
 - [KQL Cheat Sheet](https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet.pdf)
