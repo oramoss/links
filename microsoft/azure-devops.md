@@ -60,3 +60,5 @@ Links related to Azure DevOps.
 - [Git Workflow Basics for Azure DevOps Engineers](https://cloudskills.io/blog/git-workflow-azure)
 - [A DevOps journey using Azure DevOps](https://thomasthornton.cloud/2021/12/26/a-devops-journey-using-azure-devops/)
 - [Pull Requests](https://www.azuredevopslabs.com/labs/azuredevops/pullrequests/)
+- [Create an Azure DevOps service connection to Azure with PowerShell](https://4bes.nl/2020/12/20/create-an-azure-devops-service-connection-to-azure-with-powershell/)
+- [Securing Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/security/overview?view=azure-devops)

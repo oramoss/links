@@ -25,3 +25,4 @@ Links related to Azure Policy.
 - [Monitoring Azure Policy Compliance States - 2021 Edition](https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition/)
 - [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)
 - [Enable resource logs in Virtual Machine Scale Sets with an Azure Policy](https://medium.com/microsoftazure/enable-resource-logs-in-virtual-machine-scale-sets-with-an-azure-policy-14624387cf2f)
+- [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
