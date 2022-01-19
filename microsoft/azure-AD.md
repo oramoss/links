@@ -23,3 +23,4 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Best practices for Azure AD roles](https://docs.microsoft.com/en-us/azure/active-directory/roles/best-practices#8-use-cloud-native-accounts-for-azure-ad-roles)
 - [Login to a Linux virtual machine in Azure with Azure Active Directory using openSSH certificate-based authentication](https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux)
 - [Scary Azure AD Tenant Enumeration… Using Regular B2B Guest Accounts](https://danielchronlund.com/2021/11/18/scary-azure-ad-tenant-enumeration-using-regular-b2b-guest-accounts/)
+- [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)

@@ -5,6 +5,9 @@ Links related to Azure Windows Virtual Desktop.
 - [Overview](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
 - [Choosing Between Windows 365 and Azure Virtual Desktop (AVD): A Business Perspective](https://getnerdio.com/academy-enterprise/choosing-between-windows-365-and-azure-virtual-desktop-avd/)
 
+## Exam / Certification
+- [AZ-140 Study Guide: Azure Virtual Desktop](https://www.thomasmaurer.ch/2021/02/az-140-study-guide-windows-virtual-desktop-on-microsoft-azure/)
+
 ## Registrations
 - [Getting started: Windows Virtual Desktop ARM-based Azure portal](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466)
 

@@ -22,3 +22,4 @@ Links related to Key Vault.
 - [Azure AD Application Rotator](https://github.com/LockTar/AzureAdApplicationRotator)
 - [KeyVault Secrets Rotation Management](https://devkimchi.com/2021/02/17/keyvault-secrets-rotation-management/)
 - [General availability: Azure governance policy for Azure Key Vault](https://azure.microsoft.com/en-us/updates/gaazurepolicyforkeyvault/)
+- [Configure key auto-rotation in Azure Key Vault (preview)](https://docs.microsoft.com/en-us/azure/key-vault/keys/how-to-configure-key-rotation)

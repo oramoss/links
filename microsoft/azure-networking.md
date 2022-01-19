@@ -75,6 +75,8 @@ Links related to Azure Networking.
 
 ## Routing
 - [Azure Routing explained in plain English with a story in 10 mins-User Defined Routes, Route priority](https://www.youtube.com/watch?app=desktop&v=tXLScLO-DRI&feature=youtu.be)
+- [What is Azure Route Server?](https://docs.microsoft.com/en-us/azure/route-server/overview)
+
 
 ## Monitoring
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)

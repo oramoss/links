@@ -26,3 +26,5 @@ Links related to Azure Policy.
 - [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)
 - [Enable resource logs in Virtual Machine Scale Sets with an Azure Policy](https://medium.com/microsoftazure/enable-resource-logs-in-virtual-machine-scale-sets-with-an-azure-policy-14624387cf2f)
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
+- [Enforce CanNotDelete Resource Lock using Azure Policy](https://jeffbrown.tech/azure-policy-resource-lock/)
+- [Audit server settings with Azure Policy Guest Configuration](https://www.thomasmaurer.ch/2021/03/audit-server-settings-with-azure-policy-guest-configuration/)

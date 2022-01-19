@@ -8,6 +8,9 @@ Links related to Microsoft SQL Database.
 - [Copy a transactionally consistent copy of a database in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/database-copy?tabs=azure-powershell)
 - [Register SQL Server VM with SQL IaaS Agent Extension](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-agent-extension-manually-register-single-vm?tabs=bash%2Cazure-cli)
 
+## Templating
+- [Azure SQL Virtual Machines - Sharing My Code and Experience](https://blog.tyang.org/2022/01/13/azure-sql-vm)
+
 ## Networking
 - [Azure Private Link for Azure SQL Database and Azure Synapse Analytics](https://docs.microsoft.com/en-gb/azure/azure-sql/database/private-endpoint-overview)
 - [Azure SQL Database and Azure Synapse Analytics connectivity architecture](https://docs.microsoft.com/en-gb/azure/sql-database/sql-database-connectivity-architecture#connection-policy)
