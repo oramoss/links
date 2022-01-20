@@ -62,3 +62,4 @@ Links related to Azure DevOps.
 - [Pull Requests](https://www.azuredevopslabs.com/labs/azuredevops/pullrequests/)
 - [Create an Azure DevOps service connection to Azure with PowerShell](https://4bes.nl/2020/12/20/create-an-azure-devops-service-connection-to-azure-with-powershell/)
 - [Securing Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/security/overview?view=azure-devops)
+- [Programmatically create Azure Enterprise Agreement subscriptions with the latest APIs](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/programmatically-create-subscription-enterprise-agreement?tabs=rest)
