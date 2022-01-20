@@ -44,6 +44,7 @@ Links related to Microsoft SQL Database.
 
 ## Training
 - [Fundamentals of Database Administration - Brent Ozars](https://www.youtube.com/playlist?app=desktop&list=PLDYqU5RH_aX1hdZ32WfXklJlkh-H74juv)
+- [Features comparison: Azure SQL Database and Azure SQL Managed Instance](https://docs.microsoft.com/en-us/azure/azure-sql/database/features-comparison)
 
 ## Managed Instance
 - [Delete a subnet after deleting an Azure SQL Managed Instance](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/virtual-cluster-delete)
