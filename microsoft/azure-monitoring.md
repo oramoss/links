@@ -26,6 +26,7 @@ Links related to Azure Monitoring.
 - [Useful Log Analytics Queries to troubleshoot your Azure Application Gateway V2 & WAF traffic](https://cloud-addicted.com/useful-log-analytics-queries-to-troubleshoot-your-azure-application-gateway-waf-traffic)
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [Using the KQL query results to find the exact registry setting to remediate security configurations](https://www.catapultsystems.com/blogs/using-the-kql-query-results-to-find-the-exact-registry-setting-to-remediate-security-configurations/)
+- [KQL Cheat Sheet](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404)
 
 ## Log Analytics Workspaces
 - [Utilizing Azure Log Analytics Workspace for Azure Storage Account Logs](https://visualbi.com/blogs/microsoft/powerbi/utilizing-azure-log-analytics-workspace-azure-storage-account-logs/)
