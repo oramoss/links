@@ -58,6 +58,7 @@ Links related to Virtual Machine.
 - [bginfo tool](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
 - [How to Get a Windows 11 ISO File and Do a Clean Install](https://www.tomshardware.com/how-to/clean-install-windows-11)
 - [Building VM Images Using Azure Image Builder](https://www.pluralsight.com/courses/building-vm-images-using-azure-image-builder)
+- [Custom VM Images on Azure](https://www.spectrocloud.com/blog/custom-vm-images-on-azure/)
 
 ## Desired State Configuration
 - [Azure & Desired State Configuration Part 1/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-1-4/ba-p/2609032)
