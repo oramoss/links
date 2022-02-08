@@ -13,3 +13,6 @@ Links related to Azure Automation.
 
 # DSC
 - [Azure Automation Configuring Desired State Configuration](https://itnext.io/azure-automation-configuring-desired-state-configuration-4091d94e85d9)
+
+# Miscellaneous
+- [Deploying Azure Subscriptions, as Code](https://theautomationdude.github.io/blog/posts/deployazsubscriptionsascode/)

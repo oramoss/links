@@ -30,6 +30,7 @@ Links related to Microsoft Storage.
 - [Azure Storage redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/blobs/toc.json)
 - [File Server to Microsoft 365 Enterprise 2020](https://www.youtube.com/watch?v=ZrIGdLz1-p0)
 - [sFTP Server support](https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support)
+- [Azure Data Services and Storage](https://www.youtube.com/watch?v=VZiHayNK2qc&t=2416s)
 
 ## Redundancy
 - [Understanding Azure storage redundancy offerings](https://techcommunity.microsoft.com/t5/azure-storage/understanding-azure-storage-redundancy-offerings/ba-p/1431700)

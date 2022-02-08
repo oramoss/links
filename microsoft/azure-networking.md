@@ -76,6 +76,7 @@ Links related to Azure Networking.
 ## Routing
 - [Azure Routing explained in plain English with a story in 10 mins-User Defined Routes, Route priority](https://www.youtube.com/watch?app=desktop&v=tXLScLO-DRI&feature=youtu.be)
 - [What is Azure Route Server?](https://docs.microsoft.com/en-us/azure/route-server/overview)
+- [Azure Route Server: to encap or not to encap, that is the question](https://blog.cloudtrooper.net/2022/02/06/azure-route-server-to-encap-or-not-to-encap-that-is-the-question/amp/)
 
 
 ## Monitoring

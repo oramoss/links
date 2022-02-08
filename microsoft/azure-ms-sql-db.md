@@ -56,3 +56,6 @@ Links related to Microsoft SQL Database.
 
 ## VM
 - [Windows Server Failover Cluster with SQL Server on Azure VMs](https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/hadr-windows-server-failover-cluster-overview)
+
+## Stretch
+- [From Madrid to heaven with SQL Server Stretch](https://labs.sogeti.com/from-madrid-to-heaven-with-sql-server-stretch/)

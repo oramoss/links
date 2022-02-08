@@ -93,6 +93,7 @@ Links related to Azure Cloud Architecture.
 ## Governance
 - [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
 - [What is the difference between NIST, CIS/SANS 20, ISO 27001 Compliance Standards?](https://www.cloudanix.com/blog/what-is-the-difference-between-nist-cis-sans-20-iso-27001-compliance-standards/)
+- [Azure Identities and Roles Governance Dashboard At Your Fingertips](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-identities-and-roles-governance-dashboard-at-your/ba-p/3068613)
 
 ## Migration
 - [Legacy Business App Migration to Microsoft Azure 2020](https://www.youtube.com/watch?v=b5-uWmCWfIw)
