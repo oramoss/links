@@ -43,6 +43,7 @@ Links related to Azure Windows Virtual Desktop.
 - [AVD Automation Cocktail – AVD automated with PowerShell](https://rozemuller.com/avd-automation-cocktail-avd-automated-with-powershell/)
 - [RDP Shortpath for managed networks is generally available!](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/rdp-shortpath-for-managed-networks-is-generally-available/m-p/2861468#M7986)
 - [Azure Virtual Desktop RDP Shortpath for managed networks](https://docs.microsoft.com/en-gb/azure/virtual-desktop/shortpath)
+- [Step by step configuration of the Azure AD Join AVD VM’s and how to use FSLogix Cloud Cached Configuration](https://whyazure.in/step-by-step-configuration-of-the-azure-ad-join-avd-vms-and-how-to-use-fslogix-cloud-cached-configuration/)
 
 ## FSLogix
 - [FSLogix for the enterprise](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix)
