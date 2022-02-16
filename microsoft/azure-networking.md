@@ -145,6 +145,9 @@ Links related to Azure Networking.
 ## Training
 - [John Savill - AZ700](https://lnkd.in/g8e7ADy)
 
+## Service Endpoints
+- [Azure Virtual Network Service Endpoints](https://www.yobyot.com/powershell/azure-virtual-network-service-endpoints/2020/01/14/)
+
 ## Miscellaneous
 - [Get the List of All Azure VMs With All Their Private and Public IPs](https://mihai-albert.com/2020/10/01/get-the-list-of-all-azure-vms-with-all-their-private-and-public-ips/)
 - [Intranet site is identified as an Internet site when you use an FQDN or an IP address](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/intranet-site-identified-as-an-internet-site)

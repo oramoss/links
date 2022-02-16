@@ -49,3 +49,6 @@ Links related to Azure Monitoring.
 - [Useful Azure Application Gateway WAF queries](https://www.bramstoop.com/posts/2020/07/2020-07-29-useful-azure-application-gateway-waf-querys/)
 - [Useful Log Analytics Queries to troubleshoot your Azure Application Gateway V2 & WAF traffic](https://cloud-addicted.com/useful-log-analytics-queries-to-troubleshoot-your-azure-application-gateway-waf-traffic)
 - [Resource Manager template samples for diagnostic settings in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/resource-manager-diagnostic-settings)
+- [Data Sources in Workbooks](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/DataSources/DataSources.md)
+- [Reusing query data in different visualizations](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/Samples/ReusingQueryData.md)
+
