@@ -60,6 +60,9 @@ Links related to Azure Windows Virtual Desktop.
 # Monitoring
 - [Using Azure Monitor for Monitoring Azure Virtual Desktop (AVD) and Estimating Your Costs](https://www.eginnovations.com/blog/azure-virtual-desktop-monitoring-avd/)
 
+## Networking
+- [Collect and query Network Data for Azure Virtual Desktop connections](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/collect-and-query-network-data-for-azure-virtual-desktop/m-p/3140397#M8587)
+
 ## Miscellaneous
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)
 - [Troubleshooting connectivity from the RD Client to WVD Part 2 – Log Analytics](https://virtuallyflatfeet.wordpress.com/2020/05/25/troubleshooting-connectivity-from-the-rd-client-to-wvd-part-2-log-analytics/)

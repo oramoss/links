@@ -12,6 +12,7 @@ Links related to Microsoft Storage.
 - [Azure Block Blob Storage Backup](https://azure.microsoft.com/en-us/blog/microsoft-azure-block-blob-storage-backup/)
 - [Enable soft delete for blobs](https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-enable?tabs=azure-portal)
 - [Choose how to authorize access to blob data in the Azure portal](https://docs.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-portal)
+- [Sync Folder with Azure Blob Storage](https://www.thomasmaurer.ch/2019/06/sync-folder-with-azure-blob-storage/)
 
 ## Files
 - [Use an Azure file share with Windows](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-windows)

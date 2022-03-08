@@ -97,6 +97,10 @@ Links related to Azure Security.
 
 ## Identity
 - [Azure Managed Identities and Service Principals](https://thomasthornton.cloud/2020/10/14/azure-managed-identities-and-service-principals/amp/)
+- [Demystifying Service Principals – Managed Identities](https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/)
 
 ## Sentinel
 - [Secure Slack connectivity for Sentinel](https://github.com/msvdpriya/SecureSlackWithAzureSentinel)
+
+## Defender For Cloud
+- [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)

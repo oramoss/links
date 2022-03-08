@@ -123,6 +123,7 @@ Links related to Azure Networking.
 - [Firewall Considerations – Windows Virtual Desktop (WVD)](https://ryanmangansitblog.com/2020/05/11/firewall-considerations-windows-virtual-desktop-wvd/)
 - [How to Set up an Azure Firewall (And Why Not NSGS)](https://adamtheautomator.com/azure-firewall/)
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
+- [Fixing Azure Firewall Monitor Workbook](https://www-cryingcloud-com.cdn.ampproject.org/c/s/www.cryingcloud.com/blog/2022/2/9/fixing-azure-firewall-monitor-workbook?format=amp)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)

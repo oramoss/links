@@ -20,3 +20,5 @@ Links related to Bicep.
 - [Create Management Groups and Subscriptions with Bicep](https://codingwithtaz.blog/2021/08/20/create-management-groups-and-subscriptions-with-bicep/)
 - [Deploy Azure Virtual Desktop with Project BICEP](https://tighetec.co.uk/2021/07/07/deploy-azure-virtual-desktop-with-project-bicep/)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
+- [Azure Bicep Module for Management Group Hierarchy](https://blog.tyang.org/2022/02/27/management-group-bicep-module)
+- [Generate Bicep templates from existing Azure resources with VS Code](https://zimmergren.net/generate-bicep-templates-from-existing-azure-resources-vscode/)
