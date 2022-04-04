@@ -104,3 +104,6 @@ Links related to Azure Security.
 
 ## Defender For Cloud
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)
+
+## Azure Security Benchmark
+- [What’s new: Azure Security Benchmark Workbook update](https://devblogs.microsoft.com/azuregov/whats-new-azure-security-benchmark-workbook-update/)

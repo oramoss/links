@@ -30,6 +30,7 @@ Links related to Azure App Service.
 - [App Service networking features](https://docs.microsoft.com/en-us/azure/app-service/networking-features)
 - [Azure App Service Networking - Sam Cogan](https://samcogan.com/azure-app-service-networking/)
 - [Configuring Wildcard Domain SSL to Azure App Services](https://medium.com/pooran-tech/wildcard-domain-ssl-configuring-in-azure-app-services-e1cefc8d75bf)
+- [App Service Support for Availability Zones](https://azure.github.io/AppService/2021/08/25/App-service-support-for-availability-zones.html)
 
 ## App Insights
 - [Enforce authentication when sending Application Insights telemetry](https://zimmergren.net/enforce-authentication-when-sending-application-insights-telemetry/)

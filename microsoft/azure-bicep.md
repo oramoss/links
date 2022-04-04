@@ -22,3 +22,4 @@ Links related to Bicep.
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
 - [Azure Bicep Module for Management Group Hierarchy](https://blog.tyang.org/2022/02/27/management-group-bicep-module)
 - [Generate Bicep templates from existing Azure resources with VS Code](https://zimmergren.net/generate-bicep-templates-from-existing-azure-resources-vscode/)
+- [Testing Bicep Code Using PSRule in Azure Pipeline](https://blog.tyang.org/2022/03/20/azure-pipeline-psrule-bicep-test)

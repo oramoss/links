@@ -86,3 +86,5 @@ Links related to Azure Windows Virtual Desktop.
 - [Azure Virtual Desktop technical (ARM-based model) deployment walkthrough. It covers all you need to know and beyond!](https://www.christiaanbrinkhoff.com/2020/05/01/windows-virtual-desktop-technical-2020-spring-update-arm-based-model-deployment-walkthrough/)
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)
 - [Windows Virtual Desktop Image Management Automated – Part 3 – Create WVD sessionhosts on image version with ARM](https://rozemuller.com/windows-virtual-desktop-image-management-automated-part-3-create-wvd-sessionhosts-based-on-shared-image-gallery-version-with-arm/)
+- [Reassign a WVD Personal Session Host](https://xenithit.blogspot.com/2021/04/reassign-wvd-personal-session-host.html)
+- [AVD Automation Cocktail – AVD automated with PowerShell](https://rozemuller.com/avd-automation-cocktail-avd-automated-with-powershell/)
