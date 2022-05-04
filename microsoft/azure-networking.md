@@ -125,7 +125,7 @@ Links related to Azure Networking.
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
 - [Fixing Azure Firewall Monitor Workbook](https://www-cryingcloud-com.cdn.ampproject.org/c/s/www.cryingcloud.com/blog/2022/2/9/fixing-azure-firewall-monitor-workbook?format=amp)
 - [Choosing between Azure Firewall and Network Security Groups](https://www.schutten.cloud/post/choosing-firewall-nsg/)
-
+- [Azure Firewall’s sidekick to join the BGP superheroes](https://blog.cloudtrooper.net/2022/05/02/azure-firewalls-sidekick-to-join-the-bgp-superheroes/amp/)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)

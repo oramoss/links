@@ -32,6 +32,7 @@ Links related to Azure Data Factory.
 - [Richard Swinbank ADF Testing Framework Series](https://richardswinbank.net/tag/adftesting?do=showtag&tag=adftesting)
 - [Creating a generic (template) pipeline in Azure Data Factory to send email messages with attached files from Azure Storage account](http://datanrg.blogspot.com/2021/05/creating-generic-template-pipeline-in.html?m=1)
 - [Data Engineering with Databricks and ADF](https://www.youtube.com/watch?app=desktop&v=y49l4rXKSXc)
+- [Azure Data Factory and the Exact Online REST API – Introduction](https://sqlkover.com/azure-data-factory-and-the-exact-online-rest-api-introduction/)
 
 ## Training
 - [A Day Full Of ADF - Paul Andrew](https://github.com/mrpaulandrew/A-Day-Full-of-Azure-Data-Factory)

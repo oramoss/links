@@ -16,6 +16,7 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Topologies for Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-connect-topologies)
 - [Azure AD Kerberos authentication (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/how-to-authentication-kerberos)
 - [Microsoft Azure AD Resiliency Deep Dive](https://www.youtube.com/watch?v=Zk7A9U39JeI)
+- [AzADServicePrincipalInsights](https://github.com/JulianHayward/AzAdServicePrincipalInsights)
 
 ## Security
 - [Active Directory Security](https://adsecurity.org/)
@@ -24,3 +25,4 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Login to a Linux virtual machine in Azure with Azure Active Directory using openSSH certificate-based authentication](https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux)
 - [Scary Azure AD Tenant Enumeration… Using Regular B2B Guest Accounts](https://danielchronlund.com/2021/11/18/scary-azure-ad-tenant-enumeration-using-regular-b2b-guest-accounts/)
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
+- [Azure AD: You Should Disable This Legacy MFA Setting](https://ericonidentity.com/2022/04/26/azure-ad-you-should-disable-this-legacy-mfa-setting/)

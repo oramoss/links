@@ -88,3 +88,5 @@ Links related to Azure Windows Virtual Desktop.
 - [Windows Virtual Desktop Image Management Automated – Part 3 – Create WVD sessionhosts on image version with ARM](https://rozemuller.com/windows-virtual-desktop-image-management-automated-part-3-create-wvd-sessionhosts-based-on-shared-image-gallery-version-with-arm/)
 - [Reassign a WVD Personal Session Host](https://xenithit.blogspot.com/2021/04/reassign-wvd-personal-session-host.html)
 - [AVD Automation Cocktail – AVD automated with PowerShell](https://rozemuller.com/avd-automation-cocktail-avd-automated-with-powershell/)
+- [WVDAdmin - Installation and configuration in 4 steps](https://www.youtube.com/watch?v=fH1_FzNyJf0)
+- [Setting up Azure Monitor with Log Analytics for Azure Virtual Desktop](https://terenceluk.blogspot.com/2022/04/setting-up-azure-monitor-with-log.html)
