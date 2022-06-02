@@ -29,3 +29,4 @@ Links related to Microsoft Synapse.
 - [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end)
 - [Understanding Azure Synapse Private Endpoints](https://techcommunity.microsoft.com/t5/azure-architecture-blog/understanding-azure-synapse-private-endpoints/ba-p/2281463)
 - [Connect to Azure Synapse Studio using Azure Private Link Hubs](https://docs.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs)
+- [Analytics end-to-end with Azure Synapse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=portal)

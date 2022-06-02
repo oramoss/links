@@ -97,3 +97,7 @@ Links related to Azure Cloud Architecture.
 
 ## Migration
 - [Legacy Business App Migration to Microsoft Azure 2020](https://www.youtube.com/watch?v=b5-uWmCWfIw)
+
+## Miscellaneous
+- [Guidance for Architecting Mission Critical Apps on Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/guidance-for-architecting-mission-critical-apps-on-azure/ba-p/3201745)
+- [Services that are easy to optimize during Azure Migration](https://azureis.fun/posts/Services-that-are-easy-to-optimize-during-Azure-Migration/)

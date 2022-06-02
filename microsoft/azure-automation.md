@@ -16,3 +16,9 @@ Links related to Azure Automation.
 
 # Miscellaneous
 - [Deploying Azure Subscriptions, as Code](https://theautomationdude.github.io/blog/posts/deployazsubscriptionsascode/)
+
+# Update Management
+- [Azure Tip: Set Azure Update Management scope configuration to Enable on all available and future machines](https://wmatthyssen.com/2022/03/09/azure-tip-set-azure-update-management-scope-configuration-to-enable-on-all-available-and-future-machines/)
+
+# Windows AutoPatch
+- [Windows Autopatch documentation](https://docs.microsoft.com/en-us/windows/deployment/windows-autopatch/)

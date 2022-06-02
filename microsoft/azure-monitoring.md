@@ -11,6 +11,7 @@ Links related to Azure Monitoring.
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)
 - [Azure Monitor - Alert Notification via Teams](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-alert-notification-via-teams/ba-p/2507676)
 - [Create Automation Account Runbook job failure alert](https://docs.microsoft.com/en-us/azure/automation/automation-alert-metric)
+- [Setting up Azure Monitor with Log Analytics for Azure Virtual Desktop](https://terenceluk.blogspot.com/2022/04/setting-up-azure-monitor-with-log.html)
 
 ## Logging
 - [Use monitoring and diagnostics with a Windows VM and Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-template)

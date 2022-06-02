@@ -23,6 +23,9 @@ Links related to Azure Windows Virtual Desktop.
 - [How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/)
 - [Azure Virtual Desktop Portal Support for Trusted Launch VMs](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/azure-virtual-desktop-portal-support-for-trusted-launch-vms/m-p/3038763)
 
+## Images
+- [Azure Trusted Launch and Custom Images - even for AVD](https://blog.itprocloud.de/AVD-Azure-Trusted-Launch-and-Custom-Images/)
+
 ## Configuring
 - [Configuring WVD](https://www.youtube.com/watch?v=qtx3rippZJQ)
 - [Multi Forest](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest)
@@ -60,6 +63,9 @@ Links related to Azure Windows Virtual Desktop.
 # Monitoring
 - [Using Azure Monitor for Monitoring Azure Virtual Desktop (AVD) and Estimating Your Costs](https://www.eginnovations.com/blog/azure-virtual-desktop-monitoring-avd/)
 
+## Networking
+- [Collect and query Network Data for Azure Virtual Desktop connections](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/collect-and-query-network-data-for-azure-virtual-desktop/m-p/3140397#M8587)
+
 ## Miscellaneous
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)
 - [Troubleshooting connectivity from the RD Client to WVD Part 2 – Log Analytics](https://virtuallyflatfeet.wordpress.com/2020/05/25/troubleshooting-connectivity-from-the-rd-client-to-wvd-part-2-log-analytics/)
@@ -83,3 +89,7 @@ Links related to Azure Windows Virtual Desktop.
 - [Azure Virtual Desktop technical (ARM-based model) deployment walkthrough. It covers all you need to know and beyond!](https://www.christiaanbrinkhoff.com/2020/05/01/windows-virtual-desktop-technical-2020-spring-update-arm-based-model-deployment-walkthrough/)
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)
 - [Windows Virtual Desktop Image Management Automated – Part 3 – Create WVD sessionhosts on image version with ARM](https://rozemuller.com/windows-virtual-desktop-image-management-automated-part-3-create-wvd-sessionhosts-based-on-shared-image-gallery-version-with-arm/)
+- [Reassign a WVD Personal Session Host](https://xenithit.blogspot.com/2021/04/reassign-wvd-personal-session-host.html)
+- [AVD Automation Cocktail – AVD automated with PowerShell](https://rozemuller.com/avd-automation-cocktail-avd-automated-with-powershell/)
+- [WVDAdmin - Installation and configuration in 4 steps](https://www.youtube.com/watch?v=fH1_FzNyJf0)
+- [Setting up Azure Monitor with Log Analytics for Azure Virtual Desktop](https://terenceluk.blogspot.com/2022/04/setting-up-azure-monitor-with-log.html)

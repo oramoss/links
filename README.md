@@ -29,6 +29,7 @@ This repository has a list of links to various articles, books, videos, blogs an
 - [Azure Instrumentation](./microsoft/azure-instrumentation.md)
 - [Azure Intune](./microsoft/azure-intune.md)
 - [Azure Key Vault](./microsoft/azure-keyvault.md)
+- [Azure LightHouse](./microsoft/azure-lighthouse.md)
 - [Azure Logic Apps](./microsoft/azure-logic-apps.md)
 - [Azure Monitoring](./microsoft/azure-monitoring.md)
 - [Azure SQL Database](./microsoft/azure-ms-sql-db.md)

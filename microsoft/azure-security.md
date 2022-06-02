@@ -97,6 +97,19 @@ Links related to Azure Security.
 
 ## Identity
 - [Azure Managed Identities and Service Principals](https://thomasthornton.cloud/2020/10/14/azure-managed-identities-and-service-principals/amp/)
+- [Demystifying Service Principals – Managed Identities](https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/)
+- [Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw&list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
+- [Introduction to granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/gdap-introduction)
+
 
 ## Sentinel
 - [Secure Slack connectivity for Sentinel](https://github.com/msvdpriya/SecureSlackWithAzureSentinel)
+- [Design your Microsoft Sentinel workspace architecture](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)
+
+## Defender For Cloud
+- [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)
+- [Top 3 favorite capabilities in Microsoft Defender for Cloud](https://zimmergren-net.cdn.ampproject.org/c/s/zimmergren.net/top-capabilities-in-microsoft-defender-for-cloud/amp/)
+
+
+## Azure Security Benchmark
+- [What’s new: Azure Security Benchmark Workbook update](https://devblogs.microsoft.com/azuregov/whats-new-azure-security-benchmark-workbook-update/)

@@ -50,6 +50,7 @@ Links related to Microsoft SQL Database.
 - [Delete a subnet after deleting an Azure SQL Managed Instance](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/virtual-cluster-delete)
 - [Connectivity architecture for Azure SQL Managed Instance](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview)
 - [High availability for Azure SQL Database and SQL Managed Instance](https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla)
+- [Mert to the Future #15 - Azure SQL MI with Gonzalo Bissio](https://www.youtube.com/watch?v=Xr3mhn3csd0)
 
 ## Elastic
 - [Azure SQL Database elastic query overview (preview)](https://docs.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview)
