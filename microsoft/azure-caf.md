@@ -10,3 +10,4 @@ Links related to Azure Cloud Adoption Framework.
 
 # Miscellaneous
 - [Azure - Hub and Spoke - Playground](https://nicolgit.github.io/azure-hub-and-spoke-playground/)
+- [Detecting & Preventing Rogue Azure Subscriptions](https://blog.nviso.eu/2022/05/18/detecting-preventing-rogue-azure-subscriptions/)

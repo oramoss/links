@@ -4,6 +4,15 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 ## Roles
 - [What's the difference between Azure roles and Azure AD roles?](https://techcommunity.microsoft.com/t5/itops-talk-blog/what-s-the-difference-between-azure-roles-and-azure-ad-roles/ba-p/2363647)
 
+## Security
+- [Active Directory Security](https://adsecurity.org/)
+- [Break Glass Account Best Practices in Azure AD](https://danielchronlund.com/2019/04/08/break-glass-account-best-practices-in-azure-ad/)
+- [Best practices for Azure AD roles](https://docs.microsoft.com/en-us/azure/active-directory/roles/best-practices#8-use-cloud-native-accounts-for-azure-ad-roles)
+- [Login to a Linux virtual machine in Azure with Azure Active Directory using openSSH certificate-based authentication](https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux)
+- [Scary Azure AD Tenant Enumeration… Using Regular B2B Guest Accounts](https://danielchronlund.com/2021/11/18/scary-azure-ad-tenant-enumeration-using-regular-b2b-guest-accounts/)
+- [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
+- [Azure AD: You Should Disable This Legacy MFA Setting](https://ericonidentity.com/2022/04/26/azure-ad-you-should-disable-this-legacy-mfa-setting/)
+
 # Miscellaneous
 - [Deep Diver – Azure AD Conditional Access authentication context setup for custom apps and MS Cloud App Security](https://securecloud.blog/2021/05/22/deep-diver-azure-ad-conditional-access-authentication-context-setup-for-custom-apps-and-ms-cloud-app-security/amp/)
 - [Azure AD Exporter](https://github.com/microsoft/azureadexporter/)
@@ -17,12 +26,4 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Azure AD Kerberos authentication (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/how-to-authentication-kerberos)
 - [Microsoft Azure AD Resiliency Deep Dive](https://www.youtube.com/watch?v=Zk7A9U39JeI)
 - [AzADServicePrincipalInsights](https://github.com/JulianHayward/AzAdServicePrincipalInsights)
-
-## Security
-- [Active Directory Security](https://adsecurity.org/)
-- [Break Glass Account Best Practices in Azure AD](https://danielchronlund.com/2019/04/08/break-glass-account-best-practices-in-azure-ad/)
-- [Best practices for Azure AD roles](https://docs.microsoft.com/en-us/azure/active-directory/roles/best-practices#8-use-cloud-native-accounts-for-azure-ad-roles)
-- [Login to a Linux virtual machine in Azure with Azure Active Directory using openSSH certificate-based authentication](https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux)
-- [Scary Azure AD Tenant Enumeration… Using Regular B2B Guest Accounts](https://danielchronlund.com/2021/11/18/scary-azure-ad-tenant-enumeration-using-regular-b2b-guest-accounts/)
-- [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
-- [Azure AD: You Should Disable This Legacy MFA Setting](https://ericonidentity.com/2022/04/26/azure-ad-you-should-disable-this-legacy-mfa-setting/)
+- [To AAD Join or Not … That is the Question](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/to-aad-join-or-not-that-is-the-question/ba-p/3435768)
