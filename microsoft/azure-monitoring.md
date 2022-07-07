@@ -5,6 +5,7 @@ Links related to Azure Monitoring.
 - [How to create robust monitor solutions with PowerShell, Azure Functions and Logic App Video](https://blog.sandro-pereira.com/2021/02/01/how-to-create-robust-monitor-solutions-with-powershell-azure-functions-and-logic-apps-azure-lowlands-video-and-slides-available/)
 
 ## Techniques
+- [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
 - [Using Azure to check a website is up - part 1](https://dbaharrison.blogspot.com/2021/03/using-azure-to-check-website-is-up-part.html?m=1)
 - [Monitor Elevate Access Activity in Azure with Azure Sentinel](https://samilamppu.com/2021/02/09/monitor-elevate-access-activity-in-azure-with-azure-sentinel/)
 - [Best practices for monitoring Microsoft Azure platform logs](https://www.datadoghq.com/blog/monitoring-azure-platform-logs/)

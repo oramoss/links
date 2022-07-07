@@ -38,6 +38,7 @@ Links related to Virtual Machine.
 - [https://charbelnemnom.com/patch-azure-vms-using-azure-update-management/](https://charbelnemnom.com/patch-azure-vms-using-azure-update-management/)
 
 ## Miscellaneous
+- [Audit server settings with Azure Policy Guest Configuration](https://www.thomasmaurer.ch/2021/03/audit-server-settings-with-azure-policy-guest-configuration/)
 - [Azure VMs and disabling NLA on domain level](https://docs.microsoft.com/en-us/answers/questions/268781/azure-vms-and-disabling-nla-on-domain-level.html)
 - [Run PowerShell scripts in your Windows VM by using Run Command](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/run-command#azure-portal)
 - [Troubleshoot authentication errors when you use RDP to connect to Azure VM](https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/cannot-connect-rdp-azure-vm)

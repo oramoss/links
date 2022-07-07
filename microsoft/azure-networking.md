@@ -12,6 +12,7 @@ Links related to Azure Networking.
 - [A deepdive into Azure networking](https://www.slideshare.net/kvaes/a-deepdive-into-azure-networking?qid=af8941ed-d2b2-43ea-9424-aaae606e66d1&v=&b=&from_search=1)
 - [Azure Network Security Groups: 10 suggestions for best practice!](https://www.kainos.com/azure-network-security-groups-10-suggestions-for-best-practice)
 - [Azure Network Security webinar: Azure Network Advanced Architecture](https://www.youtube.com/watch?v=qKjTu-kut40)
+- [Azure Front Door using Private Link Service with two High Available Network Virtual Appliances.](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-front-door-using-private-link-service-with-two-high/ba-p/3502736)
 
 ## DNS
 - [Azure Private Link and DNS – Part 1](https://journeyofthegeek.com/2020/03/05/azure-private-link-and-dns-part-1/)
@@ -66,6 +67,7 @@ Links related to Azure Networking.
 - [How to Architect an Azure Firewall with a VPN Gateway](https://petri.com/how-to-architect-an-azure-firewall-with-a-vpn-gateway)
 - [Firewall Considerations – Windows Virtual Desktop (WVD)](https://ryanmangansitblog.com/2020/05/11/firewall-considerations-windows-virtual-desktop-wvd/)
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
+- [VirtualNetwork Service Tag and Network Security Groups](https://journeyofthegeek.com/2022/06/22/virtualnetwork-service-tag-and-network-security-groups/)
 
 ## sFTP
 - [https://charbelnemnom.com/how-to-deploy-sftp-service-on-microsoft-azure/](https://charbelnemnom.com/how-to-deploy-sftp-service-on-microsoft-azure/)

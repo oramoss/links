@@ -4,7 +4,15 @@ Links related to Azure Security.
 ## Conditional Access
 - [Conditional Access templates (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common#conditional-access-templates-preview)
 
+## Architecture
+- [Map threats to your IT environment](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/map-threats-it-environment)
+- [Use Azure monitoring to integrate security components](https://docs.microsoft.com/en-us/azure/architecture/guide/security/azure-monitor-integrate-security-components)
+- [Build the first layer of defense with Azure Security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense)
+- [Build the second layer of defense with Microsoft 365 Defender Security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense)
+- [Integrate Azure and Microsoft 365 Defender security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure)
+
 ## General
+- [Alert when a group is added to a sensitive Active Directory group](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868?WT.mc_id=modinfra-00000-rotrent)
 - [Azure Security Graphic](https://azure.microsoft.com/en-us/resources/azure-sql-security-infographic/)
 - [Why Is Privileged Access Important](https://cloudntech.blogspot.com/2020/12/why-is-privileged-access-important.html)
 - [Azure security technical capabilities](https://docs.microsoft.com/en-us/azure/security/fundamentals/technical-capabilities)
@@ -101,10 +109,10 @@ Links related to Azure Security.
 - [Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw&list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
 - [Introduction to granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/gdap-introduction)
 
-
 ## Sentinel
 - [Secure Slack connectivity for Sentinel](https://github.com/msvdpriya/SecureSlackWithAzureSentinel)
 - [Design your Microsoft Sentinel workspace architecture](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)
+- [Attack Surface Reduction Dashboard for Microsoft Sentinel](https://danielchronlund.com/2022/06/15/attack-surface-reduction-dashboard-for-microsoft-sentinel/)
 
 ## Defender For Cloud
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)

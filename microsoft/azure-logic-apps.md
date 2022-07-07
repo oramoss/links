@@ -10,6 +10,7 @@ Links related to Azure Logic Apps.
 
 ## Miscellaneous
 - [Blog post about Copying Azure files to SharePoint, comparing Logic App and Power Automate Flow for this, and Trust No One](http://datanrg.blogspot.com/2021/05/a-blog-post-about-copying-azure-files.html?m=1)
+- [Deploying Logic App Standard resource through DevOps pipeline](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/deploying-logic-app-standard-resource-through-devops-pipeline/ba-p/3541427)
 
 ## Examples
 - [Azure Monitor - Alert Notification via Teams](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-alert-notification-via-teams/ba-p/2507676)
