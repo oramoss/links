@@ -3,6 +3,7 @@ Links related to Azure Security.
 
 ## Conditional Access
 - [Conditional Access templates (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common#conditional-access-templates-preview)
+- [Conditional Access for workload identities preview](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/workload-identity)
 
 ## Architecture
 - [Map threats to your IT environment](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/map-threats-it-environment)

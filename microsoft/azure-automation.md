@@ -22,3 +22,7 @@ Links related to Azure Automation.
 
 # Windows AutoPatch
 - [Windows Autopatch documentation](https://docs.microsoft.com/en-us/windows/deployment/windows-autopatch/)
+
+# Apps
+- [Code Coverage](https://josh-ops.com/posts/azure-devops-code-coverage/)
+- [CICD NugetPackages with Semver](https://blogs.like10.com/2018/03/18/continuous-delivery-of-your-nuget-packages-with-vsts-semver/)

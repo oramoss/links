@@ -14,6 +14,9 @@ Links related to Azure Networking.
 - [Azure Network Security webinar: Azure Network Advanced Architecture](https://www.youtube.com/watch?v=qKjTu-kut40)
 - [Azure Front Door using Private Link Service with two High Available Network Virtual Appliances.](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-front-door-using-private-link-service-with-two-high/ba-p/3502736)
 
+## Express Route
+- [Express Route FastPath](https://www.youtube.com/watch?v=WyhlMU3XEKE)
+
 ## DNS
 - [Azure Private Link and DNS – Part 1](https://journeyofthegeek.com/2020/03/05/azure-private-link-and-dns-part-1/)
 - [Azure Private Link and DNS – Part 2](https://journeyofthegeek.com/2020/03/06/azure-private-link-and-dns-part-2/)
@@ -32,6 +35,7 @@ Links related to Azure Networking.
 - [Virtual network and on-premises workloads using a DNS forwarder](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns#virtual-network-and-on-premises-workloads-using-a-dns-forwarder)
 - [DNS Best Practices: The Definitive Guide](https://activedirectorypro.com/dns-best-practices/)
 - [Private Endpoint DNS Resolution - John Savill](https://www.youtube.com/watch?v=rXbamGNz-xQ)
+- [Setting up DNS in a Hybrid Environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/setting-up-dns-in-a-hybrid-environment/ba-p/3584272)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -85,6 +89,7 @@ Links related to Azure Networking.
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)
 
 ## App Gateway
+- [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 - [About zone-redundant virtual network gateways in Azure Availability Zones](https://docs.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
 - [Autoscaling and Zone-redundant Application Gateway v2](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
 - [Securing My Blog with Azure Web Application Firewall (WAF)](https://edi.wang/post/2020/8/7/securing-my-blog-with-azure-web-application-firewall-waf)
@@ -131,9 +136,11 @@ Links related to Azure Networking.
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)
+- [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 
 ## App Service
 - [Azure App Service, Private Endpoint, and Application Gateway/WAF](https://aidanfinn.com/?p=22210)
+- [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 
 ## VPN
 - [Reset a VPN gateway or a connection](https://docs.microsoft.com/en-gb/azure/vpn-gateway/reset-gateway)
@@ -160,3 +167,6 @@ Links related to Azure Networking.
 - [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview?WT.mc_id=mondinfra-49371-jagord)
 - [Running Cloud Shell from your Virtual Network](https://www.redeploy.com/posts/running-cloud-shell-from-your-virtual-network)
 - [Private Endpoints Revisited: NSGs and UDRs](https://journeyofthegeek.com/2022/03/12/private-endpoints-revisited-nsgs-and-udrs/)
+- [Ten Azure networking tips that may simplify your life](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/ten-azure-networking-tips-that-may-simplify-your-life/ba-p/3592774)
+- [Virtual network traffic routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+- [Azure Practical: Peer-to-Peer Transitive Routing Part 2](https://ine.com/blog/azure-practical-peer-to-peer-transitive-routing-part-2)

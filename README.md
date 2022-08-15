@@ -45,6 +45,7 @@ This repository has a list of links to various articles, books, videos, blogs an
 - [MSP-CSP](./microsoft/MSP-CSP.md)
 - [Powershell](./microsoft/powershell.md)
 - [Visual Studio](./microsoft/vs.md)
+- [Windows Auto Patch](./microsoft/windows-auto-patch.md)
 ### General
 - [APIs](./general/api.md)
 - [Architecture](./general/architecture.md)

@@ -13,6 +13,7 @@ Links related to Azure Monitoring.
 - [Azure Monitor - Alert Notification via Teams](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-alert-notification-via-teams/ba-p/2507676)
 - [Create Automation Account Runbook job failure alert](https://docs.microsoft.com/en-us/azure/automation/automation-alert-metric)
 - [Setting up Azure Monitor with Log Analytics for Azure Virtual Desktop](https://terenceluk.blogspot.com/2022/04/setting-up-azure-monitor-with-log.html)
+- [Creating custom Azure alerts from Log Analytics: the Kusto query](https://www.catapultsystems.com/blogs/creating-custom-azure-alerts-from-log-analytics-the-kusto-query/)
 
 ## Logging
 - [Use monitoring and diagnostics with a Windows VM and Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-template)
@@ -29,6 +30,10 @@ Links related to Azure Monitoring.
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [Using the KQL query results to find the exact registry setting to remediate security configurations](https://www.catapultsystems.com/blogs/using-the-kql-query-results-to-find-the-exact-registry-setting-to-remediate-security-configurations/)
 - [KQL Cheat Sheet](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404)
+
+## Workbooks
+- [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198?utm_content=bufferc0056&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+- [Azure Monitor Alert Workbook](https://www.cloudsma.com/2022/07/azure-monitor-alerts-workbook/)
 
 ## Log Analytics Workspaces
 - [Utilizing Azure Log Analytics Workspace for Azure Storage Account Logs](https://visualbi.com/blogs/microsoft/powerbi/utilizing-azure-log-analytics-workspace-azure-storage-account-logs/)
@@ -53,4 +58,5 @@ Links related to Azure Monitoring.
 - [Resource Manager template samples for diagnostic settings in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/resource-manager-diagnostic-settings)
 - [Data Sources in Workbooks](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/DataSources/DataSources.md)
 - [Reusing query data in different visualizations](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/Samples/ReusingQueryData.md)
-
+- [Public preview: Migration tools for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-migration-tools-for-azure-monitor-agent/)
+- [Planning the Monitoring of my hybrid environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/planning-the-monitoring-of-my-hybrid-environment/ba-p/3596732)

@@ -22,6 +22,7 @@ Links related to Azure Cloud Architecture.
 - [Move Azure VMs into Availability Zones](https://docs.microsoft.com/en-us/azure/site-recovery/move-azure-vms-avset-azone)
 - [Cloud Resource Naming Convention (Azure)](https://blog.nicholasrogoff.com/2019/11/13/cloud-resource-naming-convention-azure/)
 - [Bicep Azure Naming module](https://github.com/nianton/azure-naming)
+- [Resilience in Azure whitepaper](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/)
 
 ### CAF
 - [Main MS landing site](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
@@ -80,6 +81,7 @@ Links related to Azure Cloud Architecture.
 - [How to optimize your Azure environment](https://azure.microsoft.com/en-gb/blog/how-to-optimize-your-azure-environment/)
 - [Securely connect to your Azure Virtual Machines – the options](https://www.compete366.com/blog-posts/securely-connect-to-your-azure-virtual-machines-the-options/)
 - [What is PSRule for Azure?](https://azure.github.io/PSRule.Rules.Azure/features/#readytogo)
+- [Comparing Container Apps with other Azure container options](https://docs.microsoft.com/en-us/azure/container-apps/compare-options)
 
 ## Security
 - [What is the built-in vulnerability assessment tool in Azure Security Center?](https://techcommunity.microsoft.com/t5/azure-security-center/built-in-vulnerability-assessment-for-vms-in-azure-security/ba-p/1577947)

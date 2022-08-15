@@ -49,6 +49,7 @@ Links related to Azure DevOps.
 
 ## Best Practice
 - [How Does Microsoft Do DevOps](https://devblogs.microsoft.com/devops/how-does-microsoft-do-devops/?WT.mc_id=devops-11175-abewan)
+- [Why Infrastructure as Code (IaC) ?](https://thomasthornton.cloud/2021/03/08/why-infrastructure-as-code-iac/)
 
 ## How to do stuff
 - [Managed Identity in Service Connections](https://stefanstranger.github.io/2019/03/02/ManageIdentityInServiceConnections/)
@@ -63,3 +64,5 @@ Links related to Azure DevOps.
 - [Create an Azure DevOps service connection to Azure with PowerShell](https://4bes.nl/2020/12/20/create-an-azure-devops-service-connection-to-azure-with-powershell/)
 - [Securing Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/security/overview?view=azure-devops)
 - [Programmatically create Azure Enterprise Agreement subscriptions with the latest APIs](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/programmatically-create-subscription-enterprise-agreement?tabs=rest)
+- [How to securely use variables and parameters in your pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/security/inputs?view=azure-devops)
+- [Creating templates in Azure DevOps Pipelines](https://thomasthornton.cloud/2021/08/16/creating-templates-in-azure-devops-pipelines/)
