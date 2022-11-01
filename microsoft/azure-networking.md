@@ -12,7 +12,6 @@ Links related to Azure Networking.
 - [A deepdive into Azure networking](https://www.slideshare.net/kvaes/a-deepdive-into-azure-networking?qid=af8941ed-d2b2-43ea-9424-aaae606e66d1&v=&b=&from_search=1)
 - [Azure Network Security Groups: 10 suggestions for best practice!](https://www.kainos.com/azure-network-security-groups-10-suggestions-for-best-practice)
 - [Azure Network Security webinar: Azure Network Advanced Architecture](https://www.youtube.com/watch?v=qKjTu-kut40)
-- [Azure Front Door using Private Link Service with two High Available Network Virtual Appliances.](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-front-door-using-private-link-service-with-two-high/ba-p/3502736)
 
 ## Express Route
 - [Express Route FastPath](https://www.youtube.com/watch?v=WyhlMU3XEKE)
@@ -36,6 +35,7 @@ Links related to Azure Networking.
 - [DNS Best Practices: The Definitive Guide](https://activedirectorypro.com/dns-best-practices/)
 - [Private Endpoint DNS Resolution - John Savill](https://www.youtube.com/watch?v=rXbamGNz-xQ)
 - [Setting up DNS in a Hybrid Environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/setting-up-dns-in-a-hybrid-environment/ba-p/3584272)
+- [Announcing Azure DNS Private Resolver general availability](https://azure.microsoft.com/en-us/blog/announcing-azure-dns-private-resolver-general-availability/?WT.mc_id=AZ-MVP-5004750)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -62,6 +62,7 @@ Links related to Azure Networking.
 - [Choosing the right networking hub in Azure (VWan/HubSpoke)](https://techcommunity.microsoft.com/t5/azure-architecture-blog/choosing-the-right-networking-hub-in-azure/ba-p/1802870)
 - [Migrate to Azure Virtual WAN (from HubSpoke)](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
 - [What language does the Azure Gateway Load Balancer speak?](https://blog.cloudtrooper.net/2021/11/11/what-language-does-the-azure-gateway-load-balancer-speak/)
+- [Using Azure Firewall as a Network Virtual Appliance (NVA)](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/using-azure-firewall-as-a-network-virtual-appliance-nva/ba-p/1972934)
 
 ## Tagging
 - [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
@@ -72,6 +73,7 @@ Links related to Azure Networking.
 - [Firewall Considerations – Windows Virtual Desktop (WVD)](https://ryanmangansitblog.com/2020/05/11/firewall-considerations-windows-virtual-desktop-wvd/)
 - [Zero-trust network for web applications with Azure Firewall and Application Gateway](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall)
 - [VirtualNetwork Service Tag and Network Security Groups](https://journeyofthegeek.com/2022/06/22/virtualnetwork-service-tag-and-network-security-groups/)
+- [Azure DDoS Protection for virtual networks generally available](https://azure.microsoft.com/en-gb/blog/azure-ddos-protection-for-virtual-networks-generally-available/)
 
 ## sFTP
 - [https://charbelnemnom.com/how-to-deploy-sftp-service-on-microsoft-azure/](https://charbelnemnom.com/how-to-deploy-sftp-service-on-microsoft-azure/)
@@ -89,7 +91,6 @@ Links related to Azure Networking.
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)
 
 ## App Gateway
-- [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 - [About zone-redundant virtual network gateways in Azure Availability Zones](https://docs.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
 - [Autoscaling and Zone-redundant Application Gateway v2](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
 - [Securing My Blog with Azure Web Application Firewall (WAF)](https://edi.wang/post/2020/8/7/securing-my-blog-with-azure-web-application-firewall-waf)
@@ -112,6 +113,7 @@ Links related to Azure Networking.
 - [Useful Log Analytics Queries to troubleshoot your Azure Application Gateway V2 & WAF traffic](https://cloud-addicted.com/useful-log-analytics-queries-to-troubleshoot-your-azure-application-gateway-waf-traffic)
 - [WAF Policy per listener](https://officeline.gr/2020/09/25/azure-application-gateway-waf-policy-per-listener/)
 - [Per Site WAF Policy with IP locking](https://docs.rackspace.com/blog/configuring-a-per-site-waf-policy-with-ip-address-restriction-rules-part-three/)
+- [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
@@ -133,10 +135,15 @@ Links related to Azure Networking.
 - [Fixing Azure Firewall Monitor Workbook](https://www-cryingcloud-com.cdn.ampproject.org/c/s/www.cryingcloud.com/blog/2022/2/9/fixing-azure-firewall-monitor-workbook?format=amp)
 - [Choosing between Azure Firewall and Network Security Groups](https://www.schutten.cloud/post/choosing-firewall-nsg/)
 - [Azure Firewall’s sidekick to join the BGP superheroes](https://blog.cloudtrooper.net/2022/05/02/azure-firewalls-sidekick-to-join-the-bgp-superheroes/amp/)
+- [Backup Azure Firewall and Azure Firewall Policy with Logic Apps](https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
+- [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
+- [Azure Front Door using Private Link Service with two High Available Network Virtual Appliances.](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-front-door-using-private-link-service-with-two-high/ba-p/3502736)
+- [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
+- [Azure App Service Authentication with Azure Front Door](https://vincentlauzon.com/2019/07/17/azure-app-service-authentication-with-azure-front-door/)
 
 ## App Service
 - [Azure App Service, Private Endpoint, and Application Gateway/WAF](https://aidanfinn.com/?p=22210)

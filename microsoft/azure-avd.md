@@ -22,6 +22,7 @@ Links related to Azure Windows Virtual Desktop.
 - [Learn how to increase the security level of your Azure Virtual Desktop environment (e.g. Windows Client) with Azure MFA and Conditional Access](https://christiaanbrinkhoff.com/2020/03/23/learn-how-to-increase-the-security-level-of-your-windows-virtual-desktop-environment-e-g-windows-client-with-azure-mfa-and-conditional-access/)
 - [How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/)
 - [Azure Virtual Desktop Portal Support for Trusted Launch VMs](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/azure-virtual-desktop-portal-support-for-trusted-launch-vms/m-p/3038763)
+- [Announcing public preview of SSO and passwordless authentication for Azure Virtual Desktop](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/announcing-public-preview-of-sso-and-passwordless-authentication/ba-p/3638244)
 
 ## Images
 - [Azure Trusted Launch and Custom Images - even for AVD](https://blog.itprocloud.de/AVD-Azure-Trusted-Launch-and-Custom-Images/)
@@ -51,6 +52,7 @@ Links related to Azure Windows Virtual Desktop.
 ## FSLogix
 - [FSLogix for the enterprise](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix)
 - [Using FSLogix with Azure AD Join Storage Accounts](https://virtualdesktops.community/2021/12/using-fslogix-with-azure-ad-join-storage-accounts/)
+- [Announcing Public Preview: FSLogix Disk Compaction](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/announcing-public-preview-fslogix-disk-compaction/ba-p/3644807)
 
 ## Templates
 - [Microsoft - Create Host Pool](https://github.com/Azure/RDS-Templates/blob/master/ARM-wvd-templates/CreateAndProvisionHostPool/CreateHostpoolTemplate.json)

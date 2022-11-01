@@ -3,6 +3,7 @@ Links related to Backup, Recovery and DR.
 
 ## Recovery Service Vaults
 - [Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup](https://azure.microsoft.com/en-gb/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/)
+- [Protecting Azure Backups with Resource Guard – Part 1](https://journeyofthegeek.com/2022/10/18/protecting-azure-backups-with-resource-guard-part-1/)
 
 ## File Recovery
 - [Recover files from Azure virtual machine backup](https://docs.microsoft.com/en-us/azure/backup/backup-azure-restore-files-from-vm)

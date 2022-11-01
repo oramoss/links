@@ -13,6 +13,7 @@ Links related to Azure Security.
 - [Integrate Azure and Microsoft 365 Defender security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure)
 
 ## General
+- [Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/)
 - [Alert when a group is added to a sensitive Active Directory group](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868?WT.mc_id=modinfra-00000-rotrent)
 - [Azure Security Graphic](https://azure.microsoft.com/en-us/resources/azure-sql-security-infographic/)
 - [Why Is Privileged Access Important](https://cloudntech.blogspot.com/2020/12/why-is-privileged-access-important.html)
@@ -29,6 +30,7 @@ Links related to Azure Security.
 - [Security Posture Management with Azure Policy and Microsoft Defender for Cloud](https://securecloud.blog/2021/12/17/security-posture-management-with-azure-policy-and-microsoft-defender-for-cloud/amp/)
 - [Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-gb/security/cybersecurity-reference-architecture/mcra)
 - [Use Azure Security Center with Windows Server on-premises](https://www.thomasmaurer.ch/2020/01/use-azure-security-center-with-windows-server-on-premises/)
+- [Diagrams, charts, and other sample slides](https://docs.google.com/presentation/d/19otyCL3DGi7tf6xTLPu_ilxcK5UNlwLy06xx1tWPmvM/edit#slide=id.g157b3e6db8a_1_69)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)
@@ -44,6 +46,7 @@ Links related to Azure Security.
 - [Azure Firewall Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/firewalls/)
 - [Azure Firewall FAQ](https://docs.microsoft.com/en-us/azure/firewall/firewall-faq)
 - [Azure Firewall and TLS Inspection](https://journeyofthegeek.com/2021/07/05/azure-firewall-and-tls-inspection/amp/)
+- [Backup Azure Firewall and Azure Firewall Policy with Logic Apps](https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928)
 
 ## NSG
 - [Network Security Group Monitoring](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/network-security-group-monitoring/ba-p/2106308)

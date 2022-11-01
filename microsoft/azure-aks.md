@@ -1,5 +1,8 @@
-# Azure Kubernetes Service (AKS)
+# Azure Container Apps / Azure Kubernetes Service (AKS)
 Links related to AKS.
+
+## Azure Container Apps
+- [Bye bye Azure Functions, Hello Azure Container Apps: Build and deployment pipelines, and our first big problem](https://endjin.com/blog/2022/10/bye-bye-azure-functions-hello-azure-container-apps-part-3-build-deployment-and-our-first-big-problem)
 
 ## Deployment
 - [How-To deploy Docker images to Azure Kubernetes Services (AKS)](https://purple.telstra.com.au/blog/how-to-deploy-docker-images-to-azure-kubernetes-services-aks)

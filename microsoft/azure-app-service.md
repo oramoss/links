@@ -45,3 +45,6 @@ Links related to Azure App Service.
 - [App Service Imported SSL Certificate from Key Vault in another Subscription](https://www.huuhka.net/app-service-imported-ssl-certificate-from-another-subscription-kv/)
 - [App Service Support for Availability Zones](https://azure.github.io/AppService/2021/08/25/App-service-support-for-availability-zones.html)
 - [How to restore a deleted Azure Web App](https://ruslany.net/2019/06/how-to-restore-a-deleted-azure-web-app/)
+- [Add File Storage to Azure App Services: The Work Around](https://www.codemag.com/Article/1909101/Add-File-Storage-to-Azure-App-Services-The-Work-Around)
+- [SiteConfig - AppSettings: Is there a way to do defaults so existing values don't get overwritten](https://github.com/Azure/bicep/discussions/5603)
+- [Merge App Settings With Bicep](http://blog.dotnetstudio.nl/posts/2021/04/merge-appsettings-with-bicep/)

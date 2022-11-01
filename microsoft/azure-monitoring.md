@@ -4,6 +4,9 @@ Links related to Azure Monitoring.
 ## Videos
 - [How to create robust monitor solutions with PowerShell, Azure Functions and Logic App Video](https://blog.sandro-pereira.com/2021/02/01/how-to-create-robust-monitor-solutions-with-powershell-azure-functions-and-logic-apps-azure-lowlands-video-and-slides-available/)
 
+## Governance
+- [Azure Governance made simple](https://book.azgovernance.com/)
+
 ## Techniques
 - [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
 - [Using Azure to check a website is up - part 1](https://dbaharrison.blogspot.com/2021/03/using-azure-to-check-website-is-up-part.html?m=1)
@@ -14,6 +17,7 @@ Links related to Azure Monitoring.
 - [Create Automation Account Runbook job failure alert](https://docs.microsoft.com/en-us/azure/automation/automation-alert-metric)
 - [Setting up Azure Monitor with Log Analytics for Azure Virtual Desktop](https://terenceluk.blogspot.com/2022/04/setting-up-azure-monitor-with-log.html)
 - [Creating custom Azure alerts from Log Analytics: the Kusto query](https://www.catapultsystems.com/blogs/creating-custom-azure-alerts-from-log-analytics-the-kusto-query/)
+- [Auto provision the Azure Monitor Agent to protect your servers with Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/azure/defender-for-cloud/auto-deploy-azure-monitoring-agent)
 
 ## Logging
 - [Use monitoring and diagnostics with a Windows VM and Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-template)
@@ -34,6 +38,7 @@ Links related to Azure Monitoring.
 ## Workbooks
 - [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198?utm_content=bufferc0056&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [Azure Monitor Alert Workbook](https://www.cloudsma.com/2022/07/azure-monitor-alerts-workbook/)
+- [Public preview of Azure Workbooks for Update Compliance](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/public-preview-of-azure-workbooks-for-update-compliance/ba-p/3601310)
 
 ## Log Analytics Workspaces
 - [Utilizing Azure Log Analytics Workspace for Azure Storage Account Logs](https://visualbi.com/blogs/microsoft/powerbi/utilizing-azure-log-analytics-workspace-azure-storage-account-logs/)

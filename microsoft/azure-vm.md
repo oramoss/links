@@ -50,6 +50,7 @@ Links related to Virtual Machine.
 - [Change VM Zone script](https://github.com/kpantos/azure-automation/blob/master/powershell/change-vm-zone.ps1)
 - [Change All Windows Servers to TLS 1.2 with PowerShell!](https://www.shankuehn.io/post/change-all-windows-servers-to-tls-1-2-with-powershell)
 - [How to run scripts against multiple Azure VMs by using Run Command](https://www.thomasmaurer.ch/2021/03/how-to-run-scripts-against-multiple-azure-vms-by-using-run-command/)
+- [Multi-Availability Zone Virtual Machines?!](https://www.youtube.com/watch?v=4Au2QW6lsYI)
 
 ## Imaging
 - [Creating An Azure VM From The VHDX/VHD File](https://www.c-sharpcorner.com/article/creating-an-azure-vm-from-the-vhdxvhd-file/)

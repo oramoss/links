@@ -33,6 +33,7 @@ Links related to Microsoft Storage.
 - [sFTP Server support](https://docs.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support)
 - [Azure Data Services and Storage](https://www.youtube.com/watch?v=VZiHayNK2qc&t=2416s)
 - [Share data near real-time with Microsoft Purview in-place data sharing for Azure Storage](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/share-data-near-real-time-with-microsoft-purview-in-place-data/ba-p/3472867)
+- [Add File Storage to Azure App Services: The Work Around](https://www.codemag.com/Article/1909101/Add-File-Storage-to-Azure-App-Services-The-Work-Around)
 
 ## Redundancy
 - [Understanding Azure storage redundancy offerings](https://techcommunity.microsoft.com/t5/azure-storage/understanding-azure-storage-redundancy-offerings/ba-p/1431700)
