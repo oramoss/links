@@ -28,3 +28,6 @@ Links related to Azure Policy.
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [Enforce CanNotDelete Resource Lock using Azure Policy](https://jeffbrown.tech/azure-policy-resource-lock/)
 - [Audit server settings with Azure Policy Guest Configuration](https://www.thomasmaurer.ch/2021/03/audit-server-settings-with-azure-policy-guest-configuration/)
+- [Implementing and troubleshooting a custom Azure Policy Definition [Step-by-step Guide]](https://itnext.io/implementing-and-troubleshooting-a-custom-azure-policy-definition-1ab8d0634bb2)
+- [Policies for Azure Alert rules Part 1 | Creating an alert rule ARM template](https://www.cloudyspells.com/2020/11/07/policies-for-azure-alert-rules-part-1-creating-an-alert-rule-arm-template/)
+- [Policies for Azure Alert rules Part 2 | Creating the policy template](https://www.cloudyspells.com/2020/11/08/policies-for-azure-alert-rules-part-2-creating-the-policy-template/)

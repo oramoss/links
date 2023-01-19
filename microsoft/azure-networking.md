@@ -36,6 +36,9 @@ Links related to Azure Networking.
 - [Private Endpoint DNS Resolution - John Savill](https://www.youtube.com/watch?v=rXbamGNz-xQ)
 - [Setting up DNS in a Hybrid Environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/setting-up-dns-in-a-hybrid-environment/ba-p/3584272)
 - [Announcing Azure DNS Private Resolver general availability](https://azure.microsoft.com/en-us/blog/announcing-azure-dns-private-resolver-general-availability/?WT.mc_id=AZ-MVP-5004750)
+- [Tutorial: Set up DNS failover using private resolvers](https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover?wt.mc_id=modinfra-0000-orthomas)
+- [Resolving Conflicts for Private Endpoint DNS](https://hardstahl.se/2022/11/17/resolving-subresource-conflict-in-private-endpoint-dns-policy/)
+- [Azure DNS Private Resolver without VNet Peerings](https://blog.cloudtrooper.net/2022/11/13/azure-dns-private-resolver-without-vnet-peerings/)
 
 ## Topology
 - [Logic Apps, storage and VNETs](http://mikaelsand.se/2019/11/logic-apps-storage-and-vnets/)
@@ -85,7 +88,7 @@ Links related to Azure Networking.
 - [Azure Routing explained in plain English with a story in 10 mins-User Defined Routes, Route priority](https://www.youtube.com/watch?app=desktop&v=tXLScLO-DRI&feature=youtu.be)
 - [What is Azure Route Server?](https://docs.microsoft.com/en-us/azure/route-server/overview)
 - [Azure Route Server: to encap or not to encap, that is the question](https://blog.cloudtrooper.net/2022/02/06/azure-route-server-to-encap-or-not-to-encap-that-is-the-question/amp/)
-
+- [Don’t let your Azure Routes bite you](https://blog.cloudtrooper.net/2020/11/28/dont-let-your-azure-routes-bite-you/)
 
 ## Monitoring
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)
@@ -114,6 +117,7 @@ Links related to Azure Networking.
 - [WAF Policy per listener](https://officeline.gr/2020/09/25/azure-application-gateway-waf-policy-per-listener/)
 - [Per Site WAF Policy with IP locking](https://docs.rackspace.com/blog/configuring-a-per-site-waf-policy-with-ip-address-restriction-rules-part-three/)
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
+- [Application Gateway and Private Link](https://journeyofthegeek.com/2022/12/19/application-gateway-and-private-link/)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
@@ -136,6 +140,7 @@ Links related to Azure Networking.
 - [Choosing between Azure Firewall and Network Security Groups](https://www.schutten.cloud/post/choosing-firewall-nsg/)
 - [Azure Firewall’s sidekick to join the BGP superheroes](https://blog.cloudtrooper.net/2022/05/02/azure-firewalls-sidekick-to-join-the-bgp-superheroes/amp/)
 - [Backup Azure Firewall and Azure Firewall Policy with Logic Apps](https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928)
+- [How to route site-to-site VPN traffic via Azure Firewall?](https://cloudcurve.co.uk/azure/how-to-route-site-to-site-vpn-traffic-via-azure-firewall/)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)
@@ -144,6 +149,7 @@ Links related to Azure Networking.
 - [Azure Front Door using Private Link Service with two High Available Network Virtual Appliances.](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-front-door-using-private-link-service-with-two-high/ba-p/3502736)
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 - [Azure App Service Authentication with Azure Front Door](https://vincentlauzon.com/2019/07/17/azure-app-service-authentication-with-azure-front-door/)
+- [Zero downtime migration for Azure Front Door—now in preview](https://azure.microsoft.com/en-us/blog/zero-downtime-migration-for-azure-front-door-now-in-preview/)
 
 ## App Service
 - [Azure App Service, Private Endpoint, and Application Gateway/WAF](https://aidanfinn.com/?p=22210)
@@ -177,3 +183,4 @@ Links related to Azure Networking.
 - [Ten Azure networking tips that may simplify your life](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/ten-azure-networking-tips-that-may-simplify-your-life/ba-p/3592774)
 - [Virtual network traffic routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
 - [Azure Practical: Peer-to-Peer Transitive Routing Part 2](https://ine.com/blog/azure-practical-peer-to-peer-transitive-routing-part-2)
+- [Adam Stuart (MS)](https://www.youtube.com/c/AdamStuart1/videos)

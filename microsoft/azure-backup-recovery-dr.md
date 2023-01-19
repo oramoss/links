@@ -19,3 +19,4 @@ Links related to Backup, Recovery and DR.
 - [General availability: Azure Backup now supports Archive Tier for backups of SQL Server in Azure VMs](https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/)
 - [John Savill - DR](https://www.youtube.com/watch?v=8fvO3WArG-Y)
 - [How to set up Disaster Recovery for Azure IaaS VMs](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-set-up-disaster-recovery-for-azure-iaas-vms/ba-p/1153807?WT.mc_id=twitter-social-thmaure)
+- [New Project Flash Update: Advancing Azure Virtual Machine availability monitoring](https://azure.microsoft.com/en-gb/blog/advancing-azure-virtual-machine-availability-monitoring-with-project-flash-update/)

@@ -65,3 +65,4 @@ Links related to Azure Monitoring.
 - [Reusing query data in different visualizations](https://github.com/microsoft/Application-Insights-Workbooks/blob/master/Documentation/Samples/ReusingQueryData.md)
 - [Public preview: Migration tools for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-migration-tools-for-azure-monitor-agent/)
 - [Planning the Monitoring of my hybrid environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/planning-the-monitoring-of-my-hybrid-environment/ba-p/3596732)
+- [Supported metrics with Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-supported#microsoftcomputecloudservices)

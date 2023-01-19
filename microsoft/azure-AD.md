@@ -29,3 +29,4 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [To AAD Join or Not … That is the Question](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/to-aad-join-or-not-that-is-the-question/ba-p/3435768)
 - [Alert when a group is added to a sensitive Active Directory group](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868?WT.mc_id=modinfra-00000-rotrent)
 - [Continuous access evaluation](https://cloudbrothers.info/continuous-access-evaluation/)
+- [Securing privileged user access with Azure AD Conditional Access and Identity Governance](https://www.cloud-architekt.net/securing-privileged-access-conditionalaccess-governance/)

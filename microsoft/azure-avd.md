@@ -26,6 +26,7 @@ Links related to Azure Windows Virtual Desktop.
 
 ## Images
 - [Azure Trusted Launch and Custom Images - even for AVD](https://blog.itprocloud.de/AVD-Azure-Trusted-Launch-and-Custom-Images/)
+- [Sysprep and deploy Windows 11 22H2 in Azure with a custom image and a workaround](https://blog.itprocloud.de/SYSPREP_and_rollout_deploy_WINDOWS_11_22H2_in_Azure/)
 
 ## Configuring
 - [Configuring WVD](https://www.youtube.com/watch?v=qtx3rippZJQ)
@@ -95,3 +96,5 @@ Links related to Azure Windows Virtual Desktop.
 - [AVD Automation Cocktail – AVD automated with PowerShell](https://rozemuller.com/avd-automation-cocktail-avd-automated-with-powershell/)
 - [WVDAdmin - Installation and configuration in 4 steps](https://www.youtube.com/watch?v=fH1_FzNyJf0)
 - [Setting up Azure Monitor with Log Analytics for Azure Virtual Desktop](https://terenceluk.blogspot.com/2022/04/setting-up-azure-monitor-with-log.html)
+- [Microsoft Intune user scope configuration for Azure Virtual Desktop multi-session VMs is now GA](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/microsoft-intune-user-scope-configuration-for-azure-virtual/ba-p/3667410)
+- [Announcing public preview of Private Link for Azure Virtual Desktop](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/announcing-public-preview-of-private-link-for-azure-virtual/m-p/3671226#M10067)

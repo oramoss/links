@@ -62,6 +62,8 @@ Links related to Virtual Machine.
 - [How to Get a Windows 11 ISO File and Do a Clean Install](https://www.tomshardware.com/how-to/clean-install-windows-11)
 - [Building VM Images Using Azure Image Builder](https://www.pluralsight.com/courses/building-vm-images-using-azure-image-builder)
 - [Custom VM Images on Azure](https://www.spectrocloud.com/blog/custom-vm-images-on-azure/)
+- [PowerShell – Create a Windows 11 Multi-session golden image for Azure Virtual Desktop using Marketplace Image](https://askaresh.com/2022/11/28/powershell-create-a-windows-11-multi-session-golden-image-for-azure-virtual-desktop-using-marketplace-image/?amp=1)
+- [Sysprep and deploy Windows 11 22H2 in Azure with a custom image and a workaround](https://blog.itprocloud.de/SYSPREP_and_rollout_deploy_WINDOWS_11_22H2_in_Azure/)
 
 ## Desired State Configuration
 - [Azure & Desired State Configuration Part 1/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-1-4/ba-p/2609032)

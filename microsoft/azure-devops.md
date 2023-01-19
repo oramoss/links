@@ -15,6 +15,9 @@ Links related to Azure DevOps.
 - [Building an Azure Devops Pipeline [Soup to Nuts]](https://adamtheautomator.com/azure-devops-pipeline-infrastructure/)
 - [Step by step: Setup a CICD pipeline in Azure DevOps for ARM templates](https://4bes.nl/2020/06/14/step-by-step-setup-a-cicd-pipeline-in-azure-devops-for-arm-templates/)
 
+## Testing
+- [Comprehensive End-to-End Testing in Azure: Introduction](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/comprehensive-end-to-end-testing-in-azure-introduction/ba-p/3694034)
+
 ## Deploying
 - [Azure Functions: Deploying from VS Code and Azure DevOps](https://cloudskills.io/blog/azure-functions-deploy)
 - [Auto-generating release notes in Azure DevOps pipelines](https://willys-cave.ghost.io/auto-generating-release-notes-in-azure-devops-pipelines/)
@@ -73,3 +76,5 @@ Links related to Azure DevOps.
 - [Continuous Delivery of your NuGet Packages with VSTS – SemVer](https://blogs.like10.com/2018/03/18/continuous-delivery-of-your-nuget-packages-with-vsts-semver/)
 - [Azure Pipelines and Dependabot](https://www.rickroche.com/2021/05/azure-pipelines-and-dependabot/)
 - [SonarQube - Azure DevOps Integration](https://docs.sonarqube.org/latest/analysis/azuredevops-integration/)
+- [PowerShell – Create a Windows 11 Multi-session golden image for Azure Virtual Desktop using Marketplace Image](https://askaresh.com/2022/11/28/powershell-create-a-windows-11-multi-session-golden-image-for-azure-virtual-desktop-using-marketplace-image/?amp=1)
+- [DevOps Self Hosted images](https://github.com/actions/runner-images)
