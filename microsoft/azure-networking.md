@@ -89,6 +89,7 @@ Links related to Azure Networking.
 - [What is Azure Route Server?](https://docs.microsoft.com/en-us/azure/route-server/overview)
 - [Azure Route Server: to encap or not to encap, that is the question](https://blog.cloudtrooper.net/2022/02/06/azure-route-server-to-encap-or-not-to-encap-that-is-the-question/amp/)
 - [Don’t let your Azure Routes bite you](https://blog.cloudtrooper.net/2020/11/28/dont-let-your-azure-routes-bite-you/)
+- [Onboarding Guide to Routing in Azure - Intro & Structure](https://github.com/cynthiatreger/az-routing-guide-intro)
 
 ## Monitoring
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)
@@ -118,6 +119,7 @@ Links related to Azure Networking.
 - [Per Site WAF Policy with IP locking](https://docs.rackspace.com/blog/configuring-a-per-site-waf-policy-with-ip-address-restriction-rules-part-three/)
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 - [Application Gateway and Private Link](https://journeyofthegeek.com/2022/12/19/application-gateway-and-private-link/)
+- [Secure your application traffic with Application Gateway mTLS](https://azure.microsoft.com/en-us/blog/secure-your-application-traffic-with-application-gateway-mtls/)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
@@ -150,6 +152,7 @@ Links related to Azure Networking.
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 - [Azure App Service Authentication with Azure Front Door](https://vincentlauzon.com/2019/07/17/azure-app-service-authentication-with-azure-front-door/)
 - [Zero downtime migration for Azure Front Door—now in preview](https://azure.microsoft.com/en-us/blog/zero-downtime-migration-for-azure-front-door-now-in-preview/)
+- [How Azure Front Door cache can help protect against DDoS attacks](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-azure-front-door-cache-can-help-protect-against-ddos-attacks/ba-p/3703272)
 
 ## App Service
 - [Azure App Service, Private Endpoint, and Application Gateway/WAF](https://aidanfinn.com/?p=22210)
@@ -166,6 +169,7 @@ Links related to Azure Networking.
 - [Securing Remote Virtual Machines Using Azure Bastion](https://petri.com/securing-remote-virtual-machines-using-azure-bastion)
 - [VNET Peering](https://docs.microsoft.com/en-us/azure/bastion/vnet-peering)
 - [Connect to a Windows virtual machine using Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp)
+- [Deploy Shared Azure Bastion To Virtual WAN Spoke](https://aidanfinn.com/?p=22654)
 
 ## Training
 - [John Savill - AZ700](https://lnkd.in/g8e7ADy)
@@ -184,3 +188,5 @@ Links related to Azure Networking.
 - [Virtual network traffic routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
 - [Azure Practical: Peer-to-Peer Transitive Routing Part 2](https://ine.com/blog/azure-practical-peer-to-peer-transitive-routing-part-2)
 - [Adam Stuart (MS)](https://www.youtube.com/c/AdamStuart1/videos)
+- [Using Azure Policy to Create DNS Records for Private Endpoints](https://blog.tyang.org/2023/01/26/using-azure-policy-to-create-dns-records-for-private-endpoints)
+- [Azure Networking is not like your on-onprem network](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)

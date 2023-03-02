@@ -31,3 +31,5 @@ Links related to Azure Policy.
 - [Implementing and troubleshooting a custom Azure Policy Definition [Step-by-step Guide]](https://itnext.io/implementing-and-troubleshooting-a-custom-azure-policy-definition-1ab8d0634bb2)
 - [Policies for Azure Alert rules Part 1 | Creating an alert rule ARM template](https://www.cloudyspells.com/2020/11/07/policies-for-azure-alert-rules-part-1-creating-an-alert-rule-arm-template/)
 - [Policies for Azure Alert rules Part 2 | Creating the policy template](https://www.cloudyspells.com/2020/11/08/policies-for-azure-alert-rules-part-2-creating-the-policy-template/)
+- [Azure Policies for Automating Azure Governance - Automating Policies](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-policies-for-automating-azure-governance-automating/ba-p/3727045?WT.mc_id=modinfra-56285-amycolyer)
+- [Using Azure Policy to Create DNS Records for Private Endpoints](https://blog.tyang.org/2023/01/26/using-azure-policy-to-create-dns-records-for-private-endpoints)

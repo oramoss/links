@@ -68,6 +68,7 @@ Links related to Azure Windows Virtual Desktop.
 
 ## Networking
 - [Collect and query Network Data for Azure Virtual Desktop connections](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/collect-and-query-network-data-for-azure-virtual-desktop/m-p/3140397#M8587)
+- [Azure DNS Service for AVD and Citrix DaaS](https://www.youtube.com/watch?v=5_933TohmZo)
 
 ## Miscellaneous
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)

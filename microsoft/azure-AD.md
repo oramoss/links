@@ -30,3 +30,5 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Alert when a group is added to a sensitive Active Directory group](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868?WT.mc_id=modinfra-00000-rotrent)
 - [Continuous access evaluation](https://cloudbrothers.info/continuous-access-evaluation/)
 - [Securing privileged user access with Azure AD Conditional Access and Identity Governance](https://www.cloud-architekt.net/securing-privileged-access-conditionalaccess-governance/)
+- [Cheat Sheet – Azure AD – how application and delegated permissions are exposed in MS Graph and Logs?](https://securecloud.blog/2023/03/01/cheat-sheet-azure-ad-how-application-and-delegated-permissions-are-exposed-in-ms-graph-and-logs/)
+- [Azure AD – You Can Now Enable Suspicious Activities Reporting (Preview)](https://blog.hametbenoit.info/2023/02/24/azure-ad-you-can-now-enable-suspicious-activities-reporting-preview/#.ZABcIMfP0Q8)

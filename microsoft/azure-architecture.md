@@ -23,6 +23,7 @@ Links related to Azure Cloud Architecture.
 - [Cloud Resource Naming Convention (Azure)](https://blog.nicholasrogoff.com/2019/11/13/cloud-resource-naming-convention-azure/)
 - [Bicep Azure Naming module](https://github.com/nianton/azure-naming)
 - [Resilience in Azure whitepaper](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/)
+- [MS - Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
 ### CAF
 - [Main MS landing site](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
@@ -33,6 +34,8 @@ Links related to Azure Cloud Architecture.
 - [AzGovViz - Azure Governance Visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
 - [Top 6 tips for configuring a new Microsoft Azure environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/top-6-tips-for-configuring-a-new-microsoft-azure-environment/ba-p/2748637)
 - [Azure Landing Zone – Networking Overview](https://abdulwkazi.com/2021/09/17/azurelandingzonenetworkingoverview/)
+- [Cloud Adoption Security Review](https://learn.microsoft.com/en-us/assessments/93dfb79b-71af-404d-897e-3928ecfb92b1/)
+- [Azure Review Checklists](https://github.com/Azure/review-checklists)
 
 ## Close-Out Links (CAF)
 - [Secure access practices for administrators in Azure AD | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/roles/security-planning)

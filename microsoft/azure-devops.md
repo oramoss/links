@@ -78,3 +78,6 @@ Links related to Azure DevOps.
 - [SonarQube - Azure DevOps Integration](https://docs.sonarqube.org/latest/analysis/azuredevops-integration/)
 - [PowerShell – Create a Windows 11 Multi-session golden image for Azure Virtual Desktop using Marketplace Image](https://askaresh.com/2022/11/28/powershell-create-a-windows-11-multi-session-golden-image-for-azure-virtual-desktop-using-marketplace-image/?amp=1)
 - [DevOps Self Hosted images](https://github.com/actions/runner-images)
+
+## Terraform
+- [Terraform on Azure](https://github.com/thomast1906/terraform-on-azure)

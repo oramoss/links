@@ -15,3 +15,7 @@ Links related to Azure Cloud Adoption Framework.
 - [Azure - Hub and Spoke - Playground](https://nicolgit.github.io/azure-hub-and-spoke-playground/)
 - [Detecting & Preventing Rogue Azure Subscriptions](https://blog.nviso.eu/2022/05/18/detecting-preventing-rogue-azure-subscriptions/)
 - [Enterprise-scale support for Microsoft Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/enterprise-scale-landing-zone)
+- [Community Calls](https://github.com/Azure/Enterprise-Scale/wiki/Community-Calls)
+- [Integration Services Landing Zone Accelerator - Network topology and connectivity](https://github.com/ElYusubov/Integration-Services-Landing-Zone-Accelerator/blob/main/docs/Network%20Topology%20and%20Connectivity.md)
+- [Subscription vending](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/subscription-vending)
+- [Cloud Journey](https://github.com/geeksintheweeds/cloud-journey)

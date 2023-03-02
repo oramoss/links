@@ -33,11 +33,13 @@ Links related to Azure Security.
 - [Diagrams, charts, and other sample slides](https://docs.google.com/presentation/d/19otyCL3DGi7tf6xTLPu_ilxcK5UNlwLy06xx1tWPmvM/edit#slide=id.g157b3e6db8a_1_69)
 - [Create Emergency Access Accounts for Azure AD and Use Log Analytics to Monitor Sign-ins from Them](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/create-emergency-access-accounts-for-azure-ad-and-use-log/ba-p/3665402)
 - [Least privileged roles by task in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
+- [Securing BYOD – The different options when signing in to M365 Apps](https://andrewstaylor.com/2023/02/15/securing-byod-the-different-options-when-signing-in-to-m365-apps/)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)
 - [Export Certificate with password from Azure Key Vault](https://coombes.nz/blog/azure-keyvault-export-certificate/)
 - [Network Security Dashboard for Security Center](https://github.com/Azure/Azure-Security-Center/tree/main/Workbooks/Network%20Security%20Dashboard)
+- [AzureGoat : A Damn Vulnerable Azure Infrastructure](https://github.com/ine-labs/AzureGoat)
 
 ## RBAC
 - [Azure built-in roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
@@ -95,6 +97,7 @@ Links related to Azure Security.
 - [Azure Application Gateway Standard v2 and WAF v2 SKUs generally available](https://azure.microsoft.com/en-gb/updates/azure-application-gateway-standardv2-wafv2-skus-generally-available/)
 - [Taking advantage of the new Azure Application Gateway V2](https://azure.microsoft.com/en-gb/blog/taking-advantage-of-the-new-azure-application-gateway-v2/)
 - [Azure Network Security webinar: Protecting your web apps with Azure Web Application Firewall (WAF)](https://www.youtube.com/watch?v=r8jUY6t0JVE)
+- [Tutorial: Get started with Azure WAF investigation Notebook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/tutorial-get-started-with-azure-waf-investigation-notebook/ba-p/3733438)
 
 ## Private Endpoint
 - [Use private endpoints for Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints)
@@ -124,7 +127,10 @@ Links related to Azure Security.
 ## Defender For Cloud
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)
 - [Top 3 favorite capabilities in Microsoft Defender for Cloud](https://zimmergren-net.cdn.ampproject.org/c/s/zimmergren.net/top-capabilities-in-microsoft-defender-for-cloud/amp/)
+- [Getting Started with Microsoft Defender for Cloud](https://adamtheautomator.com/microsoft-defender-for-cloud/)
 
+## Defender For Endpoint
+- [MDE Series](https://jeffreyappel.nl/tag/mde-series/)
 
 ## Azure Security Benchmark
 - [What’s new: Azure Security Benchmark Workbook update](https://devblogs.microsoft.com/azuregov/whats-new-azure-security-benchmark-workbook-update/)
