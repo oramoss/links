@@ -66,3 +66,4 @@ Links related to Azure Monitoring.
 - [Public preview: Migration tools for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-migration-tools-for-azure-monitor-agent/)
 - [Planning the Monitoring of my hybrid environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/planning-the-monitoring-of-my-hybrid-environment/ba-p/3596732)
 - [Supported metrics with Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-supported#microsoftcomputecloudservices)
+- [Roles, permissions, and security in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security#monitoring-reader)

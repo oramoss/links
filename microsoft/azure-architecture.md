@@ -24,6 +24,7 @@ Links related to Azure Cloud Architecture.
 - [Bicep Azure Naming module](https://github.com/nianton/azure-naming)
 - [Resilience in Azure whitepaper](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/)
 - [MS - Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
 
 ### CAF
 - [Main MS landing site](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
@@ -36,6 +37,7 @@ Links related to Azure Cloud Architecture.
 - [Azure Landing Zone – Networking Overview](https://abdulwkazi.com/2021/09/17/azurelandingzonenetworkingoverview/)
 - [Cloud Adoption Security Review](https://learn.microsoft.com/en-us/assessments/93dfb79b-71af-404d-897e-3928ecfb92b1/)
 - [Azure Review Checklists](https://github.com/Azure/review-checklists)
+- [Azure Quick Review](https://github.com/Azure/azqr)
 
 ## Close-Out Links (CAF)
 - [Secure access practices for administrators in Azure AD | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/roles/security-planning)
@@ -72,6 +74,7 @@ Links related to Azure Cloud Architecture.
 ## WAF
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 - [Putting it all together: WAF and CAF for Azure](https://www.microsoft.com/en-us/us-partner-blog/2021/05/04/putting-it-all-together-waf-and-caf-for-azure/)
+- [What do I put in front of app service](https://kvaes.wordpress.com/2020/04/13/azure-what-do-i-put-in-front-of-my-web-application/)
 
 ## Examples
 - [Banking System Cloud Transformation](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/banking/banking-system-cloud-transformation)

@@ -24,6 +24,7 @@ This repository has a list of links to various articles, books, videos, blogs an
 - [Azure DevOps](./microsoft/azure-devops.md)
 - [Azure .NET](./microsoft/azure-dotnet.md)
 - [Azure Email](./microsoft/azure-email.md)
+- [Azure Fabric](./microsoft/azure-fabric.md)
 - [Azure Functions](./microsoft/azure-functions.md)
 - [Azure Graph](./microsoft/azure-graph.md)
 - [Azure Instrumentation](./microsoft/azure-instrumentation.md)

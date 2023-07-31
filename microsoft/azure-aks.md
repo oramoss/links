@@ -16,3 +16,7 @@ Links related to AKS.
 - [AKS baseline for multiregion clusters](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-multi-region/aks-multi-cluster)
 - [Baseline architecture for an Azure Kubernetes Service (AKS) cluster](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks?source=docs)
 - [Kubernetes The Hard Way on Azure](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure)
+
+# Security
+- [General Availability for Azure Active Directory (AD) Workload Identity on AKS](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/general-availability-for-azure-active-directory-ad-workload/ba-p/3798292#M1196)
+- [DevSecOps on Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/architecture/guide/devsecops/devsecops-on-aks?utm_content=buffer6efe6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)

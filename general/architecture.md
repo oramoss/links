@@ -14,6 +14,8 @@ Links related to Architecture.
 - [Design a data mesh architecture using AWS Lake Formation and AWS Glue](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
 - [How to get started with data mesh](https://datameshlearning.substack.com/p/get-started-with-data-mesh)
 - [Data Modeling Meetup Munich: The Road to the Ensemble Logical Model with Remco Broekmans](https://www.youtube.com/watch?app=desktop&v=LsFn6Nkmrsw)
+- [James Serra - Data Architectures](https://www.slideshare.net/jamserra/data-lakehouse-data-mesh-and-data-fabric)
+
 
 ## Cloud
 - [Multicloud failover is almost always a terrible idea](https://cloudpundit.com/2021/10/14/multicloud-failover-is-almost-always-a-terrible-idea/amp/)

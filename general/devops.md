@@ -13,6 +13,10 @@ Links related to DevOps in general.
 
 ## Technologies
 - [Teraform vs BICEP](http://runasradio.com/Shows/Show/740)
+- [Deploying infrastructure to Azure using Terraform and GitHub Actions](https://www.fpgmaas.com/blog/azure-terraform-github-actions)
 
 ## Git
 - [Animated Git usage](https://www.youtube.com/watch?app=desktop&v=ZgCCnv9LxzA)
+
+## GitHub
+- [Workflow commands for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions)

@@ -19,3 +19,6 @@ Links related to Azure Cloud Adoption Framework.
 - [Integration Services Landing Zone Accelerator - Network topology and connectivity](https://github.com/ElYusubov/Integration-Services-Landing-Zone-Accelerator/blob/main/docs/Network%20Topology%20and%20Connectivity.md)
 - [Subscription vending](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/subscription-vending)
 - [Cloud Journey](https://github.com/geeksintheweeds/cloud-journey)
+- [Azure Quick Review](https://luke.geek.nz/azure/azure-quick-review/)
+- [Naming abbreviations](https://www.jlaundry.nz/2022/azure_region_abbreviations/)
+- [Readying your landing zone for migration](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/ready-alz)

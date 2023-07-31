@@ -7,3 +7,4 @@ Links related to Azure Resiliency.
 - [SLA for Storage](https://www.azure.cn/en-us/support/sla/storage/)
 - [Initiate a storage account failover](https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?tabs=azure-portal)
 - [https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts)
+- [John Savill - Service health alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)

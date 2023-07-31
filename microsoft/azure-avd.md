@@ -23,10 +23,12 @@ Links related to Azure Windows Virtual Desktop.
 - [How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/)
 - [Azure Virtual Desktop Portal Support for Trusted Launch VMs](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/azure-virtual-desktop-portal-support-for-trusted-launch-vms/m-p/3038763)
 - [Announcing public preview of SSO and passwordless authentication for Azure Virtual Desktop](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/announcing-public-preview-of-sso-and-passwordless-authentication/ba-p/3638244)
+- [Apply Zero Trust principles to an Azure Virtual Desktop deployment](https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-avd)
 
 ## Images
 - [Azure Trusted Launch and Custom Images - even for AVD](https://blog.itprocloud.de/AVD-Azure-Trusted-Launch-and-Custom-Images/)
 - [Sysprep and deploy Windows 11 22H2 in Azure with a custom image and a workaround](https://blog.itprocloud.de/SYSPREP_and_rollout_deploy_WINDOWS_11_22H2_in_Azure/)
+- [Azure VM Image Builder overview](https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-overview?tabs=azure-powershell)
 
 ## Configuring
 - [Configuring WVD](https://www.youtube.com/watch?v=qtx3rippZJQ)
@@ -54,6 +56,7 @@ Links related to Azure Windows Virtual Desktop.
 - [FSLogix for the enterprise](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix)
 - [Using FSLogix with Azure AD Join Storage Accounts](https://virtualdesktops.community/2021/12/using-fslogix-with-azure-ad-join-storage-accounts/)
 - [Announcing Public Preview: FSLogix Disk Compaction](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/announcing-public-preview-fslogix-disk-compaction/ba-p/3644807)
+- [What is FSLogix?](https://learn.microsoft.com/en-us/fslogix/overview-what-is-fslogix)
 
 ## Templates
 - [Microsoft - Create Host Pool](https://github.com/Azure/RDS-Templates/blob/master/ARM-wvd-templates/CreateAndProvisionHostPool/CreateHostpoolTemplate.json)
@@ -62,13 +65,16 @@ Links related to Azure Windows Virtual Desktop.
 # FSLogix
 - [The SECRET to FSLogix | Windows Virtual Desktop](https://www.youtube.com/watch?v=ffZZGVTYHFk)
 - [Create a profile container with Azure Files and Azure Active Directory (preview)](https://docs.microsoft.com/en-gb/azure/virtual-desktop/create-profile-container-azure-ad)
+- [What is FSLogix?](https://learn.microsoft.com/en-us/fslogix/overview-what-is-fslogix)
 
 # Monitoring
 - [Using Azure Monitor for Monitoring Azure Virtual Desktop (AVD) and Estimating Your Costs](https://www.eginnovations.com/blog/azure-virtual-desktop-monitoring-avd/)
+- [Debugging Azure Virtual Desktop errors/issues/network latency and bandwidth with an interactive Workbook](https://blog.itprocloud.de/AVD-Azure-Virtual-Desktop-Error-Drill-Down-Workbook/)
 
 ## Networking
 - [Collect and query Network Data for Azure Virtual Desktop connections](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/collect-and-query-network-data-for-azure-virtual-desktop/m-p/3140397#M8587)
 - [Azure DNS Service for AVD and Citrix DaaS](https://www.youtube.com/watch?v=5_933TohmZo)
+- [Deploy Azure AD-joined virtual machines in Azure Virtual Desktop](https://learn.microsoft.com/en-gb/azure/virtual-desktop/azure-ad-joined-session-hosts)
 
 ## Miscellaneous
 - [Troubleshooting connectivity from the RD Client to WVD Part 1 – Getting Started](https://virtuallyflatfeet.wordpress.com/2020/05/16/troubleshooting-connectivity-from-the-rd-client-to-wvd/)

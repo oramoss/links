@@ -54,6 +54,10 @@ Links related to Azure DevOps.
 - [How Does Microsoft Do DevOps](https://devblogs.microsoft.com/devops/how-does-microsoft-do-devops/?WT.mc_id=devops-11175-abewan)
 - [Why Infrastructure as Code (IaC) ?](https://thomasthornton.cloud/2021/03/08/why-infrastructure-as-code-iac/)
 
+## Security
+- [Introducing Service Principal and Managed Identity support on Azure DevOps](https://devblogs.microsoft.com/devops/introducing-service-principal-and-managed-identity-support-on-azure-devops/)
+- [Azure DevOps - Update Service Connection Expired Secret (Auto>Manual)](https://rlevchenko.com/2022/03/04/azure-devops-update-service-connection-expired-secret/)
+
 ## How to do stuff
 - [Managed Identity in Service Connections](https://stefanstranger.github.io/2019/03/02/ManageIdentityInServiceConnections/)
 - [Migrate data from Azure DevOps Server to Azure DevOps Services](https://docs.microsoft.com/en-gb/azure/devops/migrate/migration-overview?view=azure-devops)

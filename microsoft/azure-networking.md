@@ -22,7 +22,6 @@ Links related to Azure Networking.
 - [Azure Private Link and DNS](https://bloggerz.cloud/2020/12/18/azure-private-link-and-dns/)
 - [Azure Firewall DNS settings](https://docs.microsoft.com/en-us/azure/firewall/dns-settings)
 - [github - paolosalvatori/azure-firewall-dns-proxy-in-hub-and-spoke](https://github.com/paolosalvatori/azure-firewall-dns-proxy-in-hub-and-spoke)
-- [Azure Private Endpoint DNS configuration](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
 - [What is Azure Private DNS?](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview)
 - [DNS in Microsoft Azure – Part 1](https://journeyofthegeek.com/2019/11/14/dns-in-microsoft-azure-part-1/)
 - [DNS in Microsoft Azure – Part 2](https://journeyofthegeek.com/2019/11/21/dns-in-microsoft-azure-part-2/)
@@ -95,7 +94,6 @@ Links related to Azure Networking.
 - [Monitor your hybrid network with Network insights](https://techcommunity.microsoft.com/t5/azure-monitor/monitor-your-hybrid-network-with-network-insights/ba-p/2198281?_lrsc=6076d9cf-1d74-4191-a314-1a6f70ce89b8)
 
 ## App Gateway
-- [About zone-redundant virtual network gateways in Azure Availability Zones](https://docs.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
 - [Autoscaling and Zone-redundant Application Gateway v2](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
 - [Securing My Blog with Azure Web Application Firewall (WAF)](https://edi.wang/post/2020/8/7/securing-my-blog-with-azure-web-application-firewall-waf)
 - [Example Azure Web Application Firewall (WAF)](https://www.linickx.com/example-azure-web-application-firewall-waf)
@@ -120,6 +118,7 @@ Links related to Azure Networking.
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 - [Application Gateway and Private Link](https://journeyofthegeek.com/2022/12/19/application-gateway-and-private-link/)
 - [Secure your application traffic with Application Gateway mTLS](https://azure.microsoft.com/en-us/blog/secure-your-application-traffic-with-application-gateway-mtls/)
+- [Configure Azure Application Gateway Private Link](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/configure-azure-application-gateway-private-link/ba-p/3799926?WT.mc_id=DT-MVP-5001664)
 
 ## NAT Gateway
 - [Step by Step Azure NAT Gateway – Static Outbound Public IP address](https://robertsmit.wordpress.com/2020/06/02/step-by-step-azure-nat-gateway-static-outbound-public-ip-address-ang-nat-wvd-azure-security-cloud-mvpbuzz-azops-itpro-virtualnetworks-powershell/#:~:text=You%20can%20use%20a%20public,your%20deployments%20is%20now%20easy.)
@@ -143,6 +142,7 @@ Links related to Azure Networking.
 - [Azure Firewall’s sidekick to join the BGP superheroes](https://blog.cloudtrooper.net/2022/05/02/azure-firewalls-sidekick-to-join-the-bgp-superheroes/amp/)
 - [Backup Azure Firewall and Azure Firewall Policy with Logic Apps](https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928)
 - [How to route site-to-site VPN traffic via Azure Firewall?](https://cloudcurve.co.uk/azure/how-to-route-site-to-site-vpn-traffic-via-azure-firewall/)
+- [Multi Hub and Spoke Topology using Azure Firewalls](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/multi-hub-and-spoke-topology-using-azure-firewalls/ba-p/3811148)
 
 ## Front Door
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)
@@ -164,6 +164,7 @@ Links related to Azure Networking.
 - [Highly Available Cross-Premises and VNet-to-VNet Connectivity](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
 - [Step 7. (Optional) Conditional access for VPN connectivity using Azure AD](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/ad-ca-vpn-connectivity-windows10?WT.mc_id=linkedin)
 - [How to connect VNETs in different Azure regions?](https://blog.nillsf.com/index.php/2020/03/18/how-to-connect-vnets-in-different-azure-regions/)
+- [Autoscaling and Zone-redundant Application Gateway v2](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
 
 ## Bastion
 - [Securing Remote Virtual Machines Using Azure Bastion](https://petri.com/securing-remote-virtual-machines-using-azure-bastion)
@@ -190,3 +191,7 @@ Links related to Azure Networking.
 - [Adam Stuart (MS)](https://www.youtube.com/c/AdamStuart1/videos)
 - [Using Azure Policy to Create DNS Records for Private Endpoints](https://blog.tyang.org/2023/01/26/using-azure-policy-to-create-dns-records-for-private-endpoints)
 - [Azure Networking is not like your on-onprem network](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)
+- [Use Application Gateway Ingress Controller (AGIC) with a multitenant Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-agic/aks-agic)
+
+## NVA
+- [NVA Part III: NVA Redundancy – Connection from the Internet](https://nwktimes.blogspot.com/2023/05/azure-nva-redundancy-part-I.html)

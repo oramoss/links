@@ -11,8 +11,10 @@ Links related to Azure Security.
 - [Build the first layer of defense with Azure Security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense)
 - [Build the second layer of defense with Microsoft 365 Defender Security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense)
 - [Integrate Azure and Microsoft 365 Defender security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure)
+- [Setting Up Your Cloud Account Infrastructure: Best Practices for Success](https://levelup.gitconnected.com/setting-up-your-cloud-account-infrastructure-best-practices-for-success-cd03d6b6e80f)
 
 ## General
+- [Blog Series: Email Protection Basics](https://techcommunity.microsoft.com/t5/exchange-team-blog/blog-series-email-protection-basics/ba-p/3809646)
 - [Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/)
 - [Alert when a group is added to a sensitive Active Directory group](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868?WT.mc_id=modinfra-00000-rotrent)
 - [Azure Security Graphic](https://azure.microsoft.com/en-us/resources/azure-sql-security-infographic/)
@@ -34,6 +36,9 @@ Links related to Azure Security.
 - [Create Emergency Access Accounts for Azure AD and Use Log Analytics to Monitor Sign-ins from Them](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/create-emergency-access-accounts-for-azure-ad-and-use-log/ba-p/3665402)
 - [Least privileged roles by task in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
 - [Securing BYOD – The different options when signing in to M365 Apps](https://andrewstaylor.com/2023/02/15/securing-byod-the-different-options-when-signing-in-to-m365-apps/)
+
+## AKS
+- [General Availability for Azure Active Directory (AD) Workload Identity on AKS](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/general-availability-for-azure-active-directory-ad-workload/ba-p/3798292#M1196)
 
 ## Tools
 - [SkyArk](https://github.com/cyberark/SkyArk)
@@ -70,6 +75,7 @@ Links related to Azure Security.
 - [Create an AD DS resource forest in Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adds-forest)
 - [Extend on-premises AD FS to Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adfs)
 - [How to Decide Between Azure AD Connect and Azure AD Connect Cloud Sync](https://blog.expta.com/2021/03/new-article-how-to-decide-between-azure.html?m=1)
+- [Common Conditional Access policy: Sign-in risk-based multifactor authentication](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-risk?WT.mc_id=DT-MVP-5001664)
 
 ## Managed Identities / Service Principals
 - [Azure API Management, Key Vault and Managed Identities](https://madeofstrings.com/2019/06/13/azure-api-management-key-vault-and-managed-identities/)
@@ -105,6 +111,7 @@ Links related to Azure Security.
 
 ## MFA
 - [Manage multi-factor authentication (MFA) enforcement on your subscriptions](https://docs.microsoft.com/en-us/azure/security-center/security-center-identity-access)
+- [https://learningbydoing.cloud/blog/defend-against-mfa-phishing-azuread/](https://learningbydoing.cloud/blog/defend-against-mfa-phishing-azuread/)
 
 ## Azure Security Center(ASC)
 - [What's new in Azure Security Center?](https://docs.microsoft.com/en-us/azure/security-center/release-notes)
@@ -118,19 +125,33 @@ Links related to Azure Security.
 - [Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw&list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
 - [Introduction to granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/gdap-introduction)
 
-## Sentinel
+## Sentinel / SIEM
 - [Secure Slack connectivity for Sentinel](https://github.com/msvdpriya/SecureSlackWithAzureSentinel)
 - [Design your Microsoft Sentinel workspace architecture](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)
 - [Attack Surface Reduction Dashboard for Microsoft Sentinel](https://danielchronlund.com/2022/06/15/attack-surface-reduction-dashboard-for-microsoft-sentinel/)
 - [Cost Workbook](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/AzureSentinelCost.json)
+- [Leveraging SIEM and XDR capabilities](https://learn.microsoft.com/en-gb/security/operations/siem-xdr-overview#leveraging-siem-and-xdr-capabilities)
 
 ## Defender For Cloud
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)
 - [Top 3 favorite capabilities in Microsoft Defender for Cloud](https://zimmergren-net.cdn.ampproject.org/c/s/zimmergren.net/top-capabilities-in-microsoft-defender-for-cloud/amp/)
 - [Getting Started with Microsoft Defender for Cloud](https://adamtheautomator.com/microsoft-defender-for-cloud/)
+- [Section 6 – Mitigate threats using Microsoft Defender for Cloud – Implement and maintain cloud security posture management and workload protection](https://www.cloudpartner.fi/?p=13436)
+- [Sign up for Microsoft Defender Vulnerability Management](https://learn.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-management/get-defender-vulnerability-management?view=o365-worldwide)
+- [Microsoft DevOps Security in Defender for Cloud for Azure DevOps](https://nicholaschangblog.com/azure-devops/microsoft-devops-security-in-defender-for-cloud-for-azure-devops-and-github/)
+- [Kill Chain PaaS IaaS](https://raw.githubusercontent.com/JadKaraki/M365ZeroTrust/main/Kill%20chain%20Paas%20IaaS.jpg)
+
+## Defender For Storage
+- [Overview of Microsoft Defender for Storage](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-introduction)
 
 ## Defender For Endpoint
 - [MDE Series](https://jeffreyappel.nl/tag/mde-series/)
 
+## Defender For Identity
+- [Test-MdiReadiness.ps1](https://github.com/microsoft/Microsoft-Defender-for-Identity/tree/main/Test-MdiReadiness)
+
 ## Azure Security Benchmark
 - [What’s new: Azure Security Benchmark Workbook update](https://devblogs.microsoft.com/azuregov/whats-new-azure-security-benchmark-workbook-update/)
+
+## Defender For Server
+- [Microsoft Defender for Server Reference Architecture and Deployment Guide](https://azurecloudai.blog/2023/05/11/microsoft-defender-for-server-reference-architecture-and-deployment-guide/amp/)
