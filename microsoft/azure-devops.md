@@ -85,3 +85,6 @@ Links related to Azure DevOps.
 
 ## Terraform
 - [Terraform on Azure](https://github.com/thomast1906/terraform-on-azure)
+
+##FinOps
+- [FinOps review assessment](https://aka.ms/finops/review)

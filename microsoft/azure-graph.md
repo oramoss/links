@@ -8,3 +8,4 @@ Links related to Azure Graph.
 - [Get MFA Status of Office 365 Users Using Microsoft Graph PowerShell](https://o365reports.com/2022/04/27/get-mfa-status-of-office-365-users-using-microsoft-graph-powershell/)
 - [AzADServicePrincipalInsights](https://github.com/JulianHayward/AzAdServicePrincipalInsights)
 - [Find Azure AD and MSOnline cmdlets in Microsoft Graph PowerShell](https://learn.microsoft.com/en-us/powershell/microsoftgraph/azuread-msoline-cmdlet-map?view=graph-powershell-1.0)
+- [Connect to Microsoft Graph PowerShell using an App Registration](https://helloitsliam.com/2022/04/20/connect-to-microsoft-graph-powershell-using-an-app-registration/)

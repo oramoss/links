@@ -22,3 +22,4 @@ Links related to Azure Cloud Adoption Framework.
 - [Azure Quick Review](https://luke.geek.nz/azure/azure-quick-review/)
 - [Naming abbreviations](https://www.jlaundry.nz/2022/azure_region_abbreviations/)
 - [Readying your landing zone for migration](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/ready-alz)
+- [Monitor Azure platform landing zone components](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/management-monitor)

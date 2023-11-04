@@ -1,9 +1,14 @@
 # Azure Security
 Links related to Azure Security.
 
+## CSP
+- [GDAP](https://learn.microsoft.com/en-us/partner-center/gdap-introduction)
+
 ## Conditional Access
 - [Conditional Access templates (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common#conditional-access-templates-preview)
 - [Conditional Access for workload identities preview](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/workload-identity)
+- [Overview of Azure AD (Conditional Access) automation](https://www.cloud-architekt.net/conditional-access-automation/)
+- [Conditional Access – Common Microsoft 365 Security Mistakes Series](https://azurepremium.atlassian.net/servicedesk/customer/portal/3)
 
 ## Architecture
 - [Map threats to your IT environment](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/map-threats-it-environment)
@@ -12,6 +17,7 @@ Links related to Azure Security.
 - [Build the second layer of defense with Microsoft 365 Defender Security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-build-second-layer-defense)
 - [Integrate Azure and Microsoft 365 Defender security services](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/microsoft-365-defender-security-integrate-azure)
 - [Setting Up Your Cloud Account Infrastructure: Best Practices for Success](https://levelup.gitconnected.com/setting-up-your-cloud-account-infrastructure-best-practices-for-success-cd03d6b6e80f)
+- [Monitor hybrid security using Microsoft Defender for Cloud and Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-security-monitoring)
 
 ## General
 - [Blog Series: Email Protection Basics](https://techcommunity.microsoft.com/t5/exchange-team-blog/blog-series-email-protection-basics/ba-p/3809646)
@@ -76,6 +82,7 @@ Links related to Azure Security.
 - [Extend on-premises AD FS to Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adfs)
 - [How to Decide Between Azure AD Connect and Azure AD Connect Cloud Sync](https://blog.expta.com/2021/03/new-article-how-to-decide-between-azure.html?m=1)
 - [Common Conditional Access policy: Sign-in risk-based multifactor authentication](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-risk?WT.mc_id=DT-MVP-5001664)
+- [Authentication Flows](https://learn.microsoft.com/en-us/entra/identity-platform/authentication-flows-app-scenarios#scenarios-and-supported-authentication-flows)
 
 ## Managed Identities / Service Principals
 - [Azure API Management, Key Vault and Managed Identities](https://madeofstrings.com/2019/06/13/azure-api-management-key-vault-and-managed-identities/)
@@ -131,6 +138,9 @@ Links related to Azure Security.
 - [Attack Surface Reduction Dashboard for Microsoft Sentinel](https://danielchronlund.com/2022/06/15/attack-surface-reduction-dashboard-for-microsoft-sentinel/)
 - [Cost Workbook](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/AzureSentinelCost.json)
 - [Leveraging SIEM and XDR capabilities](https://learn.microsoft.com/en-gb/security/operations/siem-xdr-overview#leveraging-siem-and-xdr-capabilities)
+- [Sentinel optimisation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489)
+- [Microsoft Entra ID Honeypot Accounts with Microsoft Sentinel](https://danielchronlund.com/2023/08/01/microsoft-entra-id-honeypot-accounts-with-microsoft-sentinel/)
+- [Microsoft Sentinel SOC 101: How to Detect and Mitigate Login Attempts Using Legacy Auth with Microsoft Sentinel](https://rodtrent.substack.com/p/microsoft-sentinel-soc-101-how-to-455)
 
 ## Defender For Cloud
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)
@@ -140,6 +150,7 @@ Links related to Azure Security.
 - [Sign up for Microsoft Defender Vulnerability Management](https://learn.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-management/get-defender-vulnerability-management?view=o365-worldwide)
 - [Microsoft DevOps Security in Defender for Cloud for Azure DevOps](https://nicholaschangblog.com/azure-devops/microsoft-devops-security-in-defender-for-cloud-for-azure-devops-and-github/)
 - [Kill Chain PaaS IaaS](https://raw.githubusercontent.com/JadKaraki/M365ZeroTrust/main/Kill%20chain%20Paas%20IaaS.jpg)
+- [Microsoft Defender for Cloud - Automate Notifications when new Attack Paths are created](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-automate-notifications-when-new/ba-p/3832385?WT.mc_id=AZ-MVP-5004291)
 
 ## Defender For Storage
 - [Overview of Microsoft Defender for Storage](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-introduction)
@@ -155,3 +166,6 @@ Links related to Azure Security.
 
 ## Defender For Server
 - [Microsoft Defender for Server Reference Architecture and Deployment Guide](https://azurecloudai.blog/2023/05/11/microsoft-defender-for-server-reference-architecture-and-deployment-guide/amp/)
+
+## Zero Trust
+- [Apply Zero Trust principles to a spoke virtual network with Azure PaaS Services](https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-paas)

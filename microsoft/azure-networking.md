@@ -153,6 +153,7 @@ Links related to Azure Networking.
 - [Azure App Service Authentication with Azure Front Door](https://vincentlauzon.com/2019/07/17/azure-app-service-authentication-with-azure-front-door/)
 - [Zero downtime migration for Azure Front Door—now in preview](https://azure.microsoft.com/en-us/blog/zero-downtime-migration-for-azure-front-door-now-in-preview/)
 - [How Azure Front Door cache can help protect against DDoS attacks](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-azure-front-door-cache-can-help-protect-against-ddos-attacks/ba-p/3703272)
+- [Why you should care about Azure Front Door Standard and Premium](https://www.cloudwithchris.com/blog/azure-front-door-standard-premium/)
 
 ## App Service
 - [Azure App Service, Private Endpoint, and Application Gateway/WAF](https://aidanfinn.com/?p=22210)

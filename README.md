@@ -44,6 +44,7 @@ This repository has a list of links to various articles, books, videos, blogs an
 - [Azure Security](./microsoft/azure-security.md)
 - [Azure Storage](./microsoft/azure-storage.md)
 - [Azure Synapse](./microsoft/azure-synapse.md)
+- [Azure Terraform](./microsoft/azure-terraform.md)
 - [Azure VM](./microsoft/azure-vm.md)
 - [MSP-CSP](./microsoft/MSP-CSP.md)
 - [Powershell](./microsoft/powershell.md)

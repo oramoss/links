@@ -3,6 +3,7 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 
 ## Entra
 - [Microsoft Entra External ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id)
+- [What's lurking in your Microsoft Graph app role assignments?](https://learningbydoing.cloud/blog/audit-ms-graph-app-role-assignments/)
 
 ## Roles
 - [What's the difference between Azure roles and Azure AD roles?](https://techcommunity.microsoft.com/t5/itops-talk-blog/what-s-the-difference-between-azure-roles-and-azure-ad-roles/ba-p/2363647)
@@ -19,6 +20,8 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Dynamic Groups in AD](https://www.youtube.com/watch?v=wM9A-Bum-E8)
 
 # Miscellaneous
+- [How to use azure logic app to update AAD user’s password automatically](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/how-to-use-azure-logic-app-to-update-aad-user-s-password/ba-p/3958140)
+- [Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment/wiki)
 - [John Savill - Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
 - [Deep Diver – Azure AD Conditional Access authentication context setup for custom apps and MS Cloud App Security](https://securecloud.blog/2021/05/22/deep-diver-azure-ad-conditional-access-authentication-context-setup-for-custom-apps-and-ms-cloud-app-security/amp/)
 - [Azure AD Exporter](https://github.com/microsoft/azureadexporter/)
@@ -41,3 +44,5 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 
 # Cloud Sync
 - [What is Azure AD Connect cloud sync?](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync)
+- [Cloud sync deep dive - how it works](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/concept-how-it-works)
+

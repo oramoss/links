@@ -30,3 +30,4 @@ Links related to Bicep.
 - [Azure bicep – Find an item in an array of objects](https://arinco.com.au/blog/azure-bicep-find-an-item-in-an-array-of-objects/)
 - [Create an App Service for Containers with Bicep](https://samcogan.com/creating-an-azure-web-app-or-function-running-a-container-with-bicep/)
 - [Introduction to Azure Landing Zones Bicep](https://www.youtube.com/watch?v=-pZNrH1GOxs)
+- [Use deployment scripts to check resource properties](https://learn.microsoft.com/en-us/azure/architecture/guide/devops/deployment-scripts-property-check)
