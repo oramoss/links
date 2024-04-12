@@ -20,6 +20,8 @@ Links related to Active Directory (AD) and Azure Active Directory (AAD).
 - [Dynamic Groups in AD](https://www.youtube.com/watch?v=wM9A-Bum-E8)
 
 # Miscellaneous
+- [AAD User Scripts / CMDlets](https://github.com/chadmcox/Azure_Active_Directory/blob/master/Users/readme.md#get-a-list-of-users-that-are-more-than-likely-enabled-shared-mailboxes)
+- [Introducing AD FS Application Migration: Your Path to Simplicity and Security](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/introducing-ad-fs-application-migration-your-path-to-simplicity/ba-p/3980232)
 - [How to use azure logic app to update AAD user’s password automatically](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/how-to-use-azure-logic-app-to-update-aad-user-s-password/ba-p/3958140)
 - [Azure AD Assessment](https://github.com/AzureAD/AzureADAssessment/wiki)
 - [John Savill - Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)

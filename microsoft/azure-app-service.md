@@ -8,6 +8,7 @@ Links related to Azure App Service.
 - [Host Multiple Application In a Single Azure App Service](https://www.c-sharpcorner.com/blogs/host-multiple-application-in-a-single-azure-app-service)
 - [Path based routing in Azure Application Gateway with Azure WebApps](https://www.domstamand.com/path-based-routing-in-azure-application-gateway-with-azure-webapps/)
 - [addresses with Azure App Service](https://www.azureblue.io/how-to-use-fix-ips-with-azure-app-service/)
+- [App Service Slots](https://www.jeanpaulsmit.com/2020/02/azure-app-service-deployment-slots/)
 
 ## Migration
 - [Migrate your .NET web app or service to Azure App Service](https://docs.microsoft.com/en-us/dotnet/azure/migration/app-service)
@@ -48,3 +49,4 @@ Links related to Azure App Service.
 - [Add File Storage to Azure App Services: The Work Around](https://www.codemag.com/Article/1909101/Add-File-Storage-to-Azure-App-Services-The-Work-Around)
 - [SiteConfig - AppSettings: Is there a way to do defaults so existing values don't get overwritten](https://github.com/Azure/bicep/discussions/5603)
 - [Merge App Settings With Bicep](http://blog.dotnetstudio.nl/posts/2021/04/merge-appsettings-with-bicep/)
+- [5 Ways to Handle Application Configuration & Secrets With Azure](https://www.rahulpnath.com/blog/handling-application-configuration/#1-azure-devops-variables)

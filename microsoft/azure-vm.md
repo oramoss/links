@@ -4,6 +4,8 @@ Links related to Virtual Machine.
 ## Miscellaneous
 - [VM Selector](https://azure.microsoft.com/en-us/pricing/vm-selector/)
 - [Creating a Custom and Secure Azure Portal Offering](https://techcommunity.microsoft.com/t5/azure-architecture-blog/creating-a-custom-and-secure-azure-portal-offering/ba-p/3038344)
+- [Windows Autopatch Guide](https://emsroute.com/windowsautopatchguide01/)
+- [Azure Monitor SCOM Managed Instance opens up deep monitoring from the cloud](https://blog.topqore.com/azure-monitor-scom-managed-instance-opens-up-deep-monitoring-from-the-cloud/)
 
 ## Capabilities
 - [Automanage VM](https://www.thomasmaurer.ch/2020/10/automanage-for-azure-virtual-machines/)

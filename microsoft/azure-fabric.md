@@ -9,6 +9,8 @@ Links related to Azure Fabric.
 - [Manage a workspace with git](https://learn.microsoft.com/en-us/fabric/cicd/git-integration/git-get-started?tabs=commit-to-git)
 - [Introducing git integration in Microsoft Fabric for seamless source control management](https://blog.fabric.microsoft.com/en-us/blog/introducing-git-integration-in-microsoft-fabric-for-seamless-source-control-management)
 - [What is Microsoft Fabric? An Introduction](https://www.advancinganalytics.co.uk/blog/2023/5/17/what-is-microsoft-fabric)
+- [Calling a Power BI REST API from a Fabric Notebook](https://darren.gosbell.com/2023/06/calling-a-power-bi-rest-api-from-a-fabric-notebook/)
+- [Code snippets and guides to use Microsoft Fabric Capacity Management](https://github.com/nocsi-zz/fabric-capacity-management/tree/main)
 
 ## Data Engineering
 - [Get Started with Microsoft Fabric – All in-one place for all your Analytical needs…. Part 1](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/get-started-with-microsoft-fabric-all-in-one-place-for-all-your/ba-p/3830387)
@@ -16,6 +18,7 @@ Links related to Azure Fabric.
 - [Microsoft Fabric – Microsoft Fabric – Criteria to make decision – Part 3](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/microsoft-fabric-microsoft-fabric-criteria-to-make-decision-part/ba-p/3847511)
 - [A Complete Guide to Git Integration in Power BI](https://stuffbyyuki.com/a-complete-guide-to-git-integration-in-power-bi/)
 - [Time-Travelling through data: The Magic of Table clones](https://blog.fabric.microsoft.com/en-US/blog/time-travelling-through-data-the-magic-of-table-clones/)
+- [Real-Time Analytics Tutorial- Introduction](https://learn.microsoft.com/en-us/fabric/real-time-analytics/tutorial-introduction)
 
 ## PowerBI
 - [Licensing calculator](https://data-witches.com/2023/08/22/power-bi-licensing-calculator/)

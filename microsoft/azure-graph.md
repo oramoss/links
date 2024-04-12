@@ -9,3 +9,5 @@ Links related to Azure Graph.
 - [AzADServicePrincipalInsights](https://github.com/JulianHayward/AzAdServicePrincipalInsights)
 - [Find Azure AD and MSOnline cmdlets in Microsoft Graph PowerShell](https://learn.microsoft.com/en-us/powershell/microsoftgraph/azuread-msoline-cmdlet-map?view=graph-powershell-1.0)
 - [Connect to Microsoft Graph PowerShell using an App Registration](https://helloitsliam.com/2022/04/20/connect-to-microsoft-graph-powershell-using-an-app-registration/)
+- [Graph CLI v1 available...](https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-cli-v1-0-0-is-now-generally-available/)
+- [Using Graph API and Managed Identities](https://ourcloudnetwork.com/how-to-use-connect-mggraph-identity-with-managed-identities/)

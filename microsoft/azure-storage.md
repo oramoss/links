@@ -8,6 +8,9 @@ Links related to Microsoft Storage.
 - [Overview of Azure Disk Backup (in preview)](https://docs.microsoft.com/en-us/azure/backup/disk-backup-overview)
 - [How to map Azure Disks to Windows VM guest disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/azure-to-guest-disk-mapping?tabs=azure-cli)
 
+## Security
+- [Disabling key-based access for Azure storage does not completely disable key-based access for Azure storage](https://davidokeyode.medium.com/disabling-key-based-access-for-azure-storage-does-not-completely-disable-key-based-access-for-a7a3ffee3e14)
+
 ## Blob
 - [Azure Block Blob Storage Backup](https://azure.microsoft.com/en-us/blog/microsoft-azure-block-blob-storage-backup/)
 - [Enable soft delete for blobs](https://docs.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-enable?tabs=azure-portal)

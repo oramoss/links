@@ -16,6 +16,7 @@ Links related to Azure Automation.
 
 # Miscellaneous
 - [Deploying Azure Subscriptions, as Code](https://theautomationdude.github.io/blog/posts/deployazsubscriptionsascode/)
+- [Auto-Sync PowerShell Modules of Azure Automation Hybrid Workers from Automation Account.](https://bhargavacharychollaty.medium.com/auto-sync-powershell-modules-of-azure-automation-hybrid-workers-from-automation-account-7706495585ba)
 
 # Update Management
 - [Azure Tip: Set Azure Update Management scope configuration to Enable on all available and future machines](https://wmatthyssen.com/2022/03/09/azure-tip-set-azure-update-management-scope-configuration-to-enable-on-all-available-and-future-machines/)

@@ -20,3 +20,4 @@ Links related to Azure API Management Service (APIM).
 
 ## Miscellaneous
 - [Azure API Management (APIM) - Big Picture View](https://github.com/nehalineogi/azure-cross-solution-network-architectures/blob/main/apim/README-common.md)
+- [APIM Hands on lab](https://azure.github.io/apim-lab/)

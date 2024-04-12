@@ -2,6 +2,7 @@
 Links related to Bicep.
 
 ## Miscellaneous
+- [Use date-time as resource tag value with Bicep templates](https://www.markou.me/2021/08/use-date-time-as-resource-tag-value-with-bicep-templates/)
 - [Bicep - Why do we need yet another way to deploy stuff in Azure?](https://markheath.net/post/bicep)
 - [How to deploy Azure Policy with Bicep](https://andrewmatveychuk.com/how-to-deploy-azure-policy-with-bicep/)
 - [Bicep GitHub](https://github.com/Azure/bicep)

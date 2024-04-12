@@ -34,6 +34,7 @@ Links related to Azure Monitoring.
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [Using the KQL query results to find the exact registry setting to remediate security configurations](https://www.catapultsystems.com/blogs/using-the-kql-query-results-to-find-the-exact-registry-setting-to-remediate-security-configurations/)
 - [KQL Cheat Sheet](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404)
+- [Azure Data Explorer KQL cheat sheets](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-kql-cheat-sheets/ba-p/1057404)
 
 ## Workbooks
 - [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198?utm_content=bufferc0056&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
@@ -42,6 +43,7 @@ Links related to Azure Monitoring.
 
 ## Log Analytics Workspaces
 - [Utilizing Azure Log Analytics Workspace for Azure Storage Account Logs](https://visualbi.com/blogs/microsoft/powerbi/utilizing-azure-log-analytics-workspace-azure-storage-account-logs/)
+- [Demystifying Log Collection in Azure: Navigating Windows and Linux Server Logging for Microsoft Sentinel](https://cybermohr.ghost.io/2023/12/15/non-azure-server-log-ingestion/amp/)
 
 ## General
 - [Log Analytics Design and Access](https://www.shankuehn.io/post/log-analytics-design-and-access?WT.mc_id=enterprise-0000-shkuehn)
@@ -67,3 +69,4 @@ Links related to Azure Monitoring.
 - [Planning the Monitoring of my hybrid environment](https://techcommunity.microsoft.com/t5/itops-talk-blog/planning-the-monitoring-of-my-hybrid-environment/ba-p/3596732)
 - [Supported metrics with Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-supported#microsoftcomputecloudservices)
 - [Roles, permissions, and security in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security#monitoring-reader)
+- [Azure Monitor SCOM Managed Instance opens up deep monitoring from the cloud](https://blog.topqore.com/azure-monitor-scom-managed-instance-opens-up-deep-monitoring-from-the-cloud/)

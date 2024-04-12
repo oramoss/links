@@ -105,3 +105,5 @@ Links related to Azure Windows Virtual Desktop.
 - [Setting up Azure Monitor with Log Analytics for Azure Virtual Desktop](https://terenceluk.blogspot.com/2022/04/setting-up-azure-monitor-with-log.html)
 - [Microsoft Intune user scope configuration for Azure Virtual Desktop multi-session VMs is now GA](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/microsoft-intune-user-scope-configuration-for-azure-virtual/ba-p/3667410)
 - [Announcing public preview of Private Link for Azure Virtual Desktop](https://techcommunity.microsoft.com/t5/azure-virtual-desktop/announcing-public-preview-of-private-link-for-azure-virtual/m-p/3671226#M10067)
+- [I Removed All The Apps in AVD...Here's What Happened](https://www.youtube.com/watch?v=NtzRiZAJAHw)
+- [SSO for Azure Virtual Desktop with AD users](https://www.beckmann.ch/blog/2023/11/29/sso-for-azure-virtual-desktop-with-ad-users/?lang=en)

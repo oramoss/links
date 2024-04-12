@@ -6,6 +6,7 @@ This repository has a list of links to various articles, books, videos, blogs an
 ### Microsoft
 - [Azure CLI](./microsoft/az-cli.md)
 - [Azure AD](./microsoft/azure-AD.md)
+- [Azure AI](./microsoft/azure-AI.md)
 - [Azure Data Factory (ADF)](./microsoft/azure-adf.md)
 - [Azure Kubernetes Service (AKS)](./microsoft/azure-aks.md)
 - [Azure API Management Service](./microsoft/azure-apim.md)
@@ -39,6 +40,8 @@ This repository has a list of links to various articles, books, videos, blogs an
 - [Azure Networking](./microsoft/azure-networking.md)
 - [Azure Policy](./microsoft/azure-policy.md)
 - [Azure Portal](./microsoft/azure-portal.md)
+- [Azure PowerBI](./microsoft/azure-powerBI.md)
+- [Azure Powershell](./microsoft/azure-powershell.md)
 - [Azure Purview](./microsoft/azure-purview.md)
 - [Azure Resiliency](./microsoft/azure-resiliency.md)
 - [Azure Security](./microsoft/azure-security.md)

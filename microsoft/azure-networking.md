@@ -145,6 +145,7 @@ Links related to Azure Networking.
 - [Multi Hub and Spoke Topology using Azure Firewalls](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/multi-hub-and-spoke-topology-using-azure-firewalls/ba-p/3811148)
 
 ## Front Door
+- [Azure Front Door - domain fronting demo and explanation - Adam Stuart](https://www.youtube.com/watch?v=4xetfIPCG84)
 - [Front Door APIM Service](https://github.com/MassimoC/front-door-apim-appservice)
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)
 - [Azure Front Door (AFD) & App Gateway + App Service (Web App) unexpected issues and common solutions](https://patrickob.com/2022/04/06/azure-front-door-afd-app-gateway-app-service-unexpected-issues/)

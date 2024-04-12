@@ -1,6 +1,14 @@
 # Azure Security
 Links related to Azure Security.
 
+## Reset
+- [SSPR Reset](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup)
+
+## Governance / Standards
+- [ACSC Essential Eight](https://learn.microsoft.com/en-us/compliance/essential-eight/e8-overview)
+- [Silhouette security distance metrics - minimising RBAC across estate](https://github.com/labyrinthinesecurity/silhouette)
+- [Threat Matrix for storage](https://microsoft.github.io/Threat-matrix-for-storage-services/)
+
 ## CSP
 - [GDAP](https://learn.microsoft.com/en-us/partner-center/gdap-introduction)
 
@@ -20,6 +28,8 @@ Links related to Azure Security.
 - [Monitor hybrid security using Microsoft Defender for Cloud and Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-security-monitoring)
 
 ## General
+- [How to manage break-glass accounts in Microsoft Entra ID](https://www.cswrld.com/2023/12/how-to-manage-break-glass-accounts-in-microsoft-entra-id/)
+- [Using Graph API and Managed Identities](https://ourcloudnetwork.com/how-to-use-connect-mggraph-identity-with-managed-identities/)
 - [Blog Series: Email Protection Basics](https://techcommunity.microsoft.com/t5/exchange-team-blog/blog-series-email-protection-basics/ba-p/3809646)
 - [Azure Attack Paths](https://cloudbrothers.info/en/azure-attack-paths/)
 - [Alert when a group is added to a sensitive Active Directory group](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868?WT.mc_id=modinfra-00000-rotrent)
@@ -51,6 +61,7 @@ Links related to Azure Security.
 - [Export Certificate with password from Azure Key Vault](https://coombes.nz/blog/azure-keyvault-export-certificate/)
 - [Network Security Dashboard for Security Center](https://github.com/Azure/Azure-Security-Center/tree/main/Workbooks/Network%20Security%20Dashboard)
 - [AzureGoat : A Damn Vulnerable Azure Infrastructure](https://github.com/ine-labs/AzureGoat)
+- [Prowler](https://github.com/prowler-cloud/prowler?tab=readme-ov-file)
 
 ## RBAC
 - [Azure built-in roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
@@ -66,7 +77,7 @@ Links related to Azure Security.
 ## NSG
 - [Network Security Group Monitoring](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/network-security-group-monitoring/ba-p/2106308)
 
-## Active Directory
+## Active Directory / Entra
 - [AD DS Pricing](https://azure.microsoft.com/en-gb/pricing/details/active-directory-ds/)
 - [AD DS Template Create Instance](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/template-create-instance)
 - [AD DS Tempate](https://docs.microsoft.com/en-us/azure/templates/microsoft.aad/2020-01-01/domainservices)
@@ -83,6 +94,9 @@ Links related to Azure Security.
 - [How to Decide Between Azure AD Connect and Azure AD Connect Cloud Sync](https://blog.expta.com/2021/03/new-article-how-to-decide-between-azure.html?m=1)
 - [Common Conditional Access policy: Sign-in risk-based multifactor authentication](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-risk?WT.mc_id=DT-MVP-5001664)
 - [Authentication Flows](https://learn.microsoft.com/en-us/entra/identity-platform/authentication-flows-app-scenarios#scenarios-and-supported-authentication-flows)
+- [Microsoft Entra Private Access protections for on-premises & private cloud network resources](https://www.youtube.com/watch?v=_dw2JVqA4E8)
+- [EntraID Authentiocation Method Report for MFA, PasswordLess, SSPR](https://www.youtube.com/watch?v=x9On4XCxVLw)
+- [Deploy secret-less Conditional Access policies with Microsoft Entra ID Workload Identity Federation](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/deploy-secret-less-conditional-access-policies-with-microsoft/ba-p/3997289?WT.mc_id=academic-0000-abartolo)
 
 ## Managed Identities / Service Principals
 - [Azure API Management, Key Vault and Managed Identities](https://madeofstrings.com/2019/06/13/azure-api-management-key-vault-and-managed-identities/)
@@ -112,6 +126,9 @@ Links related to Azure Security.
 - [Azure Network Security webinar: Protecting your web apps with Azure Web Application Firewall (WAF)](https://www.youtube.com/watch?v=r8jUY6t0JVE)
 - [Tutorial: Get started with Azure WAF investigation Notebook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/tutorial-get-started-with-azure-waf-investigation-notebook/ba-p/3733438)
 
+## AFD
+- [Azure Front Door - domain fronting demo and explanation - Adam Stuart](https://www.youtube.com/watch?v=4xetfIPCG84)
+
 ## Private Endpoint
 - [Use private endpoints for Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints)
 - [Use the Azure portal to restrict import/export access for managed disks with Private Links](https://docs.microsoft.com/en-us/azure/virtual-machines/disks-enable-private-links-for-import-export-portal)
@@ -119,6 +136,7 @@ Links related to Azure Security.
 ## MFA
 - [Manage multi-factor authentication (MFA) enforcement on your subscriptions](https://docs.microsoft.com/en-us/azure/security-center/security-center-identity-access)
 - [https://learningbydoing.cloud/blog/defend-against-mfa-phishing-azuread/](https://learningbydoing.cloud/blog/defend-against-mfa-phishing-azuread/)
+- [TalesFromTheCyberFront: Passwordless and Why It Matters](https://www.linkedin.com/pulse/talesfromthecyberfront-passwordless-why-matters-kay-daskalakis-lkdye/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 
 ## Azure Security Center(ASC)
 - [What's new in Azure Security Center?](https://docs.microsoft.com/en-us/azure/security-center/release-notes)
@@ -131,8 +149,10 @@ Links related to Azure Security.
 - [Demystifying Service Principals – Managed Identities](https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/)
 - [Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw&list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
 - [Introduction to granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/gdap-introduction)
+- [The “Real” Root Management Group](https://journeyofthegeek.com/2023/11/17/the-real-root-management-group/)
 
 ## Sentinel / SIEM
+- [Introduction to Sentinel](https://ryanperr.in/2024/01/02/microsoft-sentinel-introduction/)
 - [Secure Slack connectivity for Sentinel](https://github.com/msvdpriya/SecureSlackWithAzureSentinel)
 - [Design your Microsoft Sentinel workspace architecture](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)
 - [Attack Surface Reduction Dashboard for Microsoft Sentinel](https://danielchronlund.com/2022/06/15/attack-surface-reduction-dashboard-for-microsoft-sentinel/)
@@ -141,8 +161,9 @@ Links related to Azure Security.
 - [Sentinel optimisation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489)
 - [Microsoft Entra ID Honeypot Accounts with Microsoft Sentinel](https://danielchronlund.com/2023/08/01/microsoft-entra-id-honeypot-accounts-with-microsoft-sentinel/)
 - [Microsoft Sentinel SOC 101: How to Detect and Mitigate Login Attempts Using Legacy Auth with Microsoft Sentinel](https://rodtrent.substack.com/p/microsoft-sentinel-soc-101-how-to-455)
+- [Introducing a Unified Security Operations Platform with Microsoft Sentinel and Defender XDR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-a-unified-security-operations-platform-with/ba-p/3983341)
 
-## Defender For Cloud
+## Defender For Cloud (MDC)
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622?WT.mc_id=modinfra-0000-rotrent)
 - [Top 3 favorite capabilities in Microsoft Defender for Cloud](https://zimmergren-net.cdn.ampproject.org/c/s/zimmergren.net/top-capabilities-in-microsoft-defender-for-cloud/amp/)
 - [Getting Started with Microsoft Defender for Cloud](https://adamtheautomator.com/microsoft-defender-for-cloud/)
@@ -151,6 +172,8 @@ Links related to Azure Security.
 - [Microsoft DevOps Security in Defender for Cloud for Azure DevOps](https://nicholaschangblog.com/azure-devops/microsoft-devops-security-in-defender-for-cloud-for-azure-devops-and-github/)
 - [Kill Chain PaaS IaaS](https://raw.githubusercontent.com/JadKaraki/M365ZeroTrust/main/Kill%20chain%20Paas%20IaaS.jpg)
 - [Microsoft Defender for Cloud - Automate Notifications when new Attack Paths are created](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-automate-notifications-when-new/ba-p/3832385?WT.mc_id=AZ-MVP-5004291)
+- [Microsoft-Defender-for-Cloud MS Repo](https://github.com/Azure/Microsoft-Defender-for-Cloud)
+- [Microsoft Defender for Storage – Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-storage-price-estimation-dashboard/ba-p/2429724)
 
 ## Defender For Storage
 - [Overview of Microsoft Defender for Storage](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-introduction)

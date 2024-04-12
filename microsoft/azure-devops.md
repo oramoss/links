@@ -74,6 +74,7 @@ Links related to Azure DevOps.
 - [How to securely use variables and parameters in your pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/security/inputs?view=azure-devops)
 - [Creating templates in Azure DevOps Pipelines](https://thomasthornton.cloud/2021/08/16/creating-templates-in-azure-devops-pipelines/)
 - [Getting secrets from Key Vault in YAML pipeline](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/getting-secrets-from-key-vault-in-yaml-pipeline/ba-p/3604759)
+- [5 Ways to Handle Application Configuration & Secrets With Azure](https://www.rahulpnath.com/blog/handling-application-configuration/#1-azure-devops-variables)
 - [Perfecting Continuous Delivery of NuGet packages for Azure Artifacts](https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2019/06/18/perfecting-continuous-delivery-of-nuget-packages-for-azure-artifacts/)
 - [Automatic Semantic Versioning using GitVersion, Git hook, Azure DevOps and Merge (no FF) Pullrequest Merge type](https://raaviblog.com/automatic-semantic-versioning-using-gitversion-git-hook-azure-devops-and-merge-no-ff-pullrequest-merge-type/)
 - [Continuous Delivery of your NuGet Packages with VSTS](https://blogs.like10.com/2018/01/21/continuous-delivery-of-your-nuget-packages-with-vsts/)
